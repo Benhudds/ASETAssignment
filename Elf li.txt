@@ -1,0 +1,7 @@
+li	 Deposited toy BRACELET on belt 1
+li	 Deposited toy FAKETATTOO on belt 1
+li	 Deposited toy FAKETATTOO on belt 2
+li	 Deposited toy TRAIN on belt 2
+li	 Deposited toy WHISTLE on belt 2
+li	 Deposited toy WHISTLE on belt 2
+li	 Deposited toy DOLL on belt 2

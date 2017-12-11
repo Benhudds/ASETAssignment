@@ -11,5 +11,19 @@ package co3401assignment;
  */
 public class Present {
     private PresentType typeOfToy;
-    private int ageGroup;
+    private int age;
+    
+    public PresentType getPresentType(){
+        return typeOfToy;
+    }
+    
+    
+    public int getAge() {
+        return age;
+    }
+    
+    public Present(PresentType type, int age) {
+        typeOfToy = type;
+        this.age = age;
+    }
 }

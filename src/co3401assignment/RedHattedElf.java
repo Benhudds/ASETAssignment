@@ -5,6 +5,8 @@
  */
 package co3401assignment;
 
+import java.util.List;
+import java.util.Set;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
@@ -12,6 +14,8 @@ import java.util.concurrent.ThreadLocalRandom;
  * @author Ben
  */
 public class RedHattedElf extends Elf {
+    
+    private List<ConveyorBelt> conveyors;
     
     private int totalGiftsPlacedOnConveyor;
     
@@ -31,16 +35,51 @@ public class RedHattedElf extends Elf {
         return totalTimesReindeerFed;
     }
     
-    @Override
-    public void run(){
-        
+    public RedHattedElf(String name, List<ConveyorBelt> conveyors) {
+        super(name);
+        this.conveyors = conveyors;
     }
     
-    private PresentType selectToy()
+    @Override
+    public void run(){
+        while(!stopped) {
+            try {
+            placePresent(selectToy());
+            } catch (InterruptedException e) {
+                
+            }
+        }
+    }
+    
+    private void placePresent(Present newPresent) {
+        ConveyorBelt conveyor = selectConveyorBelt();
+        try {
+            long startTime = System.currentTimeMillis();
+            conveyor.enqueue(newPresent);
+            long endTime = System.currentTimeMillis();
+            log (name + "\t Deposited toy " + newPresent.getPresentType().toString() + " on belt " + conveyor.getId());
+            totalGiftsPlacedOnConveyor++;
+            
+        } catch (InterruptedException e) {
+            log (name + " was interrupted while placing a present");
+        }
+    }
+    
+    private ConveyorBelt selectConveyorBelt() {
+        int index =  ThreadLocalRandom.current().nextInt(0, conveyors.size());
+        return conveyors.get(index);
+    }
+    
+    
+    private Present selectToy() throws InterruptedException
     {
-        // Wait
-        int randomNum = ThreadLocalRandom.current().nextInt(0, 8);
+        // Wait some random time
+        int ranSleep = ThreadLocalRandom.current().nextInt(0, 500);
+      
+        Thread.sleep(ranSleep);
         
-        return PresentType.values()[randomNum];
+        int randomNum = ThreadLocalRandom.current().nextInt(0, 6);
+        int age = ThreadLocalRandom.current().nextInt(0, 18);
+        return new Present(PresentType.values()[randomNum], age);
    }
 }
