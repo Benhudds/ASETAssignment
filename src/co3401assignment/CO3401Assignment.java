@@ -21,21 +21,23 @@ public class CO3401Assignment {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        ParcelSortingMachine psm = new ParcelSortingMachine();
-        Thread t = new Thread(psm);
-        t.start();
-     
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
+        for(int i = 0; i < 100; i++) {
+            ParcelSortingMachine psm = new ParcelSortingMachine();
+            Thread t = new Thread(psm);
+            t.start();
+
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException ex) {
+                Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+            try {
+                psm.stop();
+            } catch (InterruptedException ex) {
+                Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            psm.report();
         }
-        
-        try {
-            psm.stop();
-        } catch (InterruptedException ex) {
-            Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        psm.report();
     }
 }

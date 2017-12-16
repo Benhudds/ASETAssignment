@@ -5,9 +5,14 @@
  */
 package co3401assignment;
 
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -18,14 +23,27 @@ public class Turntable implements Runnable {
     private Present currentPresent;
 
     private Map<Sack, ConveyorBelt> outputMapping;
-    private List<Sack> connectedSacks;
+    private final List<Sack> connectedSacks;
+    
     private List<ConveyorBelt> inputs;
+    private PrintStream out;
     
     public Turntable(List<ConveyorBelt> inputs, List<Sack> connectedSacks) {
         stopped = false;
         this.inputs = inputs;
         this.connectedSacks = connectedSacks;
+        
+        for(Sack s : this.connectedSacks) {
+            s.setAttachedTurntable(this);
+        }
+        
         currentPresent = null;
+        
+        try {
+            out = new PrintStream(new FileOutputStream("Turntable.txt"));
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(Elf.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
     
     public void run() {
@@ -34,9 +52,25 @@ public class Turntable implements Runnable {
                 // Poll the inputs to accept a present
                 tryInput();
             } else {
+                try {
                 // Poll the outputs
                 tryOutput();
+                } catch (InterruptedException e) {}
             }
+        }
+    }
+    
+    public void removeSack(Sack sack) {
+        // Locked to ensure safety
+        synchronized(connectedSacks) {
+            connectedSacks.remove(sack);
+        }
+    }
+    
+    public void addSack(Sack sack) {
+        // Locked to ensure safety
+        synchronized(connectedSacks) {
+            connectedSacks.add(sack);
         }
     }
     
@@ -53,16 +87,23 @@ public class Turntable implements Runnable {
         }
     }
     
-    private void tryOutput() {
+    private void tryOutput() throws InterruptedException{
         // Try outputting directly to a connected sack
-        for(Sack sack : connectedSacks) {
-            if (sack.inAgeRange(currentPresent.getAge())) {
-                if(sack.hasSpace()) {
-                    sack.insertPresent(currentPresent);
-                    currentPresent = null;
-                    return;
-                }    
-            }
+        // Locked around the collection so sacks can be safely removed (and added)
+        synchronized (connectedSacks) {
+            for(Sack sack : connectedSacks) {
+                if (sack.inAgeRange(currentPresent.getAge())) {
+                    if(sack.hasSpace()) {
+                        if (sack.getLockOrReturn()) {
+                            sack.insertPresent(currentPresent);
+                            out.println("put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack " + connectedSacks.indexOf(sack));
+                            sack.releaseLock();
+                            currentPresent = null;
+                            return;
+                        }
+                    }    
+                }
+            }        
         }
         
         // This turntable may only connect directly to sacks
@@ -88,5 +129,9 @@ public class Turntable implements Runnable {
     
     public void stop() {
         stopped = true;
+    }
+    
+    public boolean hasPresent() {
+        return currentPresent != null;
     }
 }

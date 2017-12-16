@@ -20,7 +20,8 @@ public class ParcelSortingMachine implements Runnable {
     Set<Turntable> turntables = new HashSet<Turntable>();
     List<Sack> sacks = new ArrayList<Sack>();
     
-    List<Elf> elves = new ArrayList<Elf>();
+    List<Elf> greenHattedElves = new ArrayList<Elf>();
+    List<Elf> redHattedElves = new ArrayList<Elf>();
     
     List<Thread> threads = new ArrayList<Thread>();
     
@@ -30,10 +31,12 @@ public class ParcelSortingMachine implements Runnable {
     }
     
     private void gatherElves() {
-        elves.add(new RedHattedElf("nick", belts));
-        elves.add(new RedHattedElf("chris", belts));
-        elves.add(new RedHattedElf("li", belts));
-        elves.add(new RedHattedElf("gareth", belts));
+        redHattedElves.add(new RedHattedElf("nick", belts, sacks));
+        redHattedElves.add(new RedHattedElf("chris", belts, sacks));
+        redHattedElves.add(new RedHattedElf("li", belts, sacks));
+        redHattedElves.add(new RedHattedElf("gareth", belts, sacks));
+        
+        greenHattedElves.add(new GreenHattedElf("doug", sacks));
     }
     
     private void configureMachine() {
@@ -42,12 +45,19 @@ public class ParcelSortingMachine implements Runnable {
         sacks.add(new Sack(0, 18));
         belts.add(new ConveyorBelt(1, 1));
         belts.add(new ConveyorBelt(2, 1));
+       
         turntables.add(new Turntable(belts, sacks));
     }
     
     public void run() {
-        for(Elf elf : elves) {
+        for(Elf elf : redHattedElves) {
             Thread elfThread = new Thread(elf);
+            elfThread.start();
+            threads.add(elfThread);
+        }
+        
+        for(Elf elf : greenHattedElves) {
+            Thread elfThread = new Thread (elf);
             elfThread.start();
             threads.add(elfThread);
         }
@@ -60,7 +70,11 @@ public class ParcelSortingMachine implements Runnable {
     }
     
     public void stop() throws InterruptedException {
-        for(Elf e : elves) {
+        for(Elf e : redHattedElves) {
+            e.stop();
+        }
+        
+        for(Elf e : greenHattedElves) {
             e.stop();
         }
         
@@ -75,11 +89,46 @@ public class ParcelSortingMachine implements Runnable {
     }
     
     public void report() {
-        System.out.println(((RedHattedElf)elves.get(0)).getTotalGiftsPlacedOnConveyor());
-        System.out.println(((RedHattedElf)elves.get(1)).getTotalGiftsPlacedOnConveyor());
-        System.out.println(((RedHattedElf)elves.get(2)).getTotalGiftsPlacedOnConveyor());
-        System.out.println(((RedHattedElf)elves.get(3)).getTotalGiftsPlacedOnConveyor());
-        System.out.println(sacks.get(0).getNumberOfPresent());
-        System.out.println(sacks.get(1).getNumberOfPresent());
+        int totalPresentsMade = 0;
+        for(Elf e : redHattedElves) {
+            totalPresentsMade += ((RedHattedElf)e).getTotalGiftsPlacedOnConveyor();
+        }
+        
+        int totalSacksTaken = 0;
+        for(Elf e : greenHattedElves) {
+            totalSacksTaken += ((GreenHattedElf)e).getTotalSacksTaken();
+        }
+        
+        int presentsInConveyors = 0;
+        for(ConveyorBelt belt : belts) {
+            presentsInConveyors += belt.getNumberOfPresents();
+        }
+        
+        int presentsInTurntables = 0;
+        for(Turntable t : turntables) {
+            if (t.hasPresent()) {
+                presentsInTurntables++;
+            }
+        }
+        
+        int presentsInSacks = 0;
+        for(Sack s : sacks) {
+            presentsInSacks += s.getNumberOfPresent();
+        }
+        
+        
+        if (totalPresentsMade - totalSacksTaken * 20 - presentsInConveyors - presentsInTurntables - presentsInSacks == 0)
+        {
+            System.out.println("Good run");
+            return;
+        }
+        System.out.println("Total presents made = " + totalPresentsMade);
+        System.out.println("Total sacks taken = " + totalSacksTaken);
+        System.out.println("Presents in conveyors = " + presentsInConveyors);
+        System.out.println("Presents in turntables = " + presentsInTurntables);
+        System.out.println("Defecit = " + (totalPresentsMade - totalSacksTaken * 20 - presentsInConveyors - presentsInTurntables - presentsInSacks));
+        System.out.println("Presents in sack 1 = " + sacks.get(0).getNumberOfPresent());
+        System.out.println("Presents in sack 2 = " + sacks.get(1).getNumberOfPresent());
+        System.out.println("\n");
     }
 }

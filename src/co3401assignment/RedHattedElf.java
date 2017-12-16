@@ -16,6 +16,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class RedHattedElf extends Elf {
     
     private List<ConveyorBelt> conveyors;
+    private List<Sack> sacks;
     
     private int totalGiftsPlacedOnConveyor;
     
@@ -35,20 +36,47 @@ public class RedHattedElf extends Elf {
         return totalTimesReindeerFed;
     }
     
-    public RedHattedElf(String name, List<ConveyorBelt> conveyors) {
+    public RedHattedElf(String name, List<ConveyorBelt> conveyors, List<Sack> sacks) {
         super(name);
         this.conveyors = conveyors;
+        this.sacks = sacks;
     }
     
     @Override
     public void run(){
         while(!stopped) {
+            
+            // Check if more than half the sacks are more than half full
+            // Get the number of sacks more than half full
+            /*int numberOfSacksMoreThanHalfFull = 0;
+            for(int sackIndex = 0; sackIndex < sacks.size(); sackIndex++) {
+                if (sacks.get(sackIndex).moreThanHalfFull()) {
+                    numberOfSacksMoreThanHalfFull++;
+                }
+            }
+            
+            
+            
+            // Check against the number of sacks
+            if (numberOfSacksMoreThanHalfFull > (sacks.size() / 2)) {
+                // Feed the reindeer
+                
+            }*/
+            
             try {
             placePresent(selectToy());
             } catch (InterruptedException e) {
                 
             }
         }
+    }
+    
+    public void feedReindeer() throws InterruptedException {
+        // Wait some random time
+        int ranSleep = ThreadLocalRandom.current().nextInt(0, 50);
+        Thread.sleep(ranSleep);
+        
+        totalTimesReindeerFed++;
     }
     
     private void placePresent(Present newPresent) {
@@ -74,7 +102,7 @@ public class RedHattedElf extends Elf {
     private Present selectToy() throws InterruptedException
     {
         // Wait some random time
-        int ranSleep = ThreadLocalRandom.current().nextInt(0, 500);
+        int ranSleep = ThreadLocalRandom.current().nextInt(0, 50);
       
         Thread.sleep(ranSleep);
         

@@ -21,6 +21,12 @@ public class ConveyorBelt {
     private Present[] queue;
     private int head;
     private int tail;
+    private int numberOfPresents;
+    
+    public int getNumberOfPresents() {
+        return numberOfPresents;
+    }
+    
     public final int capacity;
     
     private Semaphore mutex;
@@ -37,6 +43,7 @@ public class ConveyorBelt {
         // Set as initial positions
         head = -1;
         tail = 0;
+        numberOfPresents = 0;
         
         // Set mutex semaphore
         mutex = new Semaphore(1);
@@ -62,13 +69,16 @@ public class ConveyorBelt {
                 
                 queue[head] = newPresent;
                 tail = 1;
+                numberOfPresents++;
             } else if (tail == capacity) {
                 tail = 0;
                 queue[tail] = newPresent;
                 tail++;
+                numberOfPresents++;
             } else if (tail + 1 != head){
                 queue[tail] = newPresent;
                 tail++;
+                numberOfPresents++;
             }
         }
         
@@ -84,10 +94,13 @@ public class ConveyorBelt {
         if (head == tail) {
             head = -1;
             tail = 0;
+            numberOfPresents--;
         } else if (head == capacity - 1) {
             head = 0;
+            numberOfPresents--;
         } else {
             head++;
+            numberOfPresents--;
         }
         
         mutex.release();
