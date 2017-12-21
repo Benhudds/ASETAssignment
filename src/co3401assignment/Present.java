@@ -5,23 +5,25 @@
  */
 package co3401assignment;
 
-/**
- *
- * @author Ben
- */
 public class Present {
-    private PresentType typeOfToy;
-    private int age;
     
+    // Type of present
+    private PresentType typeOfToy;
+    
+    // Getter for type of present
     public PresentType getPresentType(){
         return typeOfToy;
     }
     
+    // Age of present
+    private int age;
     
+    // Getter for age of present
     public int getAge() {
         return age;
     }
     
+    // Constructor
     public Present(PresentType type, int age) {
         typeOfToy = type;
         this.age = age;

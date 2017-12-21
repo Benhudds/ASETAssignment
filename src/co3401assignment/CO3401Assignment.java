@@ -5,27 +5,15 @@
  */
 package co3401assignment;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
-/**
- *
- * @author Ben
- */
 public class CO3401Assignment {
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for(int i = 0; i < 100; i++) {
+        for(int i = 0; i < 1000; i++) {
             ParcelSortingMachine psm = new ParcelSortingMachine();
-            Thread t = new Thread(psm);
-            t.start();
-
+            psm.run();
+            /*
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException ex) {
@@ -36,7 +24,7 @@ public class CO3401Assignment {
                 psm.stop();
             } catch (InterruptedException ex) {
                 Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
-            }
+            }*/
             psm.report();
         }
     }

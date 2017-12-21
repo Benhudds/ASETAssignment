@@ -8,24 +8,27 @@ package co3401assignment;
 import java.util.concurrent.Semaphore;
 
 public class ConveyorBelt {
+    // Conveyor belt id
     private int id;
     
+    // Getter for the id
     public int getId() {
         return id;
     }
     
-    private Present[] queue;
+    // Present array
+    private final Present[] queue;
+    
+    // Head of queue
     private int head;
+    
+    // Tail of queue
     private int tail;
     
-    private int numberOfPresents;
+    // Capacity of the queue
+    private final int capacity;
     
-    public int getNumberOfPresents() {
-        return avail.availablePermits();
-    }
-    
-    public final int capacity;
-    
+    // Producer Consumer problem semaphores
     private Semaphore mutex;
     private Semaphore avail;
     private Semaphore free;
@@ -40,7 +43,6 @@ public class ConveyorBelt {
         // Set as initial positions
         head = -1;
         tail = 0;
-        numberOfPresents = 0;
         
         // Set mutex semaphore
         mutex = new Semaphore(1);
@@ -53,6 +55,7 @@ public class ConveyorBelt {
         
     }
     
+    // Enqueue method
     public void enqueue(Present newPresent) throws InterruptedException {
         // Get the free position mutex
         free.acquire();
@@ -80,6 +83,7 @@ public class ConveyorBelt {
         mutex.release();
     }
     
+    // Dequeue method
     public Present dequeue() throws InterruptedException {
         avail.acquire();
         mutex.acquire();
@@ -104,11 +108,18 @@ public class ConveyorBelt {
         return p;
     }
     
+    // Checks if there is space in the queue
     public boolean hasSpace() {
         return free.availablePermits() != 0;
     }
     
+    // Checks if the queue is empty
     public boolean empty() {
         return avail.availablePermits() == 0;
+    }
+    
+    // Returns the number of presents in the queue
+    public int getNumberOfPresents() {
+        return avail.availablePermits();
     }
 }

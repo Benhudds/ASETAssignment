@@ -5,138 +5,128 @@
  */
 package co3401assignment;
 
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.PrintStream;
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
-/**
- *
- * @author Ben
- */
-public class Turntable implements Runnable {
-    private boolean stopped;
+public class Turntable extends ThreadBase implements Runnable {
+    
+    // Current present in the turntable
     private Present currentPresent;
 
-    private Map<Sack, ConveyorBelt> outputMapping;
-    private final SackCollection connectedSacks;
+    // Map collection defining the assoications between sack and conveyor belt
+    private final Map<Sack, ConveyorBelt> outputMapping;
     
-    private List<ConveyorBelt> inputs;
-    private PrintStream out;
+    // Array of sacks attached to this turntable
+    private final Sack[] connectedSacks;
     
-    public Turntable(List<ConveyorBelt> inputs, SackCollection connectedSacks, Map<Sack, ConveyorBelt> outputMapping) {
+    // Getter for the attached sacks
+    public Sack[] getConnectedSacks() {
+        return this.connectedSacks;
+    }
+    
+    // Collection of input conveyor belts attached to this turntable
+    private final ConveyorBelt[] inputs;
+    
+    // Constructor
+    public Turntable(String filename, ConveyorBelt[] inputs, Sack[] connectedSacks, Map<Sack, ConveyorBelt> outputMapping) {
+        super(filename);
         stopped = false;
         this.inputs = inputs;
         this.connectedSacks = connectedSacks;
         this.outputMapping = outputMapping;
-        
-        if (this.connectedSacks != null) {
-            for(int sackIndex = 0; sackIndex < this.connectedSacks.size(); sackIndex++) {
-                this.connectedSacks.get(sackIndex).setAttachedTurntable(this);
-            }
-        }
         currentPresent = null;
         
-        try {
-            out = new PrintStream(new FileOutputStream("Turntable.txt"));
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(Elf.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-    
-    public void run() {
-        while(!stopped) {
-            if (currentPresent == null) {
-                // Poll the inputs to accept a present
-                tryInput();
-            } else {
-                try {
-                // Poll the outputs
-                tryOutput();
-                } catch (InterruptedException e) {}
+        // Set the attach turntable for the given sacks
+        if (this.connectedSacks != null) {
+            for(int sackIndex = 0; sackIndex < this.connectedSacks.length; sackIndex++) {
+                this.connectedSacks[sackIndex].setAttachedTurntable(this);
             }
         }
     }
     
-/*    public void removeSack(Sack sack) {
-        // Locked to ensure safety
-        synchronized(connectedSacks) {
-            connectedSacks.remove(sack);
-        }
-    }
-    
-    public void addSack(Sack sack) {
-        // Locked to ensure safety
-        synchronized(connectedSacks) {
-            connectedSacks.add(sack);
-        }
-    }
-  */  
-    public SackCollection getConnectedSacks() {
-        return this.connectedSacks;
-    }
-    
-    private void tryInput() {
+    // Method to try to input from a conveyor belt
+    private void tryInput() throws InterruptedException{
         for(ConveyorBelt conv : inputs) {
             if (!conv.empty()) {
-                try {
-                    currentPresent = conv.dequeue();
-                    return;
-                } catch (InterruptedException e) {
-                    
+                currentPresent = conv.dequeue();
+                return;
+            }
+        }
+    }
+    
+    // Method to try to output a present to a conveyor belt or sack
+    private void tryOutput() throws InterruptedException{
+        // Try outputting directly to a connected sack (if there are any)
+        if (connectedSacks != null) {
+            for(int i = 0; i < connectedSacks.length; i++) {
+                // Get the sack object
+                Sack sack = connectedSacks[i];
+                
+                // Check age range
+                if (sack.inAgeRange(currentPresent.getAge())) {
+                    // Check if there is space
+                    if(sack.hasSpace()) {
+                        // Get the lock
+                        if (sack.getLockOrReturn()) {
+                            // Insert the present
+                            sack.insertPresent(currentPresent);
+                            
+                            // Logging
+                            log("Put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
+                            sack.releaseLock();
+                            currentPresent = null;
+                            return;
+                        }
+                    }    
                 }
             }
         }
-    }
-    
-    private void tryOutput() throws InterruptedException{
-        // Try outputting directly to a connected sack
-        // Locked around the collection so sacks can be safely removed (and added)
-        if (connectedSacks != null) {
-            //synchronized (connectedSacks) {
-                for(int i = 0; i < connectedSacks.size(); i++) {
-                    Sack sack = connectedSacks.get(i);
-                    if (sack.inAgeRange(currentPresent.getAge())) {
-                        if(sack.hasSpace()) {
-                            if (sack.getLockOrReturn()) {
-                                sack.insertPresent(currentPresent);
-                                out.println("put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
-                                sack.releaseLock();
-                                currentPresent = null;
-                                return;
-                            }
-                        }    
-                    }
-                }        
-            //}
-        }
         
-        // This turntable may only connect directly to sacks
+        // Return if this turntable only connectes to sacks
         if (outputMapping == null) {
             return;
         }
         
-        // Try outputting to a conveyor belt
+        // Try outputting to a conveyor belt via the output mapping
         for(Sack sack : outputMapping.keySet()) {
             if (sack.inAgeRange(currentPresent.getAge())) {
                 ConveyorBelt out = outputMapping.get(sack);
                 if (out.hasSpace()) {
+                    // Enqueue the present
                     out.enqueue(currentPresent);
+                    
+                    // Logging
+                    log("Put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " onto conveyor belt " + out.getId());
                     currentPresent = null;
                     return;
                 }
             }
         }
+    }    
+    
+    // Run method
+    @Override
+    public void run() {
+        while(!stopped) {
+            try {
+                if (currentPresent == null) {
+                    // Poll the inputs to accept a present
+                    tryInput();
+                } else {
+                    // Poll the outputs to take a present
+                    tryOutput();
+                }
+            } catch (InterruptedException e) {
+                
+            }
+        }
     }
     
+    // Method to stop the turntable
     public void stop() {
         stopped = true;
     }
     
+    // Method to indicate if there is a present in the turntable
     public boolean hasPresent() {
         return currentPresent != null;
     }

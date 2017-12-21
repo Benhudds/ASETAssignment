@@ -5,32 +5,30 @@
  */
 package co3401assignment;
 
-/**
- *
- * @author Ben
- */
 public class Clock implements Runnable {
-    
+    // Tick counter
     private int tickCount;
     
+    // Getter for the tick counter 
     public int getTime() {
         return tickCount;
     }
         
+    // Constructor
     public Clock() {
         tickCount = 0;
     }
     
+    // Run method
+    @Override
     public void run() {
-        // Run until tick count is 600 (5 hours with 2 minute ticks)
-        while(tickCount != 600) {
-            try {
+        try {
+            while(true) {
                 Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                
+                tickCount++;
             }
-            
-            tickCount++;
+        } catch (InterruptedException e) {
+
         }
     }
 }

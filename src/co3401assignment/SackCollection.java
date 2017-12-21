@@ -7,39 +7,35 @@ package co3401assignment;
 
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author Ben
- */
 public class SackCollection {
-    private Sack[] arr;
-    private Semaphore mutex;
+    // Array of Sacks
+    private final Sack[] arr;
+    
+    // Total capacity in collection
+    private final int capacity;
+    
+    // 
     private int index;
-    private int capacity;
     
     public SackCollection(int capacity) {
         arr = new Sack[capacity];
-        mutex = new Semaphore(1);
         index = 0;
         this.capacity = capacity;
     }
     
     public int size() {
-        return capacity;
+        return index;
     }
     
-    public void replace(int rindex, Sack sack) throws InterruptedException {
-        mutex.acquire();
+    public void replace(int rindex, Sack sack) {
         
         if (0 <= rindex && rindex < capacity) {
             arr[rindex] = sack;
         }
         
-        mutex.release();
     }
     
-    public void replace(Sack sack1, Sack sack2) throws InterruptedException {
-        mutex.acquire();
+    public void replace(Sack sack1, Sack sack2) {
         
         for(int i = 0; i < capacity; i++) {
             if (arr[i] == sack1) {
@@ -48,11 +44,9 @@ public class SackCollection {
             }
         }
         
-        mutex.release();
     }
     
-    public void add(Sack sack) throws InterruptedException{
-        mutex.acquire();
+    public void add(Sack sack) {
         
         if (0 <= index && index < capacity)
         {
@@ -60,7 +54,6 @@ public class SackCollection {
             index++;
         }
         
-        mutex.release();
     }
     
     public Sack get(int index) {
