@@ -1,335 +1,72 @@
-put present DINOSAUR with age 1 into sack 0
-put present DINOSAUR with age 12 into sack 0
-put present BRACELET with age 5 into sack 0
-put present DINOSAUR with age 15 into sack 0
-put present DOLL with age 14 into sack 0
-put present TRAIN with age 7 into sack 0
-put present FAKETATTOO with age 7 into sack 0
-put present DINOSAUR with age 5 into sack 0
-put present DOLL with age 16 into sack 0
-put present TRAIN with age 17 into sack 0
-put present DOLL with age 8 into sack 0
-put present DINOSAUR with age 16 into sack 0
-put present TRAIN with age 2 into sack 0
-put present FAKETATTOO with age 6 into sack 0
-put present BRACELET with age 8 into sack 0
-put present WHISTLE with age 17 into sack 0
-put present BRACELET with age 13 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present DOLL with age 2 into sack 0
-put present FAKETATTOO with age 3 into sack 0
-put present TRAIN with age 8 into sack 0
-put present TRAIN with age 7 into sack 0
-put present TRAIN with age 2 into sack 0
-put present WHISTLE with age 9 into sack 0
-put present TRAIN with age 9 into sack 0
-put present DOLL with age 14 into sack 0
-put present DINOSAUR with age 12 into sack 0
-put present DOLL with age 14 into sack 0
-put present BRACELET with age 5 into sack 0
-put present BRACELET with age 1 into sack 0
-put present TRAIN with age 3 into sack 0
-put present BRACELET with age 6 into sack 0
-put present TRAIN with age 6 into sack 0
-put present DINOSAUR with age 1 into sack 0
-put present BRACELET with age 6 into sack 0
-put present FAKETATTOO with age 13 into sack 0
-put present DINOSAUR with age 7 into sack 0
-put present FAKETATTOO with age 2 into sack 0
-put present FAKETATTOO with age 11 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present BRACELET with age 7 into sack 0
-put present BRACELET with age 13 into sack 0
-put present FAKETATTOO with age 6 into sack 0
-put present TRAIN with age 11 into sack 0
-put present WHISTLE with age 16 into sack 0
-put present BRACELET with age 16 into sack 0
-put present BRACELET with age 4 into sack 0
-put present BRACELET with age 15 into sack 0
-put present DINOSAUR with age 1 into sack 0
-put present DOLL with age 12 into sack 0
-put present TRAIN with age 11 into sack 0
-put present TRAIN with age 6 into sack 0
-put present WHISTLE with age 9 into sack 0
-put present WHISTLE with age 15 into sack 0
-put present DINOSAUR with age 10 into sack 0
-put present BRACELET with age 7 into sack 0
-put present DINOSAUR with age 16 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present WHISTLE with age 12 into sack 1
-put present BRACELET with age 13 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present BRACELET with age 13 into sack 0
-put present DINOSAUR with age 11 into sack 0
-put present BRACELET with age 0 into sack 0
-put present DOLL with age 1 into sack 0
-put present WHISTLE with age 4 into sack 0
-put present DOLL with age 5 into sack 0
-put present DINOSAUR with age 5 into sack 0
-put present WHISTLE with age 7 into sack 0
-put present TRAIN with age 2 into sack 0
-put present DOLL with age 15 into sack 0
-put present FAKETATTOO with age 10 into sack 0
-put present WHISTLE with age 5 into sack 0
-put present TRAIN with age 15 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present WHISTLE with age 4 into sack 0
-put present FAKETATTOO with age 4 into sack 0
-put present DINOSAUR with age 15 into sack 0
-put present FAKETATTOO with age 17 into sack 0
-put present BRACELET with age 9 into sack 0
-put present DINOSAUR with age 15 into sack 0
-put present BRACELET with age 10 into sack 0
-put present TRAIN with age 1 into sack 0
-put present DOLL with age 15 into sack 0
-put present TRAIN with age 6 into sack 0
-put present TRAIN with age 3 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present DINOSAUR with age 2 into sack 0
-put present DOLL with age 12 into sack 0
-put present WHISTLE with age 13 into sack 0
-put present DOLL with age 0 into sack 0
-put present WHISTLE with age 12 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present FAKETATTOO with age 13 into sack 0
-put present DOLL with age 7 into sack 0
-put present BRACELET with age 12 into sack 0
-put present BRACELET with age 3 into sack 0
-put present DINOSAUR with age 8 into sack 0
-put present FAKETATTOO with age 17 into sack 0
-put present DOLL with age 0 into sack 0
-put present DINOSAUR with age 5 into sack 0
-put present BRACELET with age 7 into sack 0
-put present DOLL with age 0 into sack 0
-put present FAKETATTOO with age 6 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present FAKETATTOO with age 16 into sack 0
-put present BRACELET with age 14 into sack 0
-put present DINOSAUR with age 2 into sack 0
-put present FAKETATTOO with age 7 into sack 0
-put present TRAIN with age 2 into sack 0
-put present DINOSAUR with age 16 into sack 0
-put present DINOSAUR with age 7 into sack 0
-put present DOLL with age 9 into sack 0
-put present DOLL with age 7 into sack 0
-put present TRAIN with age 0 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present DOLL with age 14 into sack 0
-put present DINOSAUR with age 7 into sack 0
-put present DINOSAUR with age 14 into sack 0
-put present WHISTLE with age 15 into sack 0
-put present DOLL with age 1 into sack 0
-put present BRACELET with age 10 into sack 0
-put present DOLL with age 3 into sack 0
-put present TRAIN with age 11 into sack 0
-put present WHISTLE with age 2 into sack 0
-put present TRAIN with age 8 into sack 0
-put present TRAIN with age 4 into sack 0
-put present DINOSAUR with age 0 into sack 0
-put present DOLL with age 12 into sack 0
-put present DINOSAUR with age 9 into sack 0
-put present FAKETATTOO with age 1 into sack 0
-put present DINOSAUR with age 6 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present DINOSAUR with age 4 into sack 0
-put present DOLL with age 8 into sack 0
-put present DOLL with age 15 into sack 0
-put present BRACELET with age 15 into sack 0
-put present WHISTLE with age 1 into sack 0
-put present BRACELET with age 12 into sack 0
-put present FAKETATTOO with age 13 into sack 0
-put present WHISTLE with age 2 into sack 0
-put present TRAIN with age 8 into sack 0
-put present FAKETATTOO with age 7 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present WHISTLE with age 12 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present WHISTLE with age 17 into sack 0
-put present WHISTLE with age 5 into sack 0
-put present BRACELET with age 4 into sack 0
-put present DINOSAUR with age 12 into sack 0
-put present BRACELET with age 12 into sack 0
-put present BRACELET with age 13 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present FAKETATTOO with age 6 into sack 0
-put present DINOSAUR with age 0 into sack 0
-put present TRAIN with age 11 into sack 0
-put present DINOSAUR with age 10 into sack 0
-put present DOLL with age 10 into sack 0
-put present BRACELET with age 7 into sack 0
-put present DOLL with age 9 into sack 0
-put present BRACELET with age 0 into sack 0
-put present BRACELET with age 10 into sack 0
-put present FAKETATTOO with age 6 into sack 0
-put present FAKETATTOO with age 3 into sack 0
-put present WHISTLE with age 16 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present DOLL with age 0 into sack 0
-put present TRAIN with age 15 into sack 0
-put present FAKETATTOO with age 16 into sack 0
-put present FAKETATTOO with age 0 into sack 0
-put present WHISTLE with age 2 into sack 0
-put present FAKETATTOO with age 3 into sack 0
-put present DOLL with age 9 into sack 0
-put present FAKETATTOO with age 2 into sack 0
-put present BRACELET with age 12 into sack 0
-put present TRAIN with age 8 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present WHISTLE with age 7 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present BRACELET with age 1 into sack 0
-put present DOLL with age 16 into sack 0
-put present TRAIN with age 9 into sack 0
-put present WHISTLE with age 14 into sack 0
-put present WHISTLE with age 1 into sack 0
-put present DINOSAUR with age 10 into sack 0
-put present DOLL with age 7 into sack 0
-put present BRACELET with age 3 into sack 0
-put present WHISTLE with age 9 into sack 0
-put present TRAIN with age 2 into sack 0
-put present DINOSAUR with age 13 into sack 0
-put present BRACELET with age 7 into sack 0
-put present WHISTLE with age 4 into sack 0
-put present DINOSAUR with age 13 into sack 0
-put present DOLL with age 16 into sack 0
-put present WHISTLE with age 4 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present TRAIN with age 3 into sack 0
-put present TRAIN with age 15 into sack 0
-put present FAKETATTOO with age 3 into sack 0
-put present WHISTLE with age 5 into sack 0
-put present WHISTLE with age 2 into sack 0
-put present FAKETATTOO with age 5 into sack 0
-put present WHISTLE with age 5 into sack 0
-put present BRACELET with age 10 into sack 0
-put present DOLL with age 11 into sack 0
-put present BRACELET with age 1 into sack 0
-put present WHISTLE with age 13 into sack 0
-put present WHISTLE with age 1 into sack 0
-put present DINOSAUR with age 1 into sack 0
-put present DOLL with age 12 into sack 0
-put present TRAIN with age 9 into sack 0
-put present DINOSAUR with age 12 into sack 0
-put present DOLL with age 6 into sack 0
-put present WHISTLE with age 5 into sack 0
-put present WHISTLE with age 9 into sack 0
-put present DOLL with age 17 into sack 0
-put present DOLL with age 8 into sack 0
-put present DOLL with age 15 into sack 0
-put present TRAIN with age 10 into sack 0
-put present WHISTLE with age 11 into sack 0
-put present FAKETATTOO with age 10 into sack 0
-put present TRAIN with age 6 into sack 0
-put present BRACELET with age 15 into sack 0
-put present WHISTLE with age 13 into sack 0
-put present BRACELET with age 16 into sack 0
-put present TRAIN with age 3 into sack 0
-put present DOLL with age 16 into sack 0
-put present BRACELET with age 15 into sack 0
-put present BRACELET with age 13 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present TRAIN with age 6 into sack 0
-put present FAKETATTOO with age 14 into sack 0
-put present FAKETATTOO with age 5 into sack 0
-put present DINOSAUR with age 1 into sack 0
-put present TRAIN with age 10 into sack 0
-put present FAKETATTOO with age 0 into sack 0
-put present BRACELET with age 17 into sack 0
-put present TRAIN with age 9 into sack 0
-put present DOLL with age 6 into sack 0
-put present WHISTLE with age 0 into sack 0
-put present FAKETATTOO with age 17 into sack 0
-put present BRACELET with age 5 into sack 0
-put present DINOSAUR with age 11 into sack 0
-put present BRACELET with age 14 into sack 0
-put present DINOSAUR with age 15 into sack 0
-put present TRAIN with age 12 into sack 0
-put present WHISTLE with age 4 into sack 0
-put present DOLL with age 2 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present FAKETATTOO with age 12 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present FAKETATTOO with age 12 into sack 0
-put present TRAIN with age 12 into sack 0
-put present WHISTLE with age 6 into sack 0
-put present TRAIN with age 8 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present DOLL with age 14 into sack 0
-put present DINOSAUR with age 9 into sack 0
-put present FAKETATTOO with age 17 into sack 0
-put present FAKETATTOO with age 2 into sack 0
-put present TRAIN with age 7 into sack 0
-put present DINOSAUR with age 15 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present WHISTLE with age 8 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present TRAIN with age 13 into sack 0
-put present TRAIN with age 16 into sack 0
-put present FAKETATTOO with age 15 into sack 0
-put present BRACELET with age 6 into sack 0
-put present FAKETATTOO with age 14 into sack 0
-put present BRACELET with age 15 into sack 0
-put present DINOSAUR with age 11 into sack 0
-put present BRACELET with age 8 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present DINOSAUR with age 5 into sack 0
-put present BRACELET with age 10 into sack 0
-put present FAKETATTOO with age 17 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present DOLL with age 1 into sack 0
-put present FAKETATTOO with age 5 into sack 0
-put present TRAIN with age 1 into sack 0
-put present DINOSAUR with age 16 into sack 0
-put present DOLL with age 6 into sack 0
-put present TRAIN with age 4 into sack 0
-put present WHISTLE with age 16 into sack 0
-put present DINOSAUR with age 7 into sack 0
-put present FAKETATTOO with age 4 into sack 0
-put present FAKETATTOO with age 5 into sack 0
-put present BRACELET with age 9 into sack 0
-put present DOLL with age 6 into sack 0
-put present FAKETATTOO with age 11 into sack 0
-put present TRAIN with age 1 into sack 0
-put present TRAIN with age 13 into sack 0
-put present TRAIN with age 10 into sack 1
-put present DOLL with age 6 into sack 0
-put present BRACELET with age 0 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present WHISTLE with age 11 into sack 0
-put present DINOSAUR with age 1 into sack 0
-put present DINOSAUR with age 3 into sack 0
-put present WHISTLE with age 3 into sack 0
-put present TRAIN with age 13 into sack 0
-put present TRAIN with age 5 into sack 0
-put present FAKETATTOO with age 8 into sack 0
-put present WHISTLE with age 8 into sack 0
-put present TRAIN with age 1 into sack 0
-put present FAKETATTOO with age 4 into sack 0
-put present TRAIN with age 9 into sack 0
-put present DOLL with age 3 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present TRAIN with age 13 into sack 0
-put present WHISTLE with age 6 into sack 0
-put present FAKETATTOO with age 4 into sack 0
-put present FAKETATTOO with age 1 into sack 0
-put present FAKETATTOO with age 16 into sack 0
-put present DOLL with age 14 into sack 0
-put present TRAIN with age 11 into sack 0
-put present TRAIN with age 9 into sack 0
-put present FAKETATTOO with age 11 into sack 0
-put present DINOSAUR with age 0 into sack 0
-put present TRAIN with age 1 into sack 0
-put present DOLL with age 1 into sack 0
-put present FAKETATTOO with age 13 into sack 0
-put present DINOSAUR with age 17 into sack 0
-put present FAKETATTOO with age 10 into sack 0
-put present FAKETATTOO with age 9 into sack 0
-put present TRAIN with age 14 into sack 0
-put present DOLL with age 15 into sack 0
+put present TRAIN with age 16 into sack
+put present WHISTLE with age 13 into sack
+put present DINOSAUR with age 17 into sack
+put present WHISTLE with age 15 into sack
+put present FAKETATTOO with age 16 into sack
+put present BRACELET with age 14 into sack
+put present BRACELET with age 10 intput presput present WHISTLE with age 13 into sack
+put present WHISTLE with age 16 into sack
+put present FAKETATTOO with age 10put present put present DOLL with age 12 into sack
+put present TRAIN with age 17 into sack
+put present WHISTLE with age 12 into sack
+put present TRAIN with age 10 into sack
+put present FAKETATTOO with age 17 into sack
+put present TRAIN with age 14 into sack
+put present DINOSAUR with age 17 into sack
+put present DOLL with age 10 into sack
+put present WHISTLE with age 14 into sack
+put present DOLL with age 12 into sack
+put present BRACELET with age 11 into put present BRACELET with age 7 into sack
+put put present FAKETATTOO with age 14 putput presput present DOLL with age 14 into put prput present FAKETATTOO with age 13put present put present FAKETATTOO with ageput present DOLL with age 0 into sack
+put present TRAIN with age 3 into sack
+put present TRAIN with age 1 into sack
+put present DINOSAUR with age 1 into sack
+put present WHISTLE with age 0 into sack
+put present TRAIN with age 2 into sack
+put present WHISTLE with age 1 into sack
+put present WHISTLE with age 3 into sack
+put present TRAIN with age 2 into sack
+put present DINOSAUR with age 2 into sack
+put present FAKETATTOO with age 0 into sack
+put present WHISTLE with age 1 into sack
+put present TRAIN with age 3 into sack
+put present DINOSAUR with age 2 into sack
+put present WHISTLE with age 0 into sack
+put present TRAIN with age 0 into sack
+put present TRAIN with age 2 into sack
+put present WHISTLE with age 2 into sack
+put present BRACELET with age 3 into sack
+put present FAKETATTOO with age 3 into sack
+put present FAKETATTOO with age 0 into sack
+with age 15 into sack
+put present BRACELET with age 12 into sack
+put present BRACELET with age 10 into sack
+put present DOLL with age 15 into sack
+put present FAKETATTOO with age 15 into sack
+put present TRAIN with age 10 into sack
+put present TRAIN with age 11 into sack
+put present TRAIN with age 17 into sack
+put present DINOSAUR with age 12 into sack
+put present DOLL with age 14 into sack
+put present DINOSAUR with age 16 into sack
+put present BRACELET with age 15 into sack
+put present DOLL with age 16 into sack
+put present WHISTLE with age 17 into sack
+put present BRACELET with age 12 into sack
+put present DOLL with age 17 into sack
+put present WHISTLE with age 15 into sack
+put present TRAIN with age 13 into sack
+put present FAKETATTOO with age 15 into sack
+put present TRAIN with age 12 into sack
+put present BRACELET with age 11 into sack
+put present DINOSAUR with age 11 into sack
+put present BRACELET with age 15 into sack
+put present DOLL with age 15 into sack
+resent DOLL with age 9 into sack
+put present TRAIN with age 9 into sack
+put present FAKETATTOO with age 5 into sack
+put present FAKETATTOO with age 9 into sack
+put present DOLL with age 4 into sack
+put present DINOSAUR with age 7 into sack
+put present BRACELET with age 6 into sack
+put present DINOSAUR with age 6 into sack

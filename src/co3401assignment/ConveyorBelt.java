@@ -7,10 +7,6 @@ package co3401assignment;
 
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author Ben
- */
 public class ConveyorBelt {
     private int id;
     
@@ -21,10 +17,11 @@ public class ConveyorBelt {
     private Present[] queue;
     private int head;
     private int tail;
+    
     private int numberOfPresents;
     
     public int getNumberOfPresents() {
-        return numberOfPresents;
+        return avail.availablePermits();
     }
     
     public final int capacity;
@@ -63,54 +60,52 @@ public class ConveyorBelt {
         // Get the mutex lock
         mutex.acquire();
         
-        if (head != tail) {
+        if ((head == 0 && tail == capacity - 1) || tail == head - 1) {
+        } else {
             if (head == -1) {
-                head = 0;
-                
-                queue[head] = newPresent;
-                tail = 1;
-                numberOfPresents++;
-            } else if (tail == capacity) {
+                // Insert first element
+                head = tail = 0;
+                queue[tail] = newPresent;
+            } else if (tail == capacity - 1 && head != 0) {
                 tail = 0;
                 queue[tail] = newPresent;
+            } else {
                 tail++;
-                numberOfPresents++;
-            } else if (tail + 1 != head){
                 queue[tail] = newPresent;
-                tail++;
-                numberOfPresents++;
             }
-        }
         
-        avail.release();
+            avail.release();
+        }
+    
         mutex.release();
     }
     
     public Present dequeue() throws InterruptedException {
         avail.acquire();
         mutex.acquire();
+        Present p = null;
         
-        Present p = queue[head];
-        if (head == tail) {
-            head = -1;
-            tail = 0;
-            numberOfPresents--;
-        } else if (head == capacity - 1) {
-            head = 0;
-            numberOfPresents--;
-        } else {
-            head++;
-            numberOfPresents--;
+        if (head != -1) {
+            p = queue[head];
+            queue[head] = null;
+            
+            if (head == tail) {
+                head = tail = -1;
+            } else if (head == capacity - 1) {
+                head = 0;
+            } else {
+                head++;
+            }
+            
+            free.release();
         }
         
         mutex.release();
-        free.release();
-        
         return p;
     }
     
     public boolean hasSpace() {
-        return head != tail;
+        return free.availablePermits() != 0;
     }
     
     public boolean empty() {

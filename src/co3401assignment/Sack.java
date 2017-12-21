@@ -92,7 +92,7 @@ public class Sack {
         return currentIndex != sackCapacity;
     }
     
-    public void empty() throws InterruptedException {
+    public void empty() {
         // GC will pick up any unreferenceables
         // when we overwrite each index
         currentIndex = 0;

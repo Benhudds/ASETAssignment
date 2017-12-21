@@ -14,7 +14,7 @@ import java.util.concurrent.ThreadLocalRandom;
  */
 public class GreenHattedElf extends Elf {
     private int totalSacksTaken;
-    private List<Sack> sacks;
+    private SackCollection sacks;
     public int getTotalSacksTaken() {
         return totalSacksTaken;
     }
@@ -25,7 +25,7 @@ public class GreenHattedElf extends Elf {
         return totalTimeWaitingForSacksToBeFilled;
     }
     
-    public GreenHattedElf(String name, List<Sack> sacks) {
+    public GreenHattedElf(String name, SackCollection sacks) {
         super(name);
         this.sacks = sacks;
     }
@@ -37,20 +37,23 @@ public class GreenHattedElf extends Elf {
             try {
                 for(int sackIndex = 0; sackIndex < sacks.size(); sackIndex++) {
                     Sack sack = sacks.get(sackIndex);
-                    if (!sack.hasSpace()) {
-                        sack.getLockOrReturn();
+                    
+                    if (!sack.hasSpace() && sack.getLockOrReturn()) {
                         
                         // Check again in case the sack has already been emptied
                         if (!sack.hasSpace()) {
                         
                             // Need to get the turntable for which the sack is connected so that it can be replaced
                             Turntable t = sack.getAttachedTurntable();
-                            t.removeSack(sack);
+                            //t.removeSack(sack);
+                           
                             Sack newSack = new Sack(sack.getAgeLower(), sack.getAgeUpper());
-                            //sacks.remove(sackIndex);
-                            //sacks.add(newSack);
+                            
+                            sacks.replace(sackIndex, newSack);
+                            
                             newSack.setAttachedTurntable(t);
-                            t.addSack(newSack);
+                            t.getConnectedSacks().replace(sack, newSack);
+                            //t.addSack(newSack);
                             
                             log(name + " has emptied a sack with " + sack.getNumberOfPresent());
                             

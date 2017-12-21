@@ -9,14 +9,11 @@ import java.util.List;
 import java.util.Set;
 import java.util.concurrent.ThreadLocalRandom;
 
-/**
- *
- * @author Ben
- */
 public class RedHattedElf extends Elf {
     
     private List<ConveyorBelt> conveyors;
-    private List<Sack> sacks;
+    private SackCollection sacks;
+    private boolean reindeerFed = false;
     
     private int totalGiftsPlacedOnConveyor;
     
@@ -36,7 +33,7 @@ public class RedHattedElf extends Elf {
         return totalTimesReindeerFed;
     }
     
-    public RedHattedElf(String name, List<ConveyorBelt> conveyors, List<Sack> sacks) {
+    public RedHattedElf(String name, List<ConveyorBelt> conveyors, SackCollection sacks) {
         super(name);
         this.conveyors = conveyors;
         this.sacks = sacks;
@@ -45,10 +42,13 @@ public class RedHattedElf extends Elf {
     @Override
     public void run(){
         while(!stopped) {
+            try {
             
             // Check if more than half the sacks are more than half full
             // Get the number of sacks more than half full
-            /*int numberOfSacksMoreThanHalfFull = 0;
+            int numberOfSacksMoreThanHalfFull = 0;
+
+            
             for(int sackIndex = 0; sackIndex < sacks.size(); sackIndex++) {
                 if (sacks.get(sackIndex).moreThanHalfFull()) {
                     numberOfSacksMoreThanHalfFull++;
@@ -57,16 +57,22 @@ public class RedHattedElf extends Elf {
             
             
             
+            
             // Check against the number of sacks
             if (numberOfSacksMoreThanHalfFull > (sacks.size() / 2)) {
                 // Feed the reindeer
+                if (!reindeerFed) {
+                    feedReindeer();
+                    reindeerFed = true;
+                }
+            } else {
+                reindeerFed = false;
+            }
                 
-            }*/
             
-            try {
             placePresent(selectToy());
             } catch (InterruptedException e) {
-                
+                log ("Was interrupted");
             }
         }
     }
@@ -85,9 +91,9 @@ public class RedHattedElf extends Elf {
             long startTime = System.currentTimeMillis();
             conveyor.enqueue(newPresent);
             long endTime = System.currentTimeMillis();
-            log (name + "\t Deposited toy " + newPresent.getPresentType().toString() + " on belt " + conveyor.getId());
+            log (name + "\t Deposited toy " + newPresent.getPresentType().toString() + " with age " + newPresent.getAge() + " on belt " + conveyor.getId());
             totalGiftsPlacedOnConveyor++;
-            
+            totalTimeWaitingAtConveyor += endTime - startTime;
         } catch (InterruptedException e) {
             log (name + " was interrupted while placing a present");
         }

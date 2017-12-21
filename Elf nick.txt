@@ -1,80 +1,44 @@
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy TRAIN on belt 1
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy WHISTLE on belt 1
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy TRAIN on belt 1
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy DINOSAUR on belt 2
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy FAKETATTOO on belt 2
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy DINOSAUR on belt 2
-nick	 Deposited toy FAKETATTOO on belt 2
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy WHISTLE on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy DOLL on belt 2
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy DINOSAUR on belt 2
-nick	 Deposited toy DINOSAUR on belt 2
-nick	 Deposited toy FAKETATTOO on belt 2
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy DINOSAUR on belt 2
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy BRACELET on belt 2
-nick	 Deposited toy FAKETATTOO on belt 2
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy FAKETATTOO on belt 1
-nick	 Deposited toy BRACELET on belt 1
-nick	 Deposited toy TRAIN on belt 1
-nick	 Deposited toy TRAIN on belt 1
-nick	 Deposited toy WHISTLE on belt 2
-nick	 Deposited toy TRAIN on belt 1
-nick	 Deposited toy DINOSAUR on belt 1
-nick	 Deposited toy TRAIN on belt 2
-nick	 Deposited toy DOLL on belt 1
-nick	 Deposited toy TRAIN on belt 2
+nick	 Deposited toy BRACELET with age 3 on belt 3
+nick	 Deposited toy TRAIN with age 16 on belt 3
+nick	 Deposited toy FAKETATTOO with age 4 on belt 1
+nick	 Deposited toy BRACELET with age 3 on belt 2
+nick	 Deposited toy TRAIN with age 5 on belt 2
+nick	 Deposited toy WHISTLE with age 16 on belt 1
+nick	 Deposited toy FAKETATTOO with age 4 on belt 3
+nick	 Deposited toy DINOSAUR with age 2 on belt 1
+nick	 Deposited toy DOLL with age 1 on belt 2
+nick	 Deposited toy DOLL with age 12 on belt 1
+nick	 Deposited toy BRACELET with age 3 on belt 1
+nick	 Deposited toy TRAIN with age 10 on belt 1
+nick	 Deposited toy WHISTLE with age 14 on belt 2
+nick	 Deposited toy FAKETATTOO with age 3 on belt 3
+nick	 Deposited toy BRACELET with age 7 on belt 1
+nick	 Deposited toy WHISTLE with age 8 on belt 3
+nick	 Deposited toy FAKETATTOO with age 13 on belt 3
+nick	 Deposited toy DOLL with age 4 on belt 3
+nick	 Deposited toy DINOSAUR with age 7 on belt 1
+nick	 Deposited toy DOLL with age 12 on belt 2
+nick	 Deposited toy WHISTLE with age 14 on belt 1
+nick	 Deposited toy DOLL with age 5 on belt 3
+nick	 Deposited toy DOLL with age 16 on belt 2
+nick	 Deposited toy TRAIN with age 3 on belt 2
+nick	 Deposited toy TRAIN with age 9 on belt 3
+nick	 Deposited toy TRAIN with age 1 on belt 1
+nick	 Deposited toy WHISTLE with age 7 on belt 1
+nick	 Deposited toy DINOSAUR with age 7 on belt 1
+nick	 Deposited toy DINOSAUR with age 9 on belt 3
+nick	 Deposited toy FAKETATTOO with age 4 on belt 3
+nick	 Deposited toy DOLL with age 15 on belt 3
+nick	 Deposited toy WHISTLE with age 3 on belt 2
+nick	 Deposited toy DOLL with age 14 on belt 1
+nick	 Deposited toy DINOSAUR with age 16 on belt 2
+nick	 Deposited toy DOLL with age 16 on belt 2
+nick	 Deposited toy FAKETATTOO with age 0 on belt 1
+nick	 Deposited toy WHISTLE with age 1 on belt 1
+nick	 Deposited toy DINOSAUR with age 6 on belt 1
+nick	 Deposited toy DOLL with age 4 on belt 1
+nick	 Deposited toy WHISTLE with age 15 on belt 1
+nick	 Deposited toy WHISTLE with age 0 on belt 1
+nick	 Deposited toy DINOSAUR with age 11 on belt 2
+nick	 Deposited toy FAKETATTOO with age 3 on belt 3
+nick was interrupted while placing a present

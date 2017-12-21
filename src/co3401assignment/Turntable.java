@@ -23,20 +23,22 @@ public class Turntable implements Runnable {
     private Present currentPresent;
 
     private Map<Sack, ConveyorBelt> outputMapping;
-    private final List<Sack> connectedSacks;
+    private final SackCollection connectedSacks;
     
     private List<ConveyorBelt> inputs;
     private PrintStream out;
     
-    public Turntable(List<ConveyorBelt> inputs, List<Sack> connectedSacks) {
+    public Turntable(List<ConveyorBelt> inputs, SackCollection connectedSacks, Map<Sack, ConveyorBelt> outputMapping) {
         stopped = false;
         this.inputs = inputs;
         this.connectedSacks = connectedSacks;
+        this.outputMapping = outputMapping;
         
-        for(Sack s : this.connectedSacks) {
-            s.setAttachedTurntable(this);
+        if (this.connectedSacks != null) {
+            for(int sackIndex = 0; sackIndex < this.connectedSacks.size(); sackIndex++) {
+                this.connectedSacks.get(sackIndex).setAttachedTurntable(this);
+            }
         }
-        
         currentPresent = null;
         
         try {
@@ -60,7 +62,7 @@ public class Turntable implements Runnable {
         }
     }
     
-    public void removeSack(Sack sack) {
+/*    public void removeSack(Sack sack) {
         // Locked to ensure safety
         synchronized(connectedSacks) {
             connectedSacks.remove(sack);
@@ -72,6 +74,10 @@ public class Turntable implements Runnable {
         synchronized(connectedSacks) {
             connectedSacks.add(sack);
         }
+    }
+  */  
+    public SackCollection getConnectedSacks() {
+        return this.connectedSacks;
     }
     
     private void tryInput() {
@@ -90,20 +96,23 @@ public class Turntable implements Runnable {
     private void tryOutput() throws InterruptedException{
         // Try outputting directly to a connected sack
         // Locked around the collection so sacks can be safely removed (and added)
-        synchronized (connectedSacks) {
-            for(Sack sack : connectedSacks) {
-                if (sack.inAgeRange(currentPresent.getAge())) {
-                    if(sack.hasSpace()) {
-                        if (sack.getLockOrReturn()) {
-                            sack.insertPresent(currentPresent);
-                            out.println("put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack " + connectedSacks.indexOf(sack));
-                            sack.releaseLock();
-                            currentPresent = null;
-                            return;
-                        }
-                    }    
-                }
-            }        
+        if (connectedSacks != null) {
+            //synchronized (connectedSacks) {
+                for(int i = 0; i < connectedSacks.size(); i++) {
+                    Sack sack = connectedSacks.get(i);
+                    if (sack.inAgeRange(currentPresent.getAge())) {
+                        if(sack.hasSpace()) {
+                            if (sack.getLockOrReturn()) {
+                                sack.insertPresent(currentPresent);
+                                out.println("put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
+                                sack.releaseLock();
+                                currentPresent = null;
+                                return;
+                            }
+                        }    
+                    }
+                }        
+            //}
         }
         
         // This turntable may only connect directly to sacks
@@ -116,10 +125,7 @@ public class Turntable implements Runnable {
             if (sack.inAgeRange(currentPresent.getAge())) {
                 ConveyorBelt out = outputMapping.get(sack);
                 if (out.hasSpace()) {
-                    try {
-                        out.enqueue(currentPresent);
-                    } catch (InterruptedException e) {
-                    }
+                    out.enqueue(currentPresent);
                     currentPresent = null;
                     return;
                 }
