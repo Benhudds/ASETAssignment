@@ -47,21 +47,18 @@ public class ParcelSortingMachine implements Runnable {
     
     // Method to create the elves
     private void gatherElves() {
-        redHattedElves = new Elf[11];
-        redHattedElves[0] = new RedHattedElf("nick", entry, sacks);
-        redHattedElves[1] = new RedHattedElf("chris", entry, sacks);
-        redHattedElves[2] = new RedHattedElf("li", entry, sacks);
-        redHattedElves[3] = new RedHattedElf("gareth", entry, sacks);
-        redHattedElves[4] = new RedHattedElf("jonathan", entry, sacks);
-        redHattedElves[5] = new RedHattedElf("dan", entry, sacks);
-        redHattedElves[6] = new RedHattedElf("patrick", entry, sacks);
-        redHattedElves[7] = new RedHattedElf("nicki", entry, sacks);
-        redHattedElves[8] = new RedHattedElf("leslie", entry, sacks);
-        redHattedElves[9] = new RedHattedElf("lecturer1", entry, sacks);
-        redHattedElves[10] = new RedHattedElf("lecturer2", entry, sacks);
+        int numberOfRed = 20;
+        
+        redHattedElves = new Elf[numberOfRed];
+        for(int i = 0; i < 20; i++) {
+            redHattedElves[i] = new RedHattedElf("red " + (i + 1), entry, sacks);
+        }
        
-        greenHattedElves = new Elf[1];
-        greenHattedElves[0] = new GreenHattedElf("doug", sacks);
+        int numberOfGreen = 1;
+        greenHattedElves = new Elf[numberOfGreen];
+        for(int i = 0; i < 1; i++) {
+            greenHattedElves[i] = new GreenHattedElf("green " + (i + 1), sacks);
+        }
     }
     
     // Method to create the machine
@@ -194,7 +191,7 @@ public class ParcelSortingMachine implements Runnable {
             threadIndex++;
         }
         
-        // Run for 5 ticks (10 mins)
+        // Run for 150 ticks (5 hours)
         while(clock.getTime() < 150) {
             try {
                 Thread.sleep(1000);
@@ -273,6 +270,7 @@ public class ParcelSortingMachine implements Runnable {
         System.out.println("Times reindeer fed = " + timesReindeerFed);
         System.out.println("Time spent waiting by red hatted elves = " + timeSpentWaitingAtConveyor);
         System.out.println("Time spent waiting by green hatted elves = " + timeSpentWaitingForSacks);
+        System.out.println("Total time spent waiting = " + (timeSpentWaitingAtConveyor + timeSpentWaitingForSacks));
         
         if (totalPresentsMade - totalSacksTaken * 20 - presentsInConveyors - presentsInTurntables - presentsInSacks == 0)
         {

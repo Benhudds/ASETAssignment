@@ -9,6 +9,9 @@ import java.util.Map;
 
 public class Turntable extends ThreadBase implements Runnable {
     
+    // Time it takes to align the turntable
+    private final int alignmentTime = 10;
+    
     // Current present in the turntable
     private Present currentPresent;
 
@@ -50,6 +53,8 @@ public class Turntable extends ThreadBase implements Runnable {
                 currentPresent = conv.dequeue();
                 return;
             }
+            // Turntable alignment time
+            Thread.sleep(alignmentTime);
         }
     }
     
@@ -66,7 +71,6 @@ public class Turntable extends ThreadBase implements Runnable {
                     // Check if there is space
                     if(sack.hasSpace()) {
                         // Get the lock
-                        if (sack.getLockOrReturn()) {
                             // Insert the present
                             sack.insertPresent(currentPresent);
                             
@@ -75,13 +79,15 @@ public class Turntable extends ThreadBase implements Runnable {
                             sack.releaseLock();
                             currentPresent = null;
                             return;
-                        }
+                        
                     }    
                 }
+                // Turntable alignment time
+                Thread.sleep(alignmentTime);
             }
         }
         
-        // Return if this turntable only connectes to sacks
+        // Return if this turntable only connects to sacks
         if (outputMapping == null) {
             return;
         }
@@ -99,6 +105,8 @@ public class Turntable extends ThreadBase implements Runnable {
                     currentPresent = null;
                     return;
                 }
+                // Turntable alignment time
+                Thread.sleep(alignmentTime);
             }
         }
     }    

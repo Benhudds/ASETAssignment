@@ -5,10 +5,6 @@
  */
 package co3401assignment;
 
-/**
- *
- * @author Ben
- */
 public enum PresentType {
     TRAIN,
     DOLL,
