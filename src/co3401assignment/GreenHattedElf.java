@@ -78,10 +78,10 @@ public class GreenHattedElf extends Elf {
                         spare = sack;
                         sack.empty();
                         totalSacksTaken++;
-                        log(name + " has emptied a sack with " + sack.getNumberOfPresent());
+                        log(name + " has emptied a sack");
 
                         // Spend some time "emptying" the sack
-                        int ranSleep = ThreadLocalRandom.current().nextInt(0, 50);
+                        int ranSleep = ThreadLocalRandom.current().nextInt(1000, 2500);
                         Thread.sleep(ranSleep);
                         
                         sack.releaseLock();

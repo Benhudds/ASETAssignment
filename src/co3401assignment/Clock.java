@@ -7,10 +7,10 @@ package co3401assignment;
 
 public class Clock implements Runnable {
     // Tick counter
-    private int tickCount;
+    private static int tickCount;
     
     // Getter for the tick counter 
-    public int getTime() {
+    public static int getTime() {
         return tickCount;
     }
         

@@ -10,21 +10,9 @@ public class CO3401Assignment {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for(int i = 0; i < 1000; i++) {
+        for(int i = 0; i < 1; i++) {
             ParcelSortingMachine psm = new ParcelSortingMachine();
             psm.run();
-            /*
-            try {
-                Thread.sleep(2000);
-            } catch (InterruptedException ex) {
-                Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
-            }
-
-            try {
-                psm.stop();
-            } catch (InterruptedException ex) {
-                Logger.getLogger(CO3401Assignment.class.getName()).log(Level.SEVERE, null, ex);
-            }*/
             psm.report();
         }
     }

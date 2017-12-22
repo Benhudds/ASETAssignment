@@ -1,101 +1,79 @@
-gareth	 Deposited toy TRAIN with age 14 on belt 3
-gareth	 Deposited toy FAKETATTOO with age 7 on belt 1
-gareth	 Deposited toy WHISTLE with age 10 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 6 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 14 on belt 3
-gareth	 Deposited toy TRAIN with age 9 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 5 on belt 1
-gareth	 Deposited toy DINOSAUR with age 9 on belt 1
-gareth	 Deposited toy WHISTLE with age 8 on belt 3
-gareth	 Deposited toy BRACELET with age 2 on belt 2
-gareth	 Deposited toy BRACELET with age 0 on belt 2
-gareth	 Deposited toy TRAIN with age 13 on belt 2
-gareth	 Deposited toy WHISTLE with age 9 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 12 on belt 1
-gareth	 Deposited toy DINOSAUR with age 4 on belt 3
-gareth	 Deposited toy WHISTLE with age 10 on belt 1
-gareth	 Deposited toy DOLL with age 10 on belt 1
-gareth	 Deposited toy TRAIN with age 16 on belt 1
-gareth	 Deposited toy WHISTLE with age 17 on belt 1
-gareth	 Deposited toy BRACELET with age 5 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 9 on belt 2
-gareth	 Deposited toy DINOSAUR with age 14 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 9 on belt 3
-gareth	 Deposited toy BRACELET with age 1 on belt 3
-gareth	 Deposited toy FAKETATTOO with age 3 on belt 1
-gareth	 Deposited toy WHISTLE with age 13 on belt 2
-gareth	 Deposited toy DOLL with age 6 on belt 2
-gareth	 Deposited toy WHISTLE with age 8 on belt 2
-gareth	 Deposited toy WHISTLE with age 15 on belt 2
-gareth	 Deposited toy TRAIN with age 17 on belt 1
-gareth	 Deposited toy TRAIN with age 5 on belt 3
-gareth	 Deposited toy DOLL with age 11 on belt 3
-gareth	 Deposited toy TRAIN with age 16 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 17 on belt 2
-gareth	 Deposited toy BRACELET with age 17 on belt 1
-gareth	 Deposited toy WHISTLE with age 5 on belt 1
-gareth	 Deposited toy WHISTLE with age 9 on belt 1
-gareth	 Deposited toy TRAIN with age 2 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 2 on belt 2
-gareth	 Deposited toy WHISTLE with age 2 on belt 3
-gareth	 Deposited toy DOLL with age 5 on belt 3
-gareth	 Deposited toy WHISTLE with age 3 on belt 1
-gareth	 Deposited toy WHISTLE with age 7 on belt 3
-gareth	 Deposited toy WHISTLE with age 14 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 8 on belt 2
-gareth	 Deposited toy BRACELET with age 12 on belt 3
-gareth	 Deposited toy DINOSAUR with age 6 on belt 2
-gareth	 Deposited toy WHISTLE with age 2 on belt 1
-gareth	 Deposited toy BRACELET with age 16 on belt 3
-gareth	 Deposited toy DOLL with age 4 on belt 2
-gareth	 Deposited toy TRAIN with age 16 on belt 3
-gareth	 Deposited toy WHISTLE with age 8 on belt 1
-gareth	 Deposited toy TRAIN with age 7 on belt 2
-gareth	 Deposited toy WHISTLE with age 9 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 10 on belt 1
-gareth	 Deposited toy DOLL with age 13 on belt 1
-gareth	 Deposited toy TRAIN with age 2 on belt 3
-gareth	 Deposited toy FAKETATTOO with age 6 on belt 3
-gareth	 Deposited toy DOLL with age 9 on belt 3
-gareth	 Deposited toy WHISTLE with age 5 on belt 2
-gareth	 Deposited toy DOLL with age 5 on belt 3
-gareth	 Deposited toy DINOSAUR with age 9 on belt 1
-gareth	 Deposited toy TRAIN with age 3 on belt 1
-gareth	 Deposited toy BRACELET with age 16 on belt 1
-gareth	 Deposited toy WHISTLE with age 6 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 8 on belt 2
-gareth	 Deposited toy WHISTLE with age 0 on belt 2
-gareth	 Deposited toy WHISTLE with age 5 on belt 1
-gareth	 Deposited toy DINOSAUR with age 1 on belt 2
-gareth	 Deposited toy WHISTLE with age 10 on belt 2
-gareth	 Deposited toy TRAIN with age 10 on belt 3
-gareth	 Deposited toy WHISTLE with age 11 on belt 2
-gareth	 Deposited toy TRAIN with age 3 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 8 on belt 2
-gareth	 Deposited toy DINOSAUR with age 12 on belt 2
-gareth	 Deposited toy WHISTLE with age 9 on belt 3
-gareth	 Deposited toy TRAIN with age 4 on belt 1
-gareth	 Deposited toy DOLL with age 17 on belt 2
-gareth	 Deposited toy DINOSAUR with age 1 on belt 2
-gareth	 Deposited toy BRACELET with age 12 on belt 3
-gareth	 Deposited toy WHISTLE with age 17 on belt 3
-gareth	 Deposited toy WHISTLE with age 9 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 15 on belt 3
-gareth	 Deposited toy DOLL with age 4 on belt 2
-gareth	 Deposited toy DINOSAUR with age 13 on belt 2
-gareth	 Deposited toy WHISTLE with age 15 on belt 3
-gareth	 Deposited toy BRACELET with age 17 on belt 3
-gareth	 Deposited toy WHISTLE with age 4 on belt 2
-gareth	 Deposited toy FAKETATTOO with age 10 on belt 2
-gareth	 Deposited toy DOLL with age 8 on belt 3
-gareth	 Deposited toy TRAIN with age 9 on belt 1
-gareth	 Deposited toy DOLL with age 2 on belt 3
-gareth	 Deposited toy TRAIN with age 4 on belt 1
-gareth	 Deposited toy WHISTLE with age 3 on belt 1
-gareth	 Deposited toy WHISTLE with age 11 on belt 1
-gareth	 Deposited toy TRAIN with age 4 on belt 3
-gareth	 Deposited toy DINOSAUR with age 15 on belt 3
-gareth	 Deposited toy TRAIN with age 9 on belt 3
-gareth	 Deposited toy FAKETATTOO with age 14 on belt 2
-gareth	 Deposited toy BRACELET with age 2 on belt 1
-gareth	 Deposited toy FAKETATTOO with age 4 on belt 3
+Time 1: gareth	 Deposited toy TRAIN with age 6 on belt 2
+Time 3: gareth	 Deposited toy TRAIN with age 14 on belt 1
+Time 5: gareth	 Deposited toy BRACELET with age 12 on belt 2
+Time 7: gareth	 Deposited toy TRAIN with age 12 on belt 1
+Time 10: gareth	 Deposited toy FAKETATTOO with age 3 on belt 1
+Time 12: gareth	 Deposited toy DOLL with age 8 on belt 1
+Time 17: gareth	 Deposited toy DOLL with age 13 on belt 1
+Time 19: gareth	 Deposited toy BRACELET with age 7 on belt 2
+Time 20: gareth	 Deposited toy FAKETATTOO with age 0 on belt 2
+Time 22: gareth	 Deposited toy TRAIN with age 1 on belt 1
+Time 24: gareth	 Deposited toy FAKETATTOO with age 7 on belt 2
+Time 26: gareth	 Deposited toy BRACELET with age 11 on belt 1
+Time 28: gareth	 Deposited toy DOLL with age 8 on belt 1
+Time 30: gareth	 Deposited toy BRACELET with age 14 on belt 2
+Time 32: gareth	 Deposited toy DINOSAUR with age 8 on belt 1
+Time 34: gareth	 Deposited toy TRAIN with age 5 on belt 1
+Time 36: gareth	 Deposited toy DOLL with age 0 on belt 2
+Time 38: gareth	 Deposited toy BRACELET with age 11 on belt 1
+Time 40: gareth	 Deposited toy TRAIN with age 10 on belt 2
+Time 41: gareth	 Deposited toy FAKETATTOO with age 0 on belt 3
+Time 44: gareth	 Deposited toy FAKETATTOO with age 3 on belt 3
+Time 46: gareth	 Deposited toy WHISTLE with age 7 on belt 3
+Time 48: gareth	 Deposited toy DOLL with age 8 on belt 1
+Time 50: gareth	 Deposited toy WHISTLE with age 11 on belt 3
+Time 51: gareth	 Deposited toy FAKETATTOO with age 9 on belt 2
+Time 52: gareth	 Deposited toy DOLL with age 2 on belt 2
+Time 53: gareth	 Deposited toy DOLL with age 7 on belt 2
+Time 54: gareth	 Deposited toy BRACELET with age 12 on belt 1
+Time 55: gareth	 Deposited toy TRAIN with age 2 on belt 3
+Time 57: gareth	 Deposited toy FAKETATTOO with age 13 on belt 2
+Time 59: gareth	 Deposited toy BRACELET with age 7 on belt 2
+Time 61: gareth	 Deposited toy TRAIN with age 6 on belt 3
+Time 63: gareth	 Deposited toy FAKETATTOO with age 7 on belt 3
+Time 65: gareth	 Deposited toy DOLL with age 5 on belt 3
+Time 66: gareth	 Deposited toy FAKETATTOO with age 12 on belt 1
+Time 70: gareth	 Deposited toy TRAIN with age 15 on belt 2
+Time 71: gareth	 Deposited toy WHISTLE with age 5 on belt 2
+Time 73: gareth	 Deposited toy DINOSAUR with age 9 on belt 3
+Time 75: gareth	 Deposited toy TRAIN with age 3 on belt 3
+Time 77: gareth	 Deposited toy FAKETATTOO with age 3 on belt 1
+Time 78: gareth	 Deposited toy DOLL with age 10 on belt 1
+Time 79: gareth	 Deposited toy TRAIN with age 9 on belt 2
+Time 82: gareth	 Deposited toy WHISTLE with age 7 on belt 3
+Time 83: gareth	 Deposited toy BRACELET with age 12 on belt 2
+Time 85: gareth	 Deposited toy DOLL with age 9 on belt 2
+Time 87: gareth	 Deposited toy DINOSAUR with age 3 on belt 2
+Time 89: gareth	 Deposited toy WHISTLE with age 8 on belt 1
+Time 91: gareth	 Deposited toy TRAIN with age 12 on belt 1
+Time 93: gareth	 Deposited toy BRACELET with age 3 on belt 3
+Time 94: gareth	 Deposited toy DINOSAUR with age 3 on belt 1
+Time 95: gareth	 Deposited toy DINOSAUR with age 15 on belt 2
+Time 97: gareth	 Deposited toy TRAIN with age 8 on belt 1
+Time 99: gareth	 Deposited toy FAKETATTOO with age 13 on belt 2
+Time 101: gareth	 Deposited toy FAKETATTOO with age 10 on belt 3
+Time 103: gareth	 Deposited toy BRACELET with age 2 on belt 2
+Time 105: gareth	 Deposited toy BRACELET with age 11 on belt 1
+Time 107: gareth	 Deposited toy DINOSAUR with age 7 on belt 2
+Time 110: gareth	 Deposited toy DOLL with age 17 on belt 1
+Time 112: gareth	 Deposited toy FAKETATTOO with age 1 on belt 1
+Time 114: gareth	 Deposited toy DOLL with age 2 on belt 2
+Time 115: gareth	 Deposited toy FAKETATTOO with age 9 on belt 1
+Time 118: gareth	 Deposited toy BRACELET with age 12 on belt 1
+Time 119: gareth	 Deposited toy DOLL with age 15 on belt 1
+Time 121: gareth	 Deposited toy TRAIN with age 4 on belt 2
+Time 122: gareth	 Deposited toy FAKETATTOO with age 2 on belt 1
+Time 124: gareth	 Deposited toy DINOSAUR with age 3 on belt 2
+Time 126: gareth	 Deposited toy TRAIN with age 12 on belt 2
+Time 127: gareth	 Deposited toy BRACELET with age 6 on belt 3
+Time 130: gareth	 Deposited toy BRACELET with age 12 on belt 2
+Time 132: gareth	 Deposited toy DOLL with age 12 on belt 3
+Time 134: gareth	 Deposited toy BRACELET with age 0 on belt 2
+Time 136: gareth	 Deposited toy DOLL with age 7 on belt 1
+Time 138: gareth	 Deposited toy BRACELET with age 10 on belt 1
+Time 140: gareth	 Deposited toy BRACELET with age 15 on belt 1
+Time 141: gareth	 Deposited toy DINOSAUR with age 15 on belt 2
+Time 143: gareth	 Deposited toy TRAIN with age 2 on belt 3
+Time 145: gareth	 Deposited toy DOLL with age 1 on belt 2
+Time 149: gareth	 Deposited toy BRACELET with age 13 on belt 1
+Time 150: Was interrupted

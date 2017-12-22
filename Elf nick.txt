@@ -1,90 +1,82 @@
-nick	 Deposited toy DINOSAUR with age 11 on belt 1
-nick	 Deposited toy DOLL with age 2 on belt 3
-nick	 Deposited toy DOLL with age 9 on belt 1
-nick	 Deposited toy DINOSAUR with age 13 on belt 3
-nick	 Deposited toy DOLL with age 9 on belt 1
-nick	 Deposited toy TRAIN with age 1 on belt 1
-nick	 Deposited toy DOLL with age 9 on belt 1
-nick	 Deposited toy FAKETATTOO with age 0 on belt 2
-nick	 Deposited toy DINOSAUR with age 10 on belt 2
-nick	 Deposited toy DINOSAUR with age 15 on belt 3
-nick	 Deposited toy DOLL with age 0 on belt 1
-nick	 Deposited toy DOLL with age 12 on belt 3
-nick	 Deposited toy TRAIN with age 12 on belt 2
-nick	 Deposited toy DINOSAUR with age 13 on belt 1
-nick	 Deposited toy WHISTLE with age 12 on belt 3
-nick	 Deposited toy DINOSAUR with age 0 on belt 2
-nick	 Deposited toy WHISTLE with age 9 on belt 1
-nick	 Deposited toy DINOSAUR with age 10 on belt 2
-nick	 Deposited toy DOLL with age 2 on belt 1
-nick	 Deposited toy DINOSAUR with age 4 on belt 1
-nick	 Deposited toy TRAIN with age 12 on belt 3
-nick	 Deposited toy TRAIN with age 3 on belt 1
-nick	 Deposited toy DINOSAUR with age 7 on belt 1
-nick	 Deposited toy DOLL with age 13 on belt 3
-nick	 Deposited toy DINOSAUR with age 9 on belt 3
-nick	 Deposited toy TRAIN with age 0 on belt 1
-nick	 Deposited toy DOLL with age 14 on belt 2
-nick	 Deposited toy DINOSAUR with age 0 on belt 1
-nick	 Deposited toy BRACELET with age 9 on belt 3
-nick	 Deposited toy FAKETATTOO with age 13 on belt 1
-nick	 Deposited toy TRAIN with age 17 on belt 2
-nick	 Deposited toy TRAIN with age 6 on belt 3
-nick	 Deposited toy BRACELET with age 10 on belt 2
-nick	 Deposited toy DINOSAUR with age 12 on belt 3
-nick	 Deposited toy DOLL with age 14 on belt 2
-nick	 Deposited toy BRACELET with age 6 on belt 3
-nick	 Deposited toy DINOSAUR with age 9 on belt 2
-nick	 Deposited toy DOLL with age 17 on belt 1
-nick	 Deposited toy DINOSAUR with age 3 on belt 3
-nick	 Deposited toy TRAIN with age 15 on belt 2
-nick	 Deposited toy TRAIN with age 5 on belt 3
-nick	 Deposited toy DINOSAUR with age 16 on belt 2
-nick	 Deposited toy FAKETATTOO with age 17 on belt 1
-nick	 Deposited toy WHISTLE with age 9 on belt 3
-nick	 Deposited toy TRAIN with age 8 on belt 1
-nick	 Deposited toy BRACELET with age 8 on belt 3
-nick	 Deposited toy DOLL with age 14 on belt 3
-nick	 Deposited toy DOLL with age 4 on belt 1
-nick	 Deposited toy BRACELET with age 13 on belt 3
-nick	 Deposited toy FAKETATTOO with age 3 on belt 2
-nick	 Deposited toy FAKETATTOO with age 13 on belt 1
-nick	 Deposited toy DINOSAUR with age 1 on belt 3
-nick	 Deposited toy TRAIN with age 10 on belt 1
-nick	 Deposited toy DOLL with age 10 on belt 3
-nick	 Deposited toy WHISTLE with age 9 on belt 2
-nick	 Deposited toy DINOSAUR with age 5 on belt 3
-nick	 Deposited toy DOLL with age 5 on belt 2
-nick	 Deposited toy FAKETATTOO with age 0 on belt 1
-nick	 Deposited toy BRACELET with age 5 on belt 3
-nick	 Deposited toy DOLL with age 6 on belt 2
-nick	 Deposited toy DINOSAUR with age 2 on belt 3
-nick	 Deposited toy FAKETATTOO with age 11 on belt 3
-nick	 Deposited toy BRACELET with age 3 on belt 2
-nick	 Deposited toy FAKETATTOO with age 13 on belt 2
-nick	 Deposited toy TRAIN with age 8 on belt 2
-nick	 Deposited toy FAKETATTOO with age 2 on belt 3
-nick	 Deposited toy BRACELET with age 9 on belt 3
-nick	 Deposited toy DOLL with age 14 on belt 3
-nick	 Deposited toy WHISTLE with age 10 on belt 2
-nick	 Deposited toy DINOSAUR with age 17 on belt 3
-nick	 Deposited toy DINOSAUR with age 0 on belt 2
-nick	 Deposited toy WHISTLE with age 13 on belt 1
-nick	 Deposited toy DOLL with age 3 on belt 2
-nick	 Deposited toy BRACELET with age 9 on belt 2
-nick	 Deposited toy DOLL with age 4 on belt 3
-nick	 Deposited toy BRACELET with age 13 on belt 1
-nick	 Deposited toy WHISTLE with age 0 on belt 3
-nick	 Deposited toy DOLL with age 4 on belt 3
-nick	 Deposited toy FAKETATTOO with age 14 on belt 2
-nick	 Deposited toy DOLL with age 4 on belt 1
-nick	 Deposited toy DINOSAUR with age 9 on belt 3
-nick	 Deposited toy BRACELET with age 17 on belt 2
-nick	 Deposited toy TRAIN with age 15 on belt 2
-nick	 Deposited toy TRAIN with age 12 on belt 3
-nick	 Deposited toy DINOSAUR with age 9 on belt 2
-nick	 Deposited toy FAKETATTOO with age 1 on belt 2
-nick	 Deposited toy DOLL with age 6 on belt 3
-nick	 Deposited toy DOLL with age 9 on belt 1
-nick	 Deposited toy DINOSAUR with age 15 on belt 2
-nick	 Deposited toy FAKETATTOO with age 9 on belt 2
+Time 2: nick	 Deposited toy TRAIN with age 1 on belt 2
+Time 4: nick	 Deposited toy WHISTLE with age 14 on belt 2
+Time 6: nick	 Deposited toy TRAIN with age 4 on belt 2
+Time 8: nick	 Deposited toy BRACELET with age 0 on belt 2
+Time 10: nick	 Deposited toy DINOSAUR with age 15 on belt 2
+Time 11: nick	 Deposited toy BRACELET with age 12 on belt 2
+Time 14: nick	 Deposited toy TRAIN with age 14 on belt 1
+Time 16: nick	 Deposited toy BRACELET with age 16 on belt 2
+Time 18: nick	 Deposited toy DINOSAUR with age 4 on belt 2
+Time 20: nick	 Deposited toy TRAIN with age 0 on belt 1
+Time 22: nick	 Deposited toy FAKETATTOO with age 9 on belt 3
+Time 23: nick	 Deposited toy DINOSAUR with age 1 on belt 3
+Time 25: nick	 Deposited toy BRACELET with age 10 on belt 1
+Time 27: nick	 Deposited toy WHISTLE with age 12 on belt 2
+Time 29: nick	 Deposited toy DOLL with age 13 on belt 3
+Time 31: nick	 Deposited toy TRAIN with age 15 on belt 3
+Time 33: nick	 Deposited toy DOLL with age 12 on belt 1
+Time 35: nick	 Deposited toy DINOSAUR with age 5 on belt 3
+Time 37: nick	 Deposited toy FAKETATTOO with age 14 on belt 1
+Time 38: nick	 Deposited toy FAKETATTOO with age 9 on belt 1
+Time 40: nick	 Deposited toy DOLL with age 8 on belt 2
+Time 42: nick	 Deposited toy DOLL with age 17 on belt 2
+Time 44: nick	 Deposited toy BRACELET with age 15 on belt 3
+Time 47: nick	 Deposited toy DOLL with age 2 on belt 3
+Time 48: nick	 Deposited toy BRACELET with age 0 on belt 1
+Time 49: nick	 Deposited toy DOLL with age 12 on belt 2
+Time 51: nick	 Deposited toy DOLL with age 1 on belt 3
+Time 53: nick	 Deposited toy DOLL with age 6 on belt 2
+Time 54: nick	 Deposited toy DOLL with age 12 on belt 2
+Time 56: nick	 Deposited toy BRACELET with age 9 on belt 1
+Time 58: nick	 Deposited toy BRACELET with age 12 on belt 3
+Time 61: nick	 Deposited toy WHISTLE with age 7 on belt 3
+Time 63: nick	 Deposited toy BRACELET with age 13 on belt 2
+Time 64: nick	 Deposited toy FAKETATTOO with age 12 on belt 1
+Time 66: nick	 Deposited toy DINOSAUR with age 13 on belt 1
+Time 69: nick	 Deposited toy BRACELET with age 4 on belt 1
+Time 70: nick	 Deposited toy WHISTLE with age 6 on belt 1
+Time 71: nick	 Deposited toy FAKETATTOO with age 17 on belt 3
+Time 73: nick	 Deposited toy DINOSAUR with age 15 on belt 1
+Time 75: nick	 Deposited toy WHISTLE with age 0 on belt 2
+Time 76: nick	 Deposited toy DINOSAUR with age 13 on belt 3
+Time 78: nick	 Deposited toy FAKETATTOO with age 16 on belt 1
+Time 80: nick	 Deposited toy TRAIN with age 10 on belt 1
+Time 81: nick	 Deposited toy WHISTLE with age 0 on belt 2
+Time 83: nick	 Deposited toy FAKETATTOO with age 2 on belt 3
+Time 84: nick	 Deposited toy TRAIN with age 8 on belt 1
+Time 85: nick	 Deposited toy FAKETATTOO with age 12 on belt 1
+Time 87: nick	 Deposited toy DOLL with age 14 on belt 3
+Time 91: nick	 Deposited toy TRAIN with age 2 on belt 2
+Time 92: nick	 Deposited toy DOLL with age 9 on belt 3
+Time 94: nick	 Deposited toy FAKETATTOO with age 6 on belt 2
+Time 96: nick	 Deposited toy DINOSAUR with age 11 on belt 2
+Time 97: nick	 Deposited toy TRAIN with age 9 on belt 1
+Time 98: nick	 Deposited toy DOLL with age 16 on belt 1
+Time 100: nick	 Deposited toy BRACELET with age 11 on belt 3
+Time 102: nick	 Deposited toy FAKETATTOO with age 17 on belt 1
+Time 104: nick	 Deposited toy DINOSAUR with age 9 on belt 1
+Time 106: nick	 Deposited toy BRACELET with age 9 on belt 2
+Time 109: nick	 Deposited toy DOLL with age 4 on belt 2
+Time 111: nick	 Deposited toy FAKETATTOO with age 2 on belt 1
+Time 112: nick	 Deposited toy FAKETATTOO with age 13 on belt 2
+Time 114: nick	 Deposited toy TRAIN with age 13 on belt 2
+Time 116: nick	 Deposited toy DOLL with age 12 on belt 1
+Time 117: nick	 Deposited toy BRACELET with age 5 on belt 1
+Time 118: nick	 Deposited toy WHISTLE with age 0 on belt 2
+Time 120: nick	 Deposited toy WHISTLE with age 5 on belt 3
+Time 122: nick	 Deposited toy DINOSAUR with age 9 on belt 3
+Time 125: nick	 Deposited toy DINOSAUR with age 17 on belt 3
+Time 127: nick	 Deposited toy DOLL with age 17 on belt 2
+Time 128: nick	 Deposited toy DINOSAUR with age 9 on belt 1
+Time 131: nick	 Deposited toy BRACELET with age 10 on belt 2
+Time 132: nick	 Deposited toy WHISTLE with age 10 on belt 3
+Time 133: nick	 Deposited toy DINOSAUR with age 2 on belt 2
+Time 134: nick	 Deposited toy BRACELET with age 2 on belt 1
+Time 137: nick	 Deposited toy BRACELET with age 4 on belt 3
+Time 139: nick	 Deposited toy FAKETATTOO with age 12 on belt 1
+Time 141: nick	 Deposited toy FAKETATTOO with age 1 on belt 2
+Time 142: nick	 Deposited toy BRACELET with age 12 on belt 3
+Time 144: nick	 Deposited toy BRACELET with age 16 on belt 1
+Time 145: nick	 Deposited toy TRAIN with age 4 on belt 3
+Time 149: nick	 Deposited toy DINOSAUR with age 17 on belt 3
+Time 150: Was interrupted

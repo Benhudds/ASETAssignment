@@ -51,7 +51,7 @@ public class RedHattedElf extends Elf {
     // Method to feed the reindeer
     private void feedReindeer() throws InterruptedException {
         // Wait some random time
-        int ranSleep = ThreadLocalRandom.current().nextInt(0, 50);
+        int ranSleep = ThreadLocalRandom.current().nextInt(1000, 5000);
         Thread.sleep(ranSleep);
         
         totalTimesReindeerFed++;
@@ -89,7 +89,7 @@ public class RedHattedElf extends Elf {
     private Present selectToy() throws InterruptedException
     {
         // Wait some random time
-        int ranSleep = ThreadLocalRandom.current().nextInt(0, 50);
+        int ranSleep = ThreadLocalRandom.current().nextInt(1000, 2500);
         Thread.sleep(ranSleep);
         
         // Create and return a present with random type and age

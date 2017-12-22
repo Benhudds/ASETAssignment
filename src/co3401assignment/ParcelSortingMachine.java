@@ -47,16 +47,21 @@ public class ParcelSortingMachine implements Runnable {
     
     // Method to create the elves
     private void gatherElves() {
-        redHattedElves = new Elf[5];
+        redHattedElves = new Elf[11];
         redHattedElves[0] = new RedHattedElf("nick", entry, sacks);
         redHattedElves[1] = new RedHattedElf("chris", entry, sacks);
         redHattedElves[2] = new RedHattedElf("li", entry, sacks);
         redHattedElves[3] = new RedHattedElf("gareth", entry, sacks);
         redHattedElves[4] = new RedHattedElf("jonathan", entry, sacks);
-        
-        greenHattedElves = new Elf[2];
+        redHattedElves[5] = new RedHattedElf("dan", entry, sacks);
+        redHattedElves[6] = new RedHattedElf("patrick", entry, sacks);
+        redHattedElves[7] = new RedHattedElf("nicki", entry, sacks);
+        redHattedElves[8] = new RedHattedElf("leslie", entry, sacks);
+        redHattedElves[9] = new RedHattedElf("lecturer1", entry, sacks);
+        redHattedElves[10] = new RedHattedElf("lecturer2", entry, sacks);
+       
+        greenHattedElves = new Elf[1];
         greenHattedElves[0] = new GreenHattedElf("doug", sacks);
-        greenHattedElves[1] = new GreenHattedElf("josh", sacks);
     }
     
     // Method to create the machine
@@ -190,7 +195,7 @@ public class ParcelSortingMachine implements Runnable {
         }
         
         // Run for 5 ticks (10 mins)
-        while(clock.getTime() < 5) {
+        while(clock.getTime() < 150) {
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {

@@ -38,7 +38,7 @@ public abstract class ThreadBase {
             return;
         }
         
-        this.out.println(log);
+        this.out.println("Time " + Clock.getTime() + ": " + log);
     }
     
     public void close() {
