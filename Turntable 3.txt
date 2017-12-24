@@ -1,1053 +1,969 @@
-Time 1: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 1: Put present TRAIN with age 4 into sack
-Time 1: Put present DINOSAUR with age 6 into sack
+Time 1: Put present WHISTLE with age 10 onto conveyor belt 6
 Time 1: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 1: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 1: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 1: Put present BRACELET with age 7 into sack
-Time 1: Put present BRACELET with age 5 into sack
-Time 2: Put present DOLL with age 12 onto conveyor belt 6
-Time 2: Put present BRACELET with age 12 onto conveyor belt 6
-Time 2: Put present DOLL with age 14 onto conveyor belt 6
-Time 2: Put present DOLL with age 4 into sack
-Time 2: Put present DOLL with age 8 into sack
-Time 2: Put present TRAIN with age 15 onto conveyor belt 6
-Time 2: Put present BRACELET with age 16 onto conveyor belt 6
-Time 2: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 2: Put present TRAIN with age 7 into sack
-Time 2: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 2: Put present BRACELET with age 6 into sack
-Time 2: Put present BRACELET with age 7 into sack
-Time 2: Put present BRACELET with age 10 onto conveyor belt 6
-Time 3: Put present TRAIN with age 7 into sack
-Time 3: Put present TRAIN with age 8 into sack
-Time 3: Put present DINOSAUR with age 5 into sack
-Time 3: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 3: Put present DOLL with age 13 onto conveyor belt 6
-Time 3: Put present FAKETATTOO with age 14 onto conveyor belt 6
-Time 3: Put present FAKETATTOO with age 8 into sack
-Time 3: Put present TRAIN with age 14 onto conveyor belt 6
-Time 4: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 4: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 4: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 4: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 1: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 1: Put present BRACELET with age 17 onto conveyor belt 6
+Time 1: Put present WHISTLE with age 9 into sack
+Time 1: Put present BRACELET with age 14 onto conveyor belt 6
+Time 1: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 1: Put present BRACELET with age 12 onto conveyor belt 6
+Time 1: Put present BRACELET with age 13 onto conveyor belt 6
+Time 1: Put present TRAIN with age 9 into sack
+Time 1: Put present DOLL with age 6 into sack
+Time 2: Put present DINOSAUR with age 8 into sack
+Time 2: Put present TRAIN with age 10 onto conveyor belt 6
+Time 2: Put present TRAIN with age 6 into sack
+Time 2: Put present TRAIN with age 16 onto conveyor belt 6
+Time 2: Put present FAKETATTOO with age 5 into sack
+Time 2: Put present DINOSAUR with age 4 into sack
+Time 2: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 2: Put present TRAIN with age 16 onto conveyor belt 6
+Time 2: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 2: Put present DOLL with age 17 onto conveyor belt 6
+Time 2: Put present BRACELET with age 4 into sack
+Time 2: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 3: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 3: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 3: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 3: Put present BRACELET with age 12 onto conveyor belt 6
+Time 3: Put present WHISTLE with age 6 into sack
+Time 3: Put present DINOSAUR with age 4 into sack
+Time 3: Put present FAKETATTOO with age 16 onto conveyor belt 6
+Time 3: Put present TRAIN with age 4 into sack
+Time 4: Put present DINOSAUR with age 6 into sack
 Time 4: Put present TRAIN with age 9 into sack
-Time 4: Put present BRACELET with age 13 onto conveyor belt 6
-Time 4: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 4: Put present FAKETATTOO with age 7 into sack
-Time 5: Put present WHISTLE with age 8 into sack
-Time 5: Put present FAKETATTOO with age 4 into sack
-Time 5: Put present TRAIN with age 8 into sack
-Time 5: Put present FAKETATTOO with age 7 into sack
-Time 5: Put present TRAIN with age 8 into sack
-Time 5: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 5: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 5: Put present DINOSAUR with age 8 into sack
+Time 4: Put present BRACELET with age 4 into sack
+Time 4: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 4: Put present TRAIN with age 4 into sack
+Time 4: Put present TRAIN with age 12 onto conveyor belt 6
+Time 4: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 4: Put present DINOSAUR with age 4 into sack
+Time 4: Put present DOLL with age 17 onto conveyor belt 6
+Time 5: Put present DOLL with age 7 into sack
+Time 5: Put present BRACELET with age 15 onto conveyor belt 6
 Time 5: Put present BRACELET with age 12 onto conveyor belt 6
+Time 5: Put present TRAIN with age 8 into sack
+Time 5: Put present DOLL with age 9 into sack
+Time 5: Put present TRAIN with age 14 onto conveyor belt 6
+Time 5: Put present BRACELET with age 9 into sack
 Time 6: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 6: Put present BRACELET with age 8 into sack
-Time 6: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 6: Put present FAKETATTOO with age 9 into sack
-Time 6: Put present TRAIN with age 13 onto conveyor belt 6
-Time 6: Put present WHISTLE with age 5 into sack
-Time 6: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 6: Put present TRAIN with age 7 into sack
-Time 6: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 6: Put present TRAIN with age 12 onto conveyor belt 6
-Time 7: Put present BRACELET with age 16 onto conveyor belt 6
-Time 7: Put present BRACELET with age 10 onto conveyor belt 6
-Time 7: Put present TRAIN with age 7 into sack
-Time 7: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 7: Put present BRACELET with age 6 into sack
-Time 8: Put present BRACELET with age 5 into sack
-Time 8: Put present BRACELET with age 14 onto conveyor belt 6
-Time 8: Put present WHISTLE with age 9 into sack
-Time 8: Put present FAKETATTOO with age 5 into sack
-Time 8: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 8: Put present DOLL with age 16 onto conveyor belt 6
-Time 8: Put present TRAIN with age 7 into sack
-Time 8: Put present DINOSAUR with age 8 into sack
-Time 8: Put present BRACELET with age 16 onto conveyor belt 6
-Time 8: Put present DOLL with age 4 into sack
-Time 8: Put present WHISTLE with age 7 into sack
-Time 8: Put present BRACELET with age 14 onto conveyor belt 6
-Time 8: Put present FAKETATTOO with age 7 into sack
-Time 8: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 9: Put present BRACELET with age 10 onto conveyor belt 6
-Time 9: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 9: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 9: Put present WHISTLE with age 4 into sack
-Time 9: Put present BRACELET with age 17 onto conveyor belt 6
-Time 9: Put present FAKETATTOO with age 7 into sack
-Time 9: Put present BRACELET with age 14 onto conveyor belt 6
-Time 10: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 12: Put present DOLL with age 11 onto conveyor belt 6
-Time 12: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 6: Put present TRAIN with age 14 onto conveyor belt 6
+Time 6: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 6: Put present TRAIN with age 17 onto conveyor belt 6
+Time 6: Put present BRACELET with age 15 onto conveyor belt 6
+Time 6: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 6: Put present WHISTLE with age 4 into sack
+Time 6: Put present WHISTLE with age 4 into sack
+Time 6: Put present DOLL with age 15 onto conveyor belt 6
+Time 6: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 6: Put present TRAIN with age 14 onto conveyor belt 6
+Time 6: Put present TRAIN with age 15 onto conveyor belt 6
+Time 7: Put present DOLL with age 12 onto conveyor belt 6
+Time 7: Put present BRACELET with age 4 into sack
+Time 7: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 7: Put present FAKETATTOO with age 5 into sack
+Time 7: Put present DOLL with age 14 onto conveyor belt 6
+Time 7: Put present WHISTLE with age 6 into sack
+Time 7: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 7: Put present FAKETATTOO with age 7 into sack
+Time 7: Put present TRAIN with age 9 into sack
+Time 8: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 8: Put present DOLL with age 12 onto conveyor belt 6
+Time 8: Put present BRACELET with age 17 onto conveyor belt 6
+Time 8: Put present DOLL with age 13 onto conveyor belt 6
+Time 9: Put present DOLL with age 13 onto conveyor belt 6
+Time 10: Put present TRAIN with age 11 onto conveyor belt 6
+Time 10: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 10: Put present TRAIN with age 6 into sack
+Time 10: Put present DINOSAUR with age 9 into sack
+Time 10: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 11: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 11: Put present DOLL with age 5 into sack
 Time 12: Put present BRACELET with age 5 into sack
-Time 12: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 12: Put present TRAIN with age 14 onto conveyor belt 6
-Time 12: Put present DINOSAUR with age 4 into sack
-Time 12: Put present BRACELET with age 15 onto conveyor belt 6
-Time 12: Put present DINOSAUR with age 8 into sack
-Time 13: Put present WHISTLE with age 9 into sack
-Time 13: Put present BRACELET with age 8 into sack
-Time 13: Put present WHISTLE with age 5 into sack
-Time 13: Put present BRACELET with age 16 onto conveyor belt 6
-Time 13: Put present DINOSAUR with age 6 into sack
-Time 14: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 14: Put present FAKETATTOO with age 4 into sack
+Time 12: Put present WHISTLE with age 8 into sack
+Time 12: Put present TRAIN with age 12 onto conveyor belt 6
+Time 12: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 12: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 12: Put present TRAIN with age 11 onto conveyor belt 6
+Time 12: Put present FAKETATTOO with age 4 into sack
+Time 12: Put present DOLL with age 13 onto conveyor belt 6
+Time 12: Put present FAKETATTOO with age 8 into sack
+Time 13: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 14: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 14: Put present BRACELET with age 11 onto conveyor belt 6
 Time 14: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 14: Put present TRAIN with age 9 into sack
-Time 14: Put present DOLL with age 6 into sack
-Time 14: Put present BRACELET with age 8 into sack
-Time 14: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 14: Put present FAKETATTOO with age 4 into sack
-Time 14: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 14: Put present DINOSAUR with age 6 into sack
-Time 15: Put present BRACELET with age 12 onto conveyor belt 6
+Time 14: Put present DOLL with age 12 onto conveyor belt 6
+Time 14: Put present BRACELET with age 12 onto conveyor belt 6
+Time 14: Put present WHISTLE with age 9 into sack
+Time 14: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 14: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 14: Put present BRACELET with age 10 onto conveyor belt 6
+Time 14: Put present WHISTLE with age 9 into sack
+Time 14: Put present TRAIN with age 6 into sack
+Time 14: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 14: Put present WHISTLE with age 6 into sack
+Time 14: Put present DOLL with age 9 into sack
+Time 14: Put present DOLL with age 4 into sack
+Time 14: Put present DOLL with age 12 onto conveyor belt 6
+Time 14: Put present TRAIN with age 10 onto conveyor belt 6
+Time 14: Put present BRACELET with age 6 into sack
+Time 15: Put present DOLL with age 13 onto conveyor belt 6
+Time 15: Put present BRACELET with age 17 onto conveyor belt 6
+Time 15: Put present BRACELET with age 17 onto conveyor belt 6
 Time 15: Put present BRACELET with age 5 into sack
-Time 15: Put present TRAIN with age 6 into sack
-Time 16: Put present BRACELET with age 6 into sack
-Time 16: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 16: Put present DOLL with age 12 onto conveyor belt 6
-Time 16: Put present DOLL with age 5 into sack
-Time 16: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 16: Put present TRAIN with age 13 onto conveyor belt 6
-Time 16: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 15: Put present DOLL with age 6 into sack
+Time 15: Put present DOLL with age 9 into sack
+Time 15: Put present DOLL with age 11 onto conveyor belt 6
+Time 15: Put present FAKETATTOO with age 9 into sack
+Time 16: Put present WHISTLE with age 8 into sack
+Time 16: Put present WHISTLE with age 8 into sack
+Time 16: Put present BRACELET with age 15 onto conveyor belt 6
+Time 16: Put present DOLL with age 9 into sack
+Time 16: Put present DOLL with age 17 onto conveyor belt 6
+Time 16: Put present TRAIN with age 14 onto conveyor belt 6
+Time 16: Put present BRACELET with age 9 into sack
+Time 16: Put present DINOSAUR with age 4 into sack
 Time 16: Put present DOLL with age 14 onto conveyor belt 6
-Time 16: Put present WHISTLE with age 9 into sack
-Time 16: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 17: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 17: Put present FAKETATTOO with age 16 onto conveyor belt 6
+Time 17: Put present DOLL with age 11 onto conveyor belt 6
+Time 17: Put present BRACELET with age 7 into sack
+Time 17: Put present TRAIN with age 9 into sack
+Time 17: Put present DINOSAUR with age 7 into sack
 Time 17: Put present DINOSAUR with age 5 into sack
-Time 17: Put present BRACELET with age 11 onto conveyor belt 6
-Time 17: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 17: Put present WHISTLE with age 4 into sack
-Time 17: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 17: Put present FAKETATTOO with age 4 into sack
-Time 18: Put present TRAIN with age 8 into sack
-Time 18: Put present BRACELET with age 9 into sack
-Time 18: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 17: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 17: Put present FAKETATTOO with age 17 onto conveyor belt 6
 Time 18: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 18: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 18: Put present BRACELET with age 10 onto conveyor belt 6
-Time 18: Put present DOLL with age 11 onto conveyor belt 6
-Time 18: Put present TRAIN with age 17 onto conveyor belt 6
-Time 18: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 18: Put present DOLL with age 13 onto conveyor belt 6
-Time 19: Put present BRACELET with age 17 onto conveyor belt 6
-Time 19: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 19: Put present DOLL with age 17 onto conveyor belt 6
-Time 19: Put present WHISTLE with age 7 into sack
-Time 19: Put present BRACELET with age 14 onto conveyor belt 6
-Time 20: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 20: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 20: Put present DOLL with age 10 onto conveyor belt 6
+Time 18: Put present WHISTLE with age 9 into sack
+Time 18: Put present TRAIN with age 6 into sack
+Time 18: Put present DINOSAUR with age 8 into sack
+Time 18: Put present DOLL with age 4 into sack
+Time 18: Put present FAKETATTOO with age 6 into sack
+Time 18: Put present WHISTLE with age 7 into sack
+Time 18: Put present BRACELET with age 16 onto conveyor belt 6
+Time 18: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 18: Put present BRACELET with age 6 into sack
+Time 18: Put present BRACELET with age 6 into sack
+Time 19: Put present BRACELET with age 12 onto conveyor belt 6
+Time 19: Put present TRAIN with age 16 onto conveyor belt 6
+Time 19: Put present BRACELET with age 11 onto conveyor belt 6
+Time 19: Put present TRAIN with age 4 into sack
+Time 20: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 20: Put present WHISTLE with age 15 onto conveyor belt 6
 Time 20: Put present BRACELET with age 9 into sack
-Time 20: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 20: Put present DOLL with age 7 into sack
-Time 21: Put present TRAIN with age 14 onto conveyor belt 6
+Time 20: Put present FAKETATTOO with age 16 onto conveyor belt 6
+Time 20: Put present DOLL with age 17 onto conveyor belt 6
+Time 20: Put present DINOSAUR with age 5 into sack
 Time 21: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 21: Put present FAKETATTOO with age 4 into sack
-Time 21: Put present TRAIN with age 16 onto conveyor belt 6
-Time 21: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 22: Put present FAKETATTOO with age 9 into sack
-Time 22: Put present WHISTLE with age 6 into sack
-Time 22: Put present BRACELET with age 11 onto conveyor belt 6
-Time 22: Put present DOLL with age 17 onto conveyor belt 6
-Time 22: Put present FAKETATTOO with age 8 into sack
-Time 22: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 22: Put present FAKETATTOO with age 5 into sack
-Time 23: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 23: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 23: Put present DOLL with age 9 into sack
-Time 23: Put present DOLL with age 16 onto conveyor belt 6
-Time 24: Put present DOLL with age 11 onto conveyor belt 6
-Time 24: Put present DOLL with age 17 onto conveyor belt 6
-Time 24: Put present TRAIN with age 16 onto conveyor belt 6
-Time 24: Put present TRAIN with age 7 into sack
-Time 24: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 24: Put present TRAIN with age 13 onto conveyor belt 6
-Time 24: Put present DOLL with age 14 onto conveyor belt 6
+Time 21: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 22: Put present DOLL with age 7 into sack
+Time 23: Put present BRACELET with age 16 onto conveyor belt 6
+Time 23: Put present DINOSAUR with age 7 into sack
+Time 23: Put present TRAIN with age 8 into sack
+Time 23: Put present DOLL with age 11 onto conveyor belt 6
+Time 23: Put present DOLL with age 6 into sack
 Time 24: Put present BRACELET with age 7 into sack
-Time 25: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 25: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 25: Put present TRAIN with age 13 onto conveyor belt 6
-Time 26: Put present BRACELET with age 8 into sack
-Time 26: Put present TRAIN with age 6 into sack
-Time 26: Put present TRAIN with age 8 into sack
-Time 26: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 27: Put present BRACELET with age 12 onto conveyor belt 6
-Time 27: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 27: Put present BRACELET with age 6 into sack
-Time 27: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 28: Put present DOLL with age 11 onto conveyor belt 6
-Time 28: Put present TRAIN with age 10 onto conveyor belt 6
-Time 28: Put present DOLL with age 15 onto conveyor belt 6
-Time 28: Put present DOLL with age 17 onto conveyor belt 6
-Time 28: Put present TRAIN with age 10 onto conveyor belt 6
-Time 28: Put present BRACELET with age 13 onto conveyor belt 6
-Time 28: Put present DOLL with age 11 onto conveyor belt 6
-Time 29: Put present WHISTLE with age 5 into sack
-Time 29: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 29: Put present TRAIN with age 4 into sack
-Time 29: Put present DOLL with age 6 into sack
-Time 29: Put present DINOSAUR with age 5 into sack
+Time 24: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 25: Put present DOLL with age 5 into sack
+Time 25: Put present FAKETATTOO with age 9 into sack
+Time 25: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 25: Put present WHISTLE with age 9 into sack
+Time 25: Put present DOLL with age 4 into sack
+Time 25: Put present BRACELET with age 4 into sack
+Time 25: Put present WHISTLE with age 8 into sack
+Time 25: Put present DOLL with age 7 into sack
+Time 25: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 26: Put present DINOSAUR with age 8 into sack
+Time 26: Put present BRACELET with age 7 into sack
+Time 26: Put present DOLL with age 6 into sack
+Time 26: Put present TRAIN with age 5 into sack
+Time 26: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 26: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 26: Put present DOLL with age 6 into sack
+Time 26: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 26: Put present FAKETATTOO with age 7 into sack
+Time 27: Put present DOLL with age 9 onto conveyor belt 6
+Time 27: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 29: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 29: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 29: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 29: Put present DOLL with age 9 into sack
+Time 29: Put present DOLL with age 8 into sack
+Time 29: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 29: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 29: Put present DOLL with age 12 onto conveyor belt 6
+Time 29: Put present BRACELET with age 16 onto conveyor belt 6
+Time 29: Put present WHISTLE with age 4 into sack
 Time 29: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 29: Put present DOLL with age 4 into sack
-Time 29: Put present DINOSAUR with age 9 into sack
-Time 29: Put present TRAIN with age 7 into sack
-Time 29: Put present TRAIN with age 14 onto conveyor belt 6
-Time 29: Put present TRAIN with age 12 onto conveyor belt 6
-Time 30: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 30: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 30: Put present TRAIN with age 8 into sack
-Time 30: Put present DOLL with age 16 onto conveyor belt 6
-Time 30: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 30: Put present BRACELET with age 14 onto conveyor belt 6
-Time 30: Put present BRACELET with age 10 onto conveyor belt 6
-Time 30: Put present DOLL with age 6 into sack
-Time 31: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 31: Put present BRACELET with age 8 into sack
-Time 31: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 31: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 29: Put present DOLL with age 15 onto conveyor belt 6
+Time 30: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 30: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 30: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 30: Put present BRACELET with age 15 onto conveyor belt 6
+Time 30: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 30: Put present DOLL with age 17 onto conveyor belt 6
+Time 30: Put present BRACELET with age 12 onto conveyor belt 6
+Time 30: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 30: Put present TRAIN with age 4 into sack
+Time 30: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 30: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 31: Put present DOLL with age 4 into sack
+Time 31: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 31: Put present BRACELET with age 16 onto conveyor belt 6
 Time 31: Put present BRACELET with age 9 into sack
-Time 31: Put present BRACELET with age 17 onto conveyor belt 6
-Time 31: Put present FAKETATTOO with age 5 into sack
-Time 32: Put present BRACELET with age 12 onto conveyor belt 6
-Time 32: Put present FAKETATTOO with age 4 into sack
+Time 31: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 31: Put present TRAIN with age 7 into sack
+Time 31: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 31: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 32: Put present BRACELET with age 7 into sack
 Time 32: Put present FAKETATTOO with age 7 into sack
-Time 32: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 33: Put present BRACELET with age 7 into sack
-Time 33: Put present TRAIN with age 17 onto conveyor belt 6
-Time 33: Put present BRACELET with age 5 into sack
-Time 33: Put present DOLL with age 8 into sack
-Time 33: Put present WHISTLE with age 4 into sack
-Time 33: Put present BRACELET with age 12 onto conveyor belt 6
+Time 32: Put present TRAIN with age 5 into sack
+Time 32: Put present TRAIN with age 17 onto conveyor belt 6
+Time 32: Put present DOLL with age 7 into sack
+Time 32: Put present TRAIN with age 5 into sack
+Time 32: Put present TRAIN with age 6 into sack
+Time 32: Put present TRAIN with age 8 into sack
+Time 32: Put present BRACELET with age 14 onto conveyor belt 6
+Time 32: Put present BRACELET with age 6 into sack
+Time 33: Put present TRAIN with age 6 into sack
+Time 33: Put present FAKETATTOO with age 4 into sack
+Time 33: Put present TRAIN with age 13 onto conveyor belt 6
 Time 33: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 33: Put present TRAIN with age 10 onto conveyor belt 6
-Time 33: Put present TRAIN with age 14 onto conveyor belt 6
-Time 33: Put present DOLL with age 12 onto conveyor belt 6
-Time 33: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 33: Put present TRAIN with age 7 into sack
-Time 34: Put present DOLL with age 5 into sack
-Time 34: Put present DOLL with age 6 into sack
-Time 34: Put present FAKETATTOO with age 4 into sack
-Time 34: Put present TRAIN with age 6 into sack
-Time 34: Put present BRACELET with age 10 onto conveyor belt 6
-Time 34: Put present TRAIN with age 10 onto conveyor belt 6
-Time 34: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 35: Put present BRACELET with age 5 into sack
-Time 35: Put present TRAIN with age 13 onto conveyor belt 6
-Time 35: Put present DOLL with age 14 onto conveyor belt 6
-Time 35: Put present TRAIN with age 5 into sack
-Time 35: Put present TRAIN with age 12 onto conveyor belt 6
-Time 35: Put present BRACELET with age 15 onto conveyor belt 6
-Time 35: Put present DOLL with age 11 onto conveyor belt 6
-Time 35: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 33: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 33: Put present WHISTLE with age 9 into sack
+Time 33: Put present TRAIN with age 6 into sack
+Time 33: Put present DINOSAUR with age 4 into sack
+Time 34: Put present WHISTLE with age 5 into sack
+Time 34: Put present DOLL with age 14 onto conveyor belt 6
+Time 34: Put present WHISTLE with age 9 into sack
+Time 34: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 34: Put present FAKETATTOO with age 5 into sack
+Time 34: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 34: Put present WHISTLE with age 6 into sack
+Time 34: Put present TRAIN with age 12 onto conveyor belt 6
+Time 35: Put present BRACELET with age 11 onto conveyor belt 6
+Time 35: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 35: Put present DOLL with age 15 onto conveyor belt 6
+Time 35: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 35: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 35: Put present WHISTLE with age 9 into sack
+Time 35: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 35: Put present DOLL with age 13 onto conveyor belt 6
+Time 35: Put present DOLL with age 6 into sack
+Time 35: Put present DOLL with age 5 into sack
+Time 36: Put present DOLL with age 7 into sack
+Time 36: Put present BRACELET with age 11 onto conveyor belt 6
+Time 36: Put present DOLL with age 13 onto conveyor belt 6
+Time 36: Put present WHISTLE with age 5 into sack
+Time 36: Put present WHISTime 39: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 39: Put present BRACETime 36: Put present DOLL with age 10 onto conveyor belt 6
 Time 36: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 37: Put present BRACELET with age 10 onto conveyor belt 6
-Time 37: Put present BRACELET with age 11 onto conveyor belt 6
-Time 37: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 37: Put present DOLL with age 16 onto conveyor belt 6
-Time 38: Put present FAKETATTOO with age 6 into sack
-Time 39: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 39: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 39: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 39: Put present BRACELET with age 10 onto conveyor belt 6
-Time 39: Put present TRAIN with age 5 into sack
-Time 39: Put present DINOSAUR with age 7 into sack
-Time 39: Put present DINOSAUR with age 9 into sack
-Time 39: Put present DINOSAUR with age 7 into sack
-Time 40: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 40: Put present TRAIN with age 15 onto conveyor belt 6
-Time 40: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 40: Put present BRACELET with age 14 onto conveyor belt 6
+Time 37: Put Time 40: Put present BRACELET with age 10 onto conveyor belt 6
 Time 40: Put present FAKETATTOO with age 7 into sack
-Time 40: Put present DINOSAUR with age 4 into sack
-Time 41: Put present WHISTLE with age 4 into sack
-Time 41: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 41: Put present BRACELET with age 9 into sack
-Time 41: Put present BRACELET with age 10 onto conveyor belt 6
-Time 41: Put present FAKETATTOO with age 4 into sack
-Time 41: Put present TRAIN with age 4 into sack
-Time 41: Put present DINOSAUR with age 6 into sack
-Time 41: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 41: Put present DOLL with age 4 into sack
-Time 41: Put present BRACELET with age 6 into sack
-Time 42: Put present TRAIN with age 5 into sack
-Time 42: Put present TRAIN with age 12 onto conveyor belt 6
-Time 42: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 42: Put present DOLL with age 16 onto conveyor belt 6
-Time 42: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 42: Put present BRACELET with age 13 onto conveyor belt 6
-Time 42: Put present BRACELET with age 13 onto conveyor belt 6
-Time 42: Put present DOLL with age 4 into sack
+Time 40: Put present WHISTLE with age 1Time 38: Put present DOLL with age 12 onto conveyor belt 6
+Time 38: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 39: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 39: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 40: Put present DINOSAUR with age 5 into sack
+Time 40: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 40: Put present TRAIN with age 15 onto conveyor belt 6
+Time 40: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 40: Put present WHISTLE with age 4 into sack
+Time 41: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 41: Put present TRAIN with age 5 into sack
+Time 41: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 41: Put present DOLL with age 6 into sack
+Time 41: Put present DOLL with age 13 onto conveyor belt 6
+Time 41: Put present FAKETATTOO with age 5 into sack
+Time 42: Put present BRACELET with age 10 onto conveyor belt 6
+Time 42: Put present WHISTLE with age 5 into sack
+Time 42: Put present DOLL with age 14 onto conveyor belt 6
+Time 42: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 42: Put present TRAIN with age 7 into sack
+Time 42: Put present DOLL with age 8 into sack
+Time 42: Put present WHISTLE with age 8 into sack
+Time 43: Put present WHISTLE with age 9 into sack
+Time 43: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 43: Put present DOLL with age 7 into sack
 Time 43: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 43: Put present TRAIN with age 11 onto conveyor belt 6
-Time 43: Put present BRACELET with age 17 onto conveyor belt 6
-Time 43: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 43: Put present TRAIN with age 12 onto conveyor belt 6
-Time 43: Put present BRACELET with age 17 onto conveyor belt 6
+Time 43: Put present BRACELET with age 9 into sack
 Time 43: Put present DOLL with age 11 onto conveyor belt 6
-Time 43: Put present WHISTLE with age 5 into sack
-Time 44: Put present DOLL with age 5 into sack
-Time 44: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 44: Put present DINOSAUR with age 7 into sack
-Time 44: Put present BRACELET with age 11 onto conveyor belt 6
-Time 44: Put present DINOSAUR with age 4 into sack
-Time 44: Put present DOLL with age 14 onto conveyor belt 6
-Time 44: Put present WHISTLE with age 6 into sack
-Time 44: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 44: Put present DINOSAUR with age 7 into sack
-Time 45: Put present TRAIN with age 16 onto conveyor belt 6
-Time 45: Put present TRAIN with age 4 into sack
-Time 45: Put present FAKETATTOO with age 14 onto conveyor belt 6
-Time 45: Put present DOLL with age 6 into sack
-Time 45: Put present BRACELET with age 13 onto conveyor belt 6
-Time 45: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 46: Put present BRACELET with age 7 into sack
-Time 46: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 46: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 47: Put present BRACELET with age 17 onto conveyor belt 6
-Time 47: Put present WHISTLE with age 6 into sack
-Time 47: Put present BRACELET with age 12 onto conveyor belt 6
-Time 47: Put present TRAIN with age 14 onto conveyor belt 6
-Time 47: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 48: Put present TRAIN with age 15 onto conveyor belt 6
-Time 48: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 48: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 48: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 48: Put present TRAIN with age 15 onto conveyor belt 6
+Time 43: Put present DOLL with age 5 into sack
+Time 43: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 43: Put present FAKETATTOO with age 7 into sack
+Time 43: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 43: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 44: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 44: Put present TRAIN with age 17 onto conveyor belt 6
+Time 48: Put present DOLL with age 7 into sack
 Time 48: Put present BRACELET with age 12 onto conveyor belt 6
-Time 48: Put present FAKETATTOO with age 7 into sack
+Time 48: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 48: Put present DINOSAUR with age 5 into sack
+Time 48: Put present BRACELET with age 15 onto conveyor belt 6
+Time 48: Put present DOLL with age 15 onto conveyor belt 6
+Time 48: Put present DOLL with age 11 onto conveyor belt 6
+Time 48: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 48: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 48: Put present WHISTLE with age 6 into sack
+Time 48: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 48: Put present BRACELET with age 12 onto conveyor belt 6
+Time 48: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 48: Put present FAKETATTOO with age 12 onto conveyor belt 6
 Time 48: Put present TRAIN with age 5 into sack
-Time 49: Put present TRAIN with age 7 into sack
-Time 49: Put present BRACELET with age 17 onto conveyor belt 6
-Time 49: Put present FAKETATTOO with age 7 into sack
-Time 50: Put present DOLL with age 5 into sack
-Time 50: Put present TRAIN with age 5 into sack
-Time 50: Put present BRACELET with age 6 into sack
+Time 48: Put present FAKETATTOO with age 6 into sack
+Time 48: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 48: Put present DOLL with age 15 onto conveyor belt 6
+Time 48: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 48: Put present DOLL with age 11 onto conveyor belt 6
+Time 48: Put present DOLL with age 4 into sack
+Time 48: Put present DOLL with age 8 into sack
+Time 48: Put present DOLL with age 10 onto conveyor belt 6
+Time 48: Put present TRAIN with age 5 into sack
+Time 48: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 48: Put present WHISTLE with age 7 into sack
+Time 48: Put present TRAIN with age 13 onto conveyor belt 6
+Time 49: Put present BRACELET with age 4 into sack
+Time 49: Put present TRAIN with age 8 into sack
+Time 49: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 50: Put present BRACELET with age 10 onto conveyor belt 6
+Time 50: Put present DINOSAUR with age 9 into sack
+Time 50: Put present BRACELET with age 5 into sack
+Time 50: Put present BRACELET with age 14 onto conveyor belt 6
+Time 50: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 50: Put present FAKETATTOO with age 9 into sack
+Time 50: Put present DINOSAUR with age 7 into sack
+Time 50: Put present TRAIN with age 12 onto conveyor belt 6
+Time 50: Put present TRAIN with age 9 into sack
 Time 50: Put present TRAIN with age 4 into sack
-Time 51: Put present DOLL with age 6 into sack
-Time 51: Put present BRACELET with age 12 onto conveyor belt 6
-Time 51: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 51: Put present WHISTLE with age 5 into sack
-Time 51: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 51: Put present DINOSAUR with age 4 into sack
-Time 51: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 51: Put present DOLL with age 7 into sack
-Time 51: Put present TRAIN with age 7 into sack
-Time 51: Put present DINOSAUR with age 5 into sack
-Time 52: Put present BRACELET with age 4 into sack
-Time 52: Put present TRAIN with age 12 onto conveyor belt 6
-Time 52: Put present FAKETATTOO with age 9 into sack
-Time 52: Put present TRAIN with age 7 into sack
-Time 52: Put present TRAIN with age 10 onto conveyor belt 6
-Time 52: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 52: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 52: Put present BRACELET with age 15 onto conveyor belt 6
-Time 52: Put present BRACELET with age 7 into sack
-Time 52: Put present BRACELET with age 8 into sack
-Time 52: Put present FAKETATTOO with age 8 into sack
-Time 53: Put present DINOSAUR with age 7 into sack
-Time 53: Put present BRACELET with age 8 into sack
-Time 53: Put present FAKETATTOO with age 8 into sack
-Time 53: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 50: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 51: Put present BRACELET with age 15 onto conveyor belt 6
+Time 51: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 51: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 51: Put present FAKETATTOO with age 6 into sack
+Time 52: Put present WHISTLE with age 5 into sack
+Time 52: Put present WHISTLE with age 4 into sack
+Time 52: Put present FAKETATTOO with age 6 into sack
+Time 52: Put present TRAIN with age 16 onto conveyor belt 6
+Time 53: Put present DOLL with age 4 into sack
+Time 53: Put present WHISTLE with age 4 into sack
 Time 53: Put present FAKETATTOO with age 6 into sack
-Time 53: Put present DOLL with age 12 onto conveyor belt 6
-Time 53: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 53: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 53: Put present DOLL with age 9 into sack
-Time 53: Put present DINOSAUR with age 7 into sack
-Time 53: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 54: Put present DOLL with age 10 onto conveyor belt 6
-Time 54: Put present FAKETATTOO with age 9 into sack
-Time 54: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 54: Put present WHISTLE with age 4 into sack
-Time 54: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 54: Put present BRACELET with age 10 onto conveyor belt 6
-Time 54: Put present BRACELET with age 5 into sack
+Time 54: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 54: Put present DINOSAUR with age 6 into sack
+Time 54: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 54: Put present FAKETATTOO with age 8 into sack
 Time 54: Put present TRAIN with age 9 into sack
-Time 54: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 55: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 55: Put present WHISTLE with age 7 into sack
-Time 55: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 55: Put present BRACELET with age 7 into sack
-Time 55: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 55: Put present WHISTLE with age 6 into sack
-Time 55: Put present DINOSAUR with age 9 into sack
-Time 55: Put present WHISTLE with age 9 onto conveyor belt 6
-Time 56: Put present FAKETATTOO with age 9 onto conveyor belt 6
+Time 54: Put present BRACELET with age 10 onto conveyor belt 6
+Time 54: Put present WHISTLE with age 9 into sack
+Time 55: Put present TRAIN with age 16 onto conveyor belt 6
+Time 55: Put present TRAIN with age 15 onto conveyor belt 6
+Time 55: Put present FAKETATTOO with age 8 into sack
+Time 55: Put present WHISTLE with age 4 into sack
+Time 55: Put present TRAIN with age 9 into sack
+Time 55: Put present TRAIN with age 4 into sack
+Time 55: Put present DINOSAUR with age 6 into sack
+Time 56: Put present DOLL with age 9 into sack
+Time 56: Put present DOLL with age 17 onto conveyor belt 6
+Time 56: Put present BRACELET with age 15 onto conveyor belt 6
+Time 56: Put present FAKETATTOO with age 16 onto conveyor belt 6
 Time 56: Put present DOLL with age 8 into sack
-Time 56: Put present DOLL with age 7 into sack
-Time 56: Put present DOLL with age 15 onto conveyor belt 6
-Time 56: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 56: Put present BRACELET with age 12 onto conveyor belt 6
-Time 56: Put present TRAIN with age 5 into sack
-Time 56: Put present DOLL with age 13 onto conveyor belt 6
-Time 56: Put present TRAIN with age 17 onto conveyor belt 6
-Time 57: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 56: Put present WHISTLE with age 9 into sack
+Time 56: Put present BRACELET with age 17 onto conveyor belt 6
+Time 56: Put present BRACELET with age 8 into sack
+Time 56: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 56: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 56: Put present BRACELET with age 4 into sack
+Time 57: Put present DINOSAUR with age 7 into sack
+Time 57: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 57: Put present TRAIN with age 8 into sack
+Time 57: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 57: Put present TRAIN with age 9 into sack
+Time 57: Put present DINOSAUR with age 17 onto conveyor belt 6
 Time 57: Put present FAKETATTOO with age 8 into sack
-Time 57: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 57: Put present DOLL with age 16 onto conveyor belt 6
-Time 57: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 57: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 57: Put present BRACELET with age 17 onto conveyor belt 6
-Time 57: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 57: Put present BRACELET with age 14 onto conveyor belt 6
-Time 58: Put present WHISTLE with age 7 into sack
-Time 58: Put present TRAIN with age 16 onto conveyor belt 6
-Time 58: Put present DOLL with age 7 into sack
+Time 57: Put present TRAIN with age 7 into sack
+Time 57: Put present FAKETATTOO with age 5 into sack
+Time 57: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 57: Put present TRAIN with age 17 onto conveyor belt 6
+Time 57: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 57: Put present FAKETATTOO with age 7 into sack
+Time 58: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 58: Put present WHISTLE with age 6 into sack
+Time 58: Put present DINOSAUR with age 6 into sack
+Time 58: Put present BRACELET with age 4 into sack
+Time 58: Put present DINOSAUR with age 4 into sack
 Time 58: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 58: Put present BRACELET with age 14 onto conveyor belt 6
-Time 58: Put present TRAIN with age 4 into sack
-Time 58: Put present DINOSAUR with age 7 into sack
-Time 58: Put present BRACELET with age 16 onto conveyor belt 6
-Time 59: Put present WHISTLE with age 6 into sack
-Time 59: Put present TRAIN with age 17 onto conveyor belt 6
-Time 59: Put present DOLL with age 11 onto conveyor belt 6
-Time 59: Put present BRACELET with age 8 into sack
-Time 59: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 59: Put present TRAIN with age 4 into sack
-Time 59: Put present TRAIN with age 15 onto conveyor belt 6
-Time 60: Put present BRACELET with age 5 into sack
+Time 59: Put present BRACELET with age 4 into sack
+Time 59: Put present BRACELET with age 15 onto conveyor belt 6
+Time 59: Put present WHISTLE with age 5 into sack
+Time 59: Put present FAKETATTOO with age 5 into sack
+Time 59: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 59: Put present DOLL with age 10 onto conveyor belt 6
+Time 59: Put present DOLL with age 15 onto conveyor belt 6
+Time 59: Put present DOLL with age 10 onto conveyor belt 6
+Time 60: Put present BRACELET with age 12 onto conveyor belt 6
+Time 60: Put present TRAIN with age 11 onto conveyor belt 6
+Time 60: Put present TRAIN with age 11 onto conveyor belt 6
+Time 60: Put present DOLL with age 4 into sack
 Time 60: Put present DOLL with age 8 into sack
-Time 60: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 60: Put present FAKETATTOO with age 4 into sack
-Time 60: Put present DOLL with age 7 into sack
-Time 60: Put present DOLL with age 17 onto conveyor belt 6
-Time 60: Put present DINOSAUR with age 5 into sack
-Time 60: Put present DOLL with age 16 onto conveyor belt 6
-Time 60: Put present WHISTLE with age 5 into sack
-Time 60: Put present FAKETATTOO with age 7 into sack
-Time 60: Put present DINOSAUR with age 4 into sack
-Time 60: Put present DINOSAUR with age 5 into sack
-Time 61: Put present DINOSAUR with age 4 into sack
-Time 61: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 61: Put present DOLL with age 16 onto conveyor belt 6
-Time 61: Put present TRAIN with age 15 onto conveyor belt 6
-Time 61: Put present DOLL with age 10 onto conveyor belt 6
-Time 61: Put present TRAIN with age 9 into sack
-Time 61: Put present TRAIN with age 15 onto conveyor belt 6
-Time 61: Put present TRAIN with age 13 onto conveyor belt 6
-Time 61: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 61: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 62: Put present BRACELET with age 11 onto conveyor belt 6
-Time 62: Put present BRACELET with age 12 onto conveyor belt 6
-Time 62: Put present WHISTLE with age 7 into sack
-Time 62: Put present BRACELET with age 6 into sack
-Time 62: Put present BRACELET with age 12 onto conveyor belt 6
-Time 62: Put present BRACELET with age 9 into sack
-Time 65: Put present FAKETATTOO with age 7 into sack
-Time 65: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 65: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 66: Put present TRAIN with age 13 onto conveyor belt 6
-Time 66: Put present WHISTLE with age 4 into sack
-Time 66: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 66: Put present DOLL with age 13 onto conveyor belt 6
-Time 66: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 66: Put present TRAIN with age 10 onto conveyor belt 6
-Time 66: Put present TRAIN with age 4 into sack
-Time 67: Put present FAKETATTOO with age 6 into sack
-Time 67: Put present BRACELET with age 12 onto conveyor belt 6
+Time 60: Put present BRACELET with age 13 onto conveyor belt 6
+Time 60: Put present BRACELET with age 5 into sack
+Time 60: Put present TRAIN with age 15 onto conveyor belt 6
+Time 61: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 61:Time 64: Put present WHISTLE with age 9 into sack
+Time 64: Put present DINOSAUR with age 4 into sack
+Time 64: Put present FAKETATTOO with age 4 into sack
+Time 65: Put present BRACELET with age 10 onto conveyor belt 6
+Time 65: Put present DINOSAUR with age 6 into sack
+Time 65: Put present DOLL with age 9 into sack
+Time 65: PuTime 63: Put present BRACELET with age 10 onto conveyor belt 6
+Time 63: Put present DOLL with age 6 into sack
+Time 63: Put present WHISTLE with age 9 into sack
+Time 63: Put present DOLL with age 9 iTime 66: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 66: Put present TRAIN with age 15 onto conveyor belt 6
+Time 66: Put present TRAIN with age 11 onto conveyor belt 6
+Time 66: Put present TRAIN with age 6 into sack
+Time 67: Put present BRACELET with age 14 onto conveyor belt 6
+Time 67: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 67: Put present BRACELET with age 17 onto conveyor belt 6
+Time 67: Put present DINOSAUR with age 9 into sack
+Time 67: Put present FAKETATTOO with age 15 onto conveyor belt 6
 Time 67: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 67: Put present BRACELET with age 7 into sack
+Time 67: Put present WHISTLE with age 11 onto conveyor belt 6
 Time 67: Put present BRACELET with age 6 into sack
-Time 67: Put present WHISTLE with age 4 into sack
-Time 68: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 68: Put present DINOSAUR with age 8 into sack
 Time 68: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 68: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 68: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 68: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 68: Put present TRAIN with age 9 into sack
+Time 69: Put present BRACELET with age 17 onto conveyor belt 6
+Time 69: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 69: Put present BRACELET with age 17 onto conveyor belt 6
+Time 69: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 69: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 69: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 69: Put present TRAIN with age 12 onto conveyor belt 6
+Time 69: Put present TRAIN with age 6 into sack
+Time 69: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 69: Put present DINOSAUR with age 7 into sack
+Time 69: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 69: Put present DINOSAUR with age 6 into sack
+Time 69: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 69: Put preTime 67: Put present DINOSAUR with age 5 into sack
+Time 68: Put present FAKETATTOO with age 17 onto conveyor belt 6
 Time 68: Put present BRACELET with age 16 onto conveyor belt 6
-Time 68: Put present DOLL with age 8 into sack
-Time 68: Put present FAKETATTOO with age 7 into sack
-Time 68: Put present DOLL with age 13 onto conveyor belt 6
-Time 69: Put present WHISTLE with age 6 into sack
-Time 69: Put present DOLL with age 15 onto conveyor belt 6
-Time 69: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 69: Put present BRACELET with age 6 into sack
-Time 69: Put present BRACELET with age 7 into sack
+Time 68: Put present WHISTLE with age 4 into sack
+Time 69: Put present BRACELET with age 12 onto conveyor belt 6
+Time 69: Put present DOLL with age 8 into sack
 Time 69: Put present WHISTLE with age 5 into sack
-Time 69: Put present BRACELET with age 4 into sack
-Time 69: Put present BRACELET with age 10 onto conveyor belt 6
-Time 69: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 69: Put present DOLL with age 13 onto conveyor belt 6
-Time 70: Put present BRACELET with age 16 onto conveyor belt 6
-Time 70: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 70: Put present DOLL with age 16 onto conveyor belt 6
-Time 70: Put present DINOSAUR with age 8 into sack
-Time 70: Put present BRACELET with age 15 onto conveyor belt 6
-Time 70: Put present DOLL with age 8 into sack
-Time 70: Put present DOLL with age 6 into sack
-Time 71: Put present DOLL with age 10 onto conveyor belt 6
-Time 71: Put present BRACELET with age 8 into sack
-Time 71: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 71: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 71: Put present DOLL with age 5 into sack
-Time 71: Put present DOLL with age 11 onto conveyor belt 6
-Time 71: Put present FAKETATTOO with age 6 into sack
-Time 71: Put present DOLL with age 9 onto conveyor belt 6
-Time 71: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 71: Put present BRACELET with age 7 into sack
-Time 71: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 71: Put present FAKETATTOO with age 7 into sack
-Time 73: Put present BRACELET with age 12 onto conveyor belt 6
-Time 73: Put present TRAIN with age 15 onto conveyor belt 6
+Time 70: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 70: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 70: Put present DOLL with age 10 onto conveyor belt 6
+Time 70: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 70: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 70: Put present DINOSAUR with age 7 into sack
+Time 70: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 71: Put present DOLL with age 17 onto conveyor belt 6
+Time 71: Put present TRAIN with age 9 onto conveyor belt 6
+Time 71: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 73: Put present TRAIN with age 8 into sack
+Time 73: Put present BRACELET with age 7 into sack
 Time 73: Put present BRACELET with age 10 onto conveyor belt 6
-Time 73: Put present BRACELET with age 17 onto conveyor belt 6
-Time 73: Put present DOLL with age 16 onto conveyor belt 6
-Time 73: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 73: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 73: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 73: Put present TRAIN with age 7 into sack
-Time 73: Put present BRACELET with age 4 into sack
-Time 73: Put present TRAIN with age 11 onto conveyor belt 6
-Time 73: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 74: Put present DOLL with age 16 onto conveyor belt 6
-Time 74: Put present DINOSAUR with age 9 into sack
-Time 74: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 74: Put present DOLL with age 5 into sack
-Time 74: Put present WHISTLE with age 4 into sack
-Time 74: Put present FAKETATTOO with age 4 into sack
-Time 74: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 74: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 74: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 74: Put present DOLL with age 11 onto conveyor belt 6
-Time 74: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 74: Put present DOLL with age 17 onto conveyor belt 6
-Time 74: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 74: Put present DOLL with age 14 onto conveyor belt 6
-Time 75: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 75: Put present TRAIN with age 16 onto conveyor belt 6
-Time 75: Put present BRACELET with age 11 onto conveyor belt 6
-Time 75: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 75: Put present TRAIN with age 4 into sack
-Time 75: Put present BRACELET with age 10 onto conveyor belt 6
+Time 73: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 75: Put present DINOSAUR with age 9 into sack
+Time 75: Put present TRAIN with age 5 into sack
+Time 75: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 75: Put present FAKETATTOO with age 8 into sack
+Time 75: Put present BRACELET with age 8 into sack
+Time 75: Put present TRAIN with age 13 onto conveyor belt 6
+Time 75: Put present TRAIN with age 9 into sack
+Time 75: Put present BRACELET with age 5 into sack
+Time 75: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 75: Put present BRACELET with age 17 onto conveyor belt 6
+Time 75: Put present BRACELET with age 14 onto conveyor belt 6
+Time 75: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 75: Put present DOLL with age 12 onto conveyor belt 6
+Time 75: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 75: Put present TRAIN with age 6 into sack
+Time 75: Put present DOLL with age 14 onto conveyor belt 6
 Time 75: Put present TRAIN with age 12 onto conveyor belt 6
-Time 75: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 75: Put present DOLL with age 5 into sack
-Time 76: Put present DINOSAUR with age 6 into sack
-Time 76: Put present BRACELET with age 14 onto conveyor belt 6
-Time 76: Put present TRAIN with age 7 into sack
-Time 76: Put present DINOSAUR with age 8 into sack
-Time 76: Put present TRAIN with age 8 into sack
-Time 76: Put present DOLL with age 11 onto conveyor belt 6
-Time 76: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 76: Put present BRACELET with age 16 onto conveyor belt 6
-Time 76: Put present FAKETATTOO with age 7 into sack
-Time 76: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 76: Put present WHISTLE with age 9 into sack
-Time 77: Put present FAKETATTOO with age 6 into sack
-Time 77: Put present FAKETATTOO with age 7 into sack
-Time 77: Put present BRACELET with age 15 onto conveyor belt 6
-Time 77: Put present WHISTLE with age 4 into sack
-Time 77: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 77: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 77: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 77: Put present BRACELET with age 17 onto conveyor belt 6
+Time 77: Put present DOLL with age 4 into sack
+Time 77: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 77: Put present DINOSAUR with age 9 into sack
+Time 77: Put present BRACELET with age 16 onto conveyor belt 6
+Time 77: Put present TRAIN with age 5 into sack
+Time 77: Put present WHISTLE with age 15 onto conveyor belt 6
 Time 77: Put present DOLL with age 15 onto conveyor belt 6
-Time 77: Put present WHISTLE with age 7 into sack
-Time 78: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 78: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 79: Put present DOLL with age 15 onto conveyor belt 6
-Time 79: Put present BRACELET with age 11 onto conveyor belt 6
-Time 80: Put present BRACELET with age 4 into sack
-Time 80: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 80: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 81: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 81: Put present DINOSAUR with age 7 into sack
-Time 81: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 77: Put present DOLL with age 10 onto conveyor belt 6
+Time 77: Put present TRAIN with age 10 onto conveyor belt 6
+Time 77: Put present BRACELET with age 8 into sack
+Time 77: Put present DOLL with age 5 into sack
+Time 77: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 77: Put present TRAIN with age 5 into sack
+Time 77: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 77: Put present DOLL with age 15 onto conveyor belt 6
+Time 77: Put present BRACELET with age 8 into sack
+Time 77: Put present DINOSAUR with age 5 into sack
+Time 77: Put present BRACELET with age 10 onto conveyor belt 6
+Time 78: Put present FAKETATTOO with age 16 onto conveyor belt 6
+Time 78: Put present WHISTLE with age 8 into sack
+Time 78: Put present FAKETATTOO with age 9 into sack
+Time 78: Put present BRACELET with age 5 into sack
+Time 78: Put present TRAIN with age 5 into sack
+Time 78: Put present TRAIN with age 12 onto conveyor belt 6
+Time 79: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 79: Put present TRAIN with age 8 into sack
+Time 79: Put present WHISTLE with age 4 into sack
+Time 79: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 79: Put present WHISTLE with age 7 into sack
+Time 79: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 79: Put present BRACELET with age 7 into sack
+Time 79: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 79: Put present DOLL with age 10 onto conveyor belt 6
+Time 79: Put present DOLL with age 12 onto conveyor belt 6
+Time 79: Put present TRAIN with age 17 onto conveyor belt 6
+Time 80: Put present BRACELET with age 9 into sack
+Time 81: Put present BRACELET with age 4 into sack
+Time 81: Put present TRAIN with age 13 onto conveyor belt 6
 Time 81: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 82: Put present FAKETATTOO with age 4 into sack
-Time 82: Put present DOLL with age 15 onto conveyor belt 6
-Time 82: Put present DOLL with age 7 into sack
-Time 82: Put present DINOSAUR with age 9 into sack
-Time 82: Put present FAKETATTOO with age 14 onto conveyor belt 6
-Time 82: Put present BRACELET with age 8 into sack
-Time 82: Put present FAKETATTOO with age 5 into sack
-Time 82: Put present BRACELET with age 12 onto conveyor belt 6
-Time 82: Put present DOLL with age 8 into sack
-Time 82: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 82: Put present DINOSAUR with age 5 into sack
-Time 82: Put present TRAIN with age 14 onto conveyor belt 6
-Time 83: Put present BRACELET with age 8 into sack
-Time 83: Put present FAKETATTOO with age 14 onto conveyor belt 6
-Time 83: Put present TRAIN with age 14 onto conveyor belt 6
-Time 83: Put present DINOSAUR with age 9 into sack
-Time 83: Put present BRACELET with age 17 onto conveyor belt 6
-Time 83: Put present BRACELET with age 9 into sack
-Time 83: Put present TRAIN with age 7 into sack
-Time 83: Put present DOLL with age 15 onto conveyor belt 6
-Time 84: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 84: Put present DOLL with age 13 onto conveyor belt 6
-Time 84: Put present TRAIN with age 6 into sack
-Time 84: Put present DOLL with age 11 onto conveyor belt 6
-Time 84: Put present DOLL with age 7 into sack
-Time 84: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 84: Put present DINOSAUR with age 6 into sack
-Time 84: Put present BRACELET with age 5 into sack
-Time 84: Put present FAKETATTOO with age 8 into sack
-Time 85: Put present DOLL with age 13 onto conveyor belt 6
-Time 85: Put present TRAIN with age 16 onto conveyor belt 6
-Time 85: Put present DOLL with age 11 onto conveyor belt 6
-Time 85: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 85: Put present TRAIN with age 8 into sack
+Time 82: Put present DINOSAUR with age 7 into sack
+Time 83: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 83: Put present BRACELET with age 7 into sack
+Time 83: Put present TRAIN with age 10 onto conveyor belt 6
+Time 84: Put present DOLL with age 10 onto conveyor belt 6
+Time 84: Put present TRAIN with age 10 onto conveyor belt 6
+Time 84: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 84: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 84: Put present WHISTLE with age 4 into sack
+Time 84: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 84: Put present WHISTLE with age 7 into sack
+Time 85: Put present BRACELET with age 13 onto conveyor belt 6
+Time 85: Put present FAKETATTOO with age 5 into sack
+Time 85: Put present FAKETATTOO with age 12 onto conveyor belt 6
 Time 85: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 85: Put present TRAIN with age 17 onto conveyor belt 6
-Time 85: Put present DOLL with age 4 into sack
-Time 85: Put present BRACELET with age 16 onto conveyor belt 6
-Time 86: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 86: Put present BRACELET with age 7 into sack
-Time 87: Put present BRACELET with age 12 onto conveyor belt 6
-Time 87: Put present BRACELET with age 10 onto conveyor belt 6
-Time 87: Put present TRAIN with age 11 onto conveyor belt 6
-Time 88: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 88: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 88: Put present DOLL with age 6 into sack
-Time 88: Put present FAKETATTOO with age 5 into sack
-Time 88: Put present DINOSAUR with age 8 into sack
-Time 89: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 89: Put present DINOSAUR with age 7 into sack
-Time 89: Put present BRACELET with age 14 onto conveyor belt 6
-Time 89: Put present DOLL with age 6 into sack
+Time 85: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 85: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 85: Put present WHISTLE with age 9 into sack
+Time 85: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 85: Put present DOLL with age 7 into sack
+Time 85: Put present BRACELET with age 5 into sack
+Time 85: Put present DOLL with age 10 onto conveyor belt 6
+Time 85: Put present TRAIN with age 9 into sack
+Time 85: Put present WHISTLE with age 4 into sack
+Time 85: Put present WHISTLE with age 6 into sack
+Time 86: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 86: Put present DOLL with age 4 into sack
+Time 86: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 86: Put present TRAIN with age 5 into sack
+Time 86: Put present WHISTLE with age 5 into sack
+Time 87: Put present DOLL with age 16 onto conveyor belt 6
+Time 87: Put present TRAIN with age 14 onto conveyor belt 6
+Time 87: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 87: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 87: Put present FAKETATTOO with age 7 into sack
+Time 87: Put present BRACELET with age 4 into sack
+Time 87: Put present DOLL with age 5 into sack
+Time 87: Put present WHISTLE with age 5 into sack
+Time 87: Put present FAKETATTOO with age 7 into sack
+Time 87: Put present DOLL with age 5 into sack
+Time 87: Put present TRAIN with age 9 into sack
+Time 87: Put present DOLL with age 4 into sack
+Time 87: Put present FAKETATTOO with age 9 into sack
+Time 88: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 88: Put present FAKETATTOO with age 4 into sack
+Time 88: Put present FAKETATTOO with age 6 into sack
+Time 88: Put present BRACELET with age 8 into sack
+Time 88: Put present BRACELET with age 10 onto conveyor belt 6
+Time 88: Put present DOLL with age 10 onto conveyor belt 6
+Time 88: Put present DOLL with age 16 onto conveyor belt 6
+Time 89: Put present DOLL with age 5 into sack
+Time 89: Put present TRAIN with age 12 onto conveyor belt 6
+Time 89: Put present WHISTLE with age 4 into sack
 Time 89: Put present TRAIN with age 8 into sack
-Time 89: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 89: Put present TRAIN with age 6 into sack
-Time 89: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 90: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 90: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 90: Put present WHISTLE with age 5 into sack
-Time 90: Put present DOLL with age 4 into sack
-Time 90: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 90: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 91: Put present FAKETATTOO with age 7 into sack
-Time 91: Put present DOLL with age 6 into sack
-Time 91: Put present WHISTLE with age 9 into sack
-Time 91: Put present WHISTLE with age 9 into sack
-Time 91: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 91: Put present BRACELET with age 10 onto conveyor belt 6
-Time 91: Put present DOLL with age 5 into sack
-Time 91: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 91: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 91: Put present DINOSAUR with age 8 into sack
-Time 92: Put present FAKETATTOO with age 5 into sack
-Time 92: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 89: Put present DOLL with age 16 onto conveyor belt 6
+Time 89: Put present DOLL with age 7 into sack
+Time 89: Put present FAKETATTOO with age 8 into sack
+Time 89: Put present DOLL with age 16 onto conveyor belt 6
+Time 89: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 89: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 89: Put present TRAIN with age 9 into sack
+Time 89: Put present FAKETATTOO with age 8 into sack
+Time 90: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 90: Put present TRAIN with age 4 into sack
+Time 90: Put present BRACELET with age 12 onto conveyor belt 6
+Time 90: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 90: Put present WHISTLE with ageTime 93: Put present BRACELET with age 8 into sack
+Time 93: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 9Time 91: Put present BRACELET with age 14 onto conveyor belt 6
+Time 91: Put present DOLL with age 4 into sack
+Time 91: Put present FAKETATTOO with age 8 into sack
+Time 91: Put present BRACELET with age 11 onto conveyor belt 6
+Time 91: Put present BRACELET with age 4 into sack
+Time 91: Put present TRAIN with age 5 into sack
+Time 92: Put present BRACELET with age 5 into sack
 Time 92: Put present TRAIN with age 13 onto conveyor belt 6
-Time 92: Put present DOLL with age 14 onto conveyor belt 6
-Time 92: Put present TRAIN with age 17 onto conveyor belt 6
-Time 92: Put present DINOSAUR with age 7 into sack
-Time 92: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 92: Put present WHISTLE with age 7 into sack
-Time 93: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 93: Put present FAKETATTOO with age 5 into sack
-Time 93: Put present DOLL with age 15 onto conveyor belt 6
-Time 93: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 93: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 93: Put present TRAIN with age 14 onto conveyor belt 6
-Time 93: Put present BRACELET with age 5 into sack
-Time 93: Put present BRACELET with age 15 onto conveyor belt 6
-Time 94: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 94: Put present DINOSAUR with age 9 into sack
-Time 94: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 94: Put present FAKETATTOO with age 9 into sack
-Time 94: Put present TRAIN with age 17 onto conveyor belt 6
-Time 94: Put present WHISTLE with age 4 into sack
-Time 94: Put present WHISTLE with age 6 into sack
-Time 94: Put present TRAIN with age 7 into sack
-Time 94: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 94: Put present BRACELET with age 13 onto conveyor belt 6
-Time 94: Put present TRAIN with age 13 onto conveyor belt 6
-Time 94: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 94: Put present DOLL with age 13 onto conveyor belt 6
-Time 94: Put present DINOSAUR with age 7 into sack
-Time 95: Put present DOLL with age 10 onto conveyor belt 6
-Time 95: Put present DOLL with age 7 into sack
-Time 95: Put present TRAIN with age 11 onto conveyor belt 6
-Time 95: Put present DINOSAUR with age 8 into sack
-Time 95: Put present TRAIN with age 6 into sack
-Time 95: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 96: Put present DOLL with age 13 onto conveyor belt 6
-Time 96: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 96: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 96: Put present BRACELET with age 6 into sack
-Time 96: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 96: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 96: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 96: Put present FAKETATTOO with age 7 into sack
-Time 96: Put present TRAIN with age 10 onto conveyor belt 6
-Time 96: Put present TRAIN with age 12 onto conveyor belt 6
-Time 96: Put present WHISTLE with age 6 into sack
+Time 94: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 94: Put present TRAIN with age 15 onto conveyor belt 6
+Time 95: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 95: Put present BRACELET with age 10 onto conveyor belt 6
+Time 95: Put present TRAIN with age 16 onto conveyor belt 6
+Time 95: Put present DINOSAUR with age 5 into sack
+Time 96: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 96: Put present BRACELET with age 10 onto conveyor belt 6
 Time 96: Put present BRACELET with age 4 into sack
-Time 97: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 97: Put present WHISTLE with age 8 into sack
-Time 98: Put present WHISTLE with age 7 into sack
-Time 99: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 100: Put present WHISTLE with age 8 into sack
-Time 100: Put present DOLL with age 8 into sack
-Time 100: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 100: Put present WHISTLE with age 9 into sack
-Time 100: Put present WHISTLE with age 9 into sack
+Time 96: Put present FAKETATTOO with age 7 into sack
+Time 96: Put present WHISTLE with age 8 into sack
+Time 96: Put present TRAIN with age 17 onto conveyor belt 6
+Time 96: Put present BRACELET with age 12 onto conveyor belt 6
+Time 96: Put present TRAIN with age 6 into sack
+Time 97: Put present TRAIN with age 4 into sack
+Time 97: Put present TRAIN with age 15 onto conveyor belt 6
+Time 97: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 97: Put present DOLL with age 16 onto conveyor belt 6
+Time 97: Put present TRAIN with age 11 onto conveyor belt 6
+Time 97: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 97: Put present DOLL with age 15 onto conveyor belt 6
+Time 97: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 97: Put present DOLL with age 6 into sack
+Time 98: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 98: Put present TRAIN with age 13 onto conveyor belt 6
+Time 98: Put present BRACELET with age 17 onto conveyor belt 6
+Time 98: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 98: Put present WHISTLE with age 8 into sack
+Time 98: Put present TRAIN with age 7 into sack
+Time 99: Put present BRACELET with age 4 into sack
+Time 99: Put present BRACELET with age 17 onto conveyor belt 6
+Time 99: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 99: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 99: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 99: Put present TRAIN with age 16 onto conveyor belt 6
+Time 99: Put present TRAIN with age 5 into sack
+Time 99: Put present WHISTLE with age 8 into sack
+Time 99: Put present FAKETATTOO with age 6 into sack
+Time 99: Put present WHISTLE with age 9 into sack
+Time 99: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 100: Put present DOLL with age 12 onto conveyor belt 6
+Time 100: Put present BRACELET with age 4 into sack
+Time 100: Put present DOLL with age 13 onto conveyor belt 6
+Time 100: Put present TRAIN with age 13 onto conveyor belt 6
+Time 100: Put present DOLL with age 4 into sack
+Time 100: Put present BRACELET with age 16 onto conveyor belt 6
 Time 100: Put present BRACELET with age 10 onto conveyor belt 6
-Time 101: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 101: Put present DINOSAUR with age 8 into sack
-Time 101: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 101: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 101: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 101: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 102: Put present TRAIN with age 9 into sack
-Time 102: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 102: Put present TRAIN with age 4 into sack
-Time 102: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 102: Put present FAKETATTOO with age 4 into sack
-Time 102: Put present FAKETATTOO with age 11 onto conveyor belt 6
-Time 103: Put present BRACELET with age 4 into sack
-Time 103: Put present DOLL with age 14 onto conveyor belt 6
-Time 103: Put present WHISTLE with age 4 into sack
-Time 103: Put present BRACELET with age 4 into sack
-Time 103: Put present TRAIN with age 7 into sack
-Time 103: Put present FAKETATTOO with age 8 into sack
-Time 103: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 103: Put present WHISTLE with age 8 into sack
-Time 103: Put present BRACELET with age 14 onto conveyor belt 6
-Time 104: Put present TRAIN with age 14 onto conveyor belt 6
-Time 104: Put present TRAIN with age 7 into sack
-Time 104: Put present TRAIN with age 15 onto conveyor belt 6
-Time 104: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 104: Put present DOLL with age 15 onto conveyor belt 6
-Time 104: Put present BRACELET with age 8 into sack
-Time 104: Put present WHISTLE with age 8 into sack
-Time 104: Put present FAKETATTOO with age 3 into sack
-Time 104: Put present DINOSAUR with age 4 into sack
+Time 100: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 101: Put present DOLL with age 11 onto conveyor belt 6
+Time 101: Put present TRAIN with age 15 onto conveyor belt 6
+Time 103: Put present WHISTLE with age 16 onto conveyor belt 6
 Time 104: Put present FAKETATTOO with age 9 into sack
-Time 104: Put present DOLL with age 3 into sack
-Time 104: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 104: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 108: Put present DOLL with age 10 onto conveyor belt 6
-Time 108: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 104: Put present TRAIN with age 5 into sack
+Time 104: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 105: Put present TRAIN with age 11 onto conveyor belt 6
+Time 105: Put present WHISTLE with age 8 into sack
+Time 105: Put present BRACELET with age 17 onto conveyor belt 6
+Time 105: Put present BRACELET with age 14 onto conveyor belt 6
+Time 105: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 105: Put present BRACELET with age 12 onto conveyor belt 6
+Time 105: Put present DOLL with age 12 onto conveyor belt 6
+Time 105: Put present BRACELET with age 14 onto conveyor belt 6
+Time 105: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 106: Put present TRAIN with age 5 into sack
+Time 106: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 106: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 106: Put present TRAIN with age 12 onto conveyor belt 6
+Time 106: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 106: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 106: Put present DINOSAUR with age 9 into sack
+Time 106: Put present DOLL with age 14 onto conveyor belt 6
+Time 106: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 106: Put present DOLL with age 7 into sack
+Time 107: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 107: Put present BRACELET with age 12 onto conveyor belt 6
+Time 107: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 107: Put present DINOSAUR with age 4 into sack
+Time 107: Put present TRAIN with age 12 onto conveyor belt 6
+Time 107: Put present TRAIN with age 12 onto conveyor belt 6
+Time 107: Put present WHISTLE with age 9 into sack
+Time 107: Put present DOLL with age 12 onto conveyor belt 6
+Time 107: Put present DOLL with age 8 into sack
+Time 108: Put present TRAIN with age 17 onto conveyor belt 6
 Time 108: Put present TRAIN with age 8 into sack
-Time 108: Put present FAKETATTOO with age 6 into sack
-Time 108: Put present BRACELET with age 7 into sack
-Time 108: Put present DOLL with age 12 onto conveyor belt 6
-Time 108: Put present FAKETATTOO with age 9 into sack
-Time 108: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 108: Put present DINOSAUR with age 8 into sack
-Time 108: Put present TRAIN with age 16 onto conveyor belt 6
-Time 108: Put present BRACELET with age 7 into sack
-Time 108: Put present BRACELET with age 13 onto conveyor belt 6
-Time 108: Put present BRACELET with age 16 onto conveyor belt 6
-Time 108: Put present DOLL with age 13 onto conveyor belt 6
-Time 108: Put present BRACELET with age 11 onto conveyor belt 6
+Time 108: Put present TRAIN with age 7 into sack
+Time 108: Put present DOLL with age 7 into sack
 Time 108: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 108: Put present DOLL with age 15 onto conveyor belt 6
-Time 108: Put present DOLL with age 4 into sack
+Time 108: Put present BRACELET with age 9 into sack
+Time 108: Put present TRAIN with age 11 onto conveyor belt 6
+Time 108: Put present TRAIN with age 8 into sack
 Time 108: Put present BRACELET with age 17 onto conveyor belt 6
-Time 108: Put present WHISTLE with age 4 into sack
-Time 109: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 109: Put present TRAIN with age 7 into sack
-Time 109: Put present WHISTLE with age 7 into sack
-Time 111: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 111: Put present BRACELET with age 12 onto conveyor belt 6
-Time 111: Put present DOLL with age 14 onto conveyor belt 6
-Time 111: Put present TRAIN with age 7 into sack
-Time 111: Put present DOLL with age 10 onto conveyor belt 6
-Time 111: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 111: Put present DOLL with age 9 into sack
-Time 111: Put present DOLL with age 14 onto conveyor belt 6
-Time 111: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 111: Put present WHISTLE with age 6 into sack
-Time 111: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 111: Put present DOLL with age 14 onto conveyor belt 6
-Time 111: Put present WHISTLE with age 4 into sack
-Time 111: Put present DOLL with age 8 into sack
-Time 111: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 111: Put present DOLL with age 17 onto conveyor belt 6
-Time 111: Put present WHISTLE with age 7 into sack
-Time 111: Put present DINOSAUR with age 9 into sack
-Time 111: Put present FAKETATTOO with age 3 into sack
-Time 112: Put present DOLL with age 15 onto conveyor belt 6
+Time 108: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 109: Put present BRACELET with age 7 into sack
+Time 109: Put present DOLL with age 13 onto conveyor belt 6
+Time 109: Put present WHISTLE with age 4 into sack
+Time 109: Put present DINOSAUR with age 7 into sack
+Time 109: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 109: Put present BRACELET with age 7 into sack
+Time 109: Put present DOLL with age 15 onto conveyor belt 6
+Time 110: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 110: Put present DOLL with age 13 onto conveyor belt 6
+Time 110: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 110: Put present DOLL with age 17 onto conveyor belt 6
+Time 110: Put present BRACELET with age 7 into sack
+Time 110: Put present BRACELET with age 12 onto conveyor belt 6
+Time 110: Put present BRACELET with age 10 onto conveyor belt 6
+Time 112: Put present BRACELET with age 8 into sack
+Time 112: Put present WHISTLE with age 8 into sack
+Time 112: Put present BRACELET with age 17 onto conveyor belt 6
 Time 112: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 112: Put present BRACELET with age 16 onto conveyor belt 6
-Time 112: Put present WHISTLE with age 4 into sack
-Time 112: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 112: Put present DOLL with age 6 into sack
-Time 112: Put present WHISTLE with age 4 into sack
-Time 112: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 112: Put present DINOSAUR with age 5 into sack
-Time 112: Put present TRAIN with age 4 into sack
-Time 112: Put present BRACELET with age 6 into sack
-Time 113: Put present BRACELET with age 5 into sack
-Time 113: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 113: Put present TRAIN with age 16 onto conveyor belt 6
-Time 113: Put present TRAIN with age 10 onto conveyor belt 6
-Time 113: Put present BRACELET with age 5 into sack
-Time 113: Put present BRACELET with age 10 onto conveyor belt 6
-Time 113: Put present DOLL with age 16 onto conveyor belt 6
-Time 114: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 114: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 114: Put present FAKETATTOO with age 7 into sack
-Time 114: Put present DOLL with age 17 onto conveyor belt 6
-Time 114: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 114: Put present TRAIN with age 9 into sack
-Time 115: Put present FAKETATTOO with age 4 into sack
-Time 115: Put present TRAIN with age 12 onto conveyor belt 6
+Time 112: Put present FAKETATTOO with age 7 into sack
+Time 113: Put present BRACELET with age 15 onto conveyor belt 6
+Time 113: Put present BRACELET with age 13 onto conveyor belt 6
+Time 113: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 113: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 113: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 113: Put present BRACELET with age 12 onto conveyor belt 6
+Time 114: Put present TRAIN with age 11 onto conveyor belt 6
+Time 114: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 114: Put present TRAIN with age 7 into sack
+Time 114: Put present FAKETATTOO with age 9 into sack
 Time 115: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 115: Put present WHISTLE with age 4 into sack
-Time 115: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 115: Put present BRACELET with age 6 into sack
-Time 115: Put present DOLL with age 14 onto conveyor belt 6
-Time 115: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 115: Put present WHISTLE with age 9 into sack
+Time 115: Put present TRAIN with age 10 onto conveyor belt 6
+Time 115: Put present FAKETATTOO with age 7 into sack
+Time 115: Put present DINOSAUR with age 8 into sack
 Time 115: Put present TRAIN with age 8 into sack
-Time 116: Put present WHISTLE with age 4 into sack
-Time 116: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 116: Put present TRAIN with age 17 onto conveyor belt 6
+Time 115: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 115: Put present BRACELET with age 9 into sack
+Time 115: Put present FAKETATTOO with age 9 into sack
+Time 115: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 116: Put present DINOSAUR with age 16 onto conveyor belt 6
 Time 116: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 116: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 116: Put present DOLL with age 4 into sack
+Time 116: Put present BRACELET with age 14 onto conveyor belt 6
+Time 116: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 116: Put present TRAIN with age 7 into sack
 Time 116: Put present BRACELET with age 13 onto conveyor belt 6
-Time 117: Put present BRACELET with age 13 onto conveyor belt 6
+Time 117: Put present DINOSAUR with age 9 into sack
+Time 117: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 117: Put present FAKETATTOO with age 7 into sack
+Time 117: Put present FAKETATTOO with age 15 onto conveyor belt 6
 Time 117: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 118: Put present TRAIN with age 7 into sack
-Time 118: Put present DOLL with age 12 onto conveyor belt 6
-Time 119: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 119: Put present DOLL with age 6 into sack
-Time 119: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 119: Put present BRACELET with age 10 onto conveyor belt 6
-Time 119: Put present TRAIN with age 13 onto conveyor belt 6
-Time 119: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 119: Put present TRAIN with age 7 into sack
-Time 119: Put present DOLL with age 12 onto conveyor belt 6
-Time 120: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 120: Put present BRACELET with age 11 onto conveyor belt 6
-Time 121: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 121: Put present FAKETATTOO with age 6 into sack
-Time 121: Put present DOLL with age 6 into sack
+Time 117: Put present DOLL with age 8 into sack
+Time 117: Put present WHISTLE with age 9 into sack
+Time 117: Put present FAKETATTOO with age 4 into sack
+Time 117: Put present FAKETATTOO with age 7 into sack
+Time 118: Put present BRACELET with age 7 into sack
+Time 118: Put present WHISTLE with age 4 into sack
+Time 118: Put present TRAIN with age 14 onto conveyor belt 6
+Time 118: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 118: Put present FAKETATTOO with age 15 onto conveyor belt 6
+Time 118: Put present BRACELET with age 14 onto conveyor belt 6
+Time 118: Put present FAKETATTOO with age 16 onto conveyor belt 6
+Time 120: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 120: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 120: Put present BRACELET with age 8 into sack
+Time 120: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 120: Put present BRACELET with age 16 onto conveyor belt 6
+Time 120: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 120: Put present BRACELET with age 4 into sack
+Time 120: Put present WHISTLE with age 5 into sack
+Time 120: Put present TRAIN with age 15 onto conveyor belt 6
+Time 120: Put present BRACELET with age 7 into sack
+Time 120: Put present BRACELET with age 17 onto conveyor belt 6
+Time 120: Put present WHISTLE with age 7 into sack
+Time 120: Put present FAKETATTOO with age 5 into sack
+Time 120: Put present TRAIN with age 9 into sack
+Time 120: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 120: Put present TRAIN with age 10 onto conveyor belt 6
 Time 121: Put present BRACELET with age 14 onto conveyor belt 6
-Time 121: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 121: Put present WHISTLE with age 7 into sack
-Time 121: Put present DOLL with age 14 onto conveyor belt 6
-Time 121: Put present BRACELET with age 15 onto conveyor belt 6
-Time 121: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 121: Put present TRAIN with age 14 onto conveyor belt 6
-Time 121: Put present DINOSAUR with age 7 into sack
-Time 122: Put present FAKETATTOO with age 5 into sack
-Time 122: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 122: Put present BRACELET with age 6 into sack
-Time 122: Put present BRACELET with age 14 onto conveyor belt 6
-Time 122: Put present WHISTLE with age 4 into sack
-Time 123: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 123: Put present DOLL with age 10 onto conveyor belt 6
-Time 123: Put present WHISTLE with age 9 into sack
-Time 123: Put present BRACELET with age 11 onto conveyor belt 6
-Time 123: Put present DOLL with age 5 into sack
-Time 123: Put present DOLL with age 6 into sack
-Time 123: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 123: Put present DINOSAUR with age 4 into sack
-Time 123: Put present TRAIN with age 11 onto conveyor belt 6
-Time 123: Put present TRAIN with age 5 into sack
-Time 123: Put present DINOSAUR with age 5 into sack
-Time 123: Put present BRACELET with age 15 onto conveyor belt 6
-Time 124: Put present TRAIN with age 13 onto conveyor belt 6
-Time 124: Put present BRACELET with age 17 onto conveyor belt 6
-Time 124: Put present WHISTLE with age 8 into sack
-Time 124: Put present BRACELET with age 16 onto conveyor belt 6
-Time 124: Put present BRACELET with age 15 onto conveyor belt 6
-Time 124: Put present WHISTLE with age 7 into sack
-Time 124: Put present FAKETATTOO with age 7 into sack
-Time 125: Put present WHISTLE with age 7 into sack
-Time 125: Put present BRACELET with age 17 onto conveyor belt 6
-Time 125: Put present DINOSAUR with age 5 into sack
-Time 125: Put present TRAIN with age 15 onto conveyor belt 6
-Time 125: Put present TRAIN with age 13 onto conveyor belt 6
-Time 125: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 125: Put present WHISTLE with age 9 into sack
-Time 125: Put present DOLL with age 6 into sack
-Time 125: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 121: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 121: Put present WHISTLE with age 5 into sack
+Time 121: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 121: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 121: Put present DOLL with age 15 onto conveyor belt 6
+Time 121: Put present FAKETATTOO with age 5 into sack
+Time 121: Put present TRAIN with age 12 onto conveyor belt 6
+Time 122: Put present DINOSAUR with age 5 into sack
+Time 122: Put present WHISTLE with age 9 into sack
+Time 122: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 122: Put present DINOSAUR with age 4 into sack
+Time 123: Put present DINOSAUR with age 10 onto conveyor belt 6
+Time 123: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 123: Put present FAKETATTOO with age 8 into sack
+Time 123: Put present BRACELET with age 5 into sack
+Time 123: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 123: Put present TRAIN with age 9 into sack
+Time 123: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 123: Put present WHTime 127: Put present FAKETATTOO with age 7 into sack
+Time 127: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 127: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 127: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 127: Put present WHISTLE with age 5 into sack
+Time 127: Put present DOLL with age 4 into sack
+Time 127: Put present BRACELET with age 5 into sack
+Time 127: Put present FAKETATTOO with age 7 into sack
+Time 127: Put present BRACELET with age 10 onto conveyor belt 6
+Time 127: Put present BRACELET with age 12 onto conveyor belt 6
+Time 127: Put preseTime 124: Put present DOLL with age 17 onto conveyor belt 6
+Time 125: Put present DOLL with age 10 onto conveyor belt 6
+Time 125: Put present DINOSAUR with age 13 onto conveyor belt 6
 Time 125: Put present DOLL with age 4 into sack
-Time 125: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 126: Put present DOLL with age 7 into sack
-Time 126: Put present DOLL with age 13 onto conveyor belt 6
-Time 126: Put present WHISTLE with age 5 into sack
-Time 126: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 126: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 126: Put present FAKETATTOO with age 4 into sack
-Time 126: Put present DOLL with age 7 into sack
-Time 126: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 126: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 126: Put present BRACELET with age 15 onto conveyor belt 6
-Time 128: Put present FAKETATTOO with age 5 into sack
-Time 128: Put present TRAIN with age 16 onto conveyor belt 6
-Time 128: Put present BRACELET with age 6 into sack
-Time 128: Put present DINOSAUR with age 7 into sack
-Time 128: Put present DOLL with age 11 onto conveyor belt 6
-Time 128: Put present BRACELET with age 8 into sack
-Time 128: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 128: Put present BRACELET with age 17 onto conveyor belt 6
-Time 128: Put present DINOSAUR with age 8 into sack
-Time 128: Put present WHISTLE with age 4 into sack
-Time 128: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 129: Put present DOLL with age 12 onto conveyor belt 6
-Time 129: Put present BRACELET with age 13 onto conveyor belt 6
-Time 129: Put present TRAIN with age 11 onto conveyor belt 6
-Time 129: Put present DINOSAUR with age 9 into sack
-Time 129: Put present BRACELET with age 12 onto conveyor belt 6
-Time 129: Put present WHISTLE with age 3 into sack
-Time 129: Put present BRACELET with age 4 into sack
-Time 130: Put present FAKETATTOO with age 8 into sack
-Time 130: Put present WHISTLE with age 4 into sack
-Time 130: Put present TRAIN with age 14 onto conveyor belt 6
-Time 130: Put present TRAIN with age 9 into sack
-Time 130: Put present WHISTLE with age 5 into sack
-Time 130: Put present TRAIN with age 9 into sack
+Time 125: Put present DINOSAUR with age 8 into sack
+Time 125: Put present FAKETATTOO with age 5 into sack
+Time 125: Put present WHISTLE with age 7 into sack
+Time 125: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 125: Put present WHISTLE with age 16 onto conveyor belt 6
+Time 125: Put present DOLL with age 16 onto conveyor belt 6
+Time 125: Put present WHISTLE with age 11 onto conveyor belt 6
+Time 126: Put present BRACELET with age 17 onto conveyor belt 6
+Time 126: Put present BRACELET with age 9 into sack
+Time 126: Put present DINOSAUR with age 9 into sack
+Time 126: Put present DINOSAUR with age 7 into sack
+Time 126: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 126: Put present TRAIN with age 15 onto conveyor belt 6
+Time 126: Put present TRAIN with age 8 into sack
+Time 126: Put present FAKETATTOO with age 6 into sack
+Time 126: Put present DOLL with age 16 onto conveyor belt 6
+Time 126: Put present FAKETATTOO with age 17 onto conveyor belt 6
+Time 126: Put present DINOSAUR with age 11 onto conveyor belt 6
+Time 126: Put present FAKETATTOO with age 8 into sack
+Time 127: Put present DOLL with age 5 into sack
+Time 127: Put present TRAIN with age 7 into sack
+Time 127: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 127: Put present TRAIN with age 14 onto conveyor belt 6
+Time 127: Put present DINOSAUR with age 9 into sack
+Time 127: Put present TRAIN with age 7 into sack
+Time 127: Put present TRAIN with age 12 onto conveyor belt 6
+Time 128: Put present BRACELET with age 16 onto conveyor belt 6
+Time 129: Put present DINOSAUR with age 5 into sack
+Time 129: Put present WHISTLE with age 15 onto conveyor belt 6
 Time 130: Put present DOLL with age 8 into sack
-Time 130: Put present TRAIN with age 4 into sack
-Time 130: Put present BRACELET with age 5 into sack
-Time 130: Put present FAKETATTOO with age 6 into sack
-Time 131: Put present BRACELET with age 13 onto conveyor belt 6
-Time 131: Put present FAKETATTOO with age 7 into sack
-Time 131: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 131: Put present WHISTLE with age 7 into sack
+Time 131: Put present FAKETATTOO with age 6 into sack
 Time 131: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 131: Put present BRACELET with age 13 onto conveyor belt 6
-Time 131: Put present DOLL with age 15 onto conveyor belt 6
-Time 131: Put present DOLL with age 4 into sack
-Time 131: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 131: Put present DOLL with age 16 onto conveyor belt 6
-Time 131: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 131: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 131: Put present WHISTLE with age 4 into sack
-Time 132: Put present FAKETATTOO with age 5 into sack
-Time 132: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 132: Put present WHISTLE with age 4 into sack
-Time 132: Put present FAKETATTOO with age 6 into sack
+Time 131: Put present DINOSAUR with age 9 into sack
+Time 132: Put present BRACELET with age 11 onto conveyor belt 6
+Time 132: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 132: Put present TRAIN with age 7 into sack
+Time 132: Put present WHISTLE with age 13 onto conveyor belt 6
 Time 132: Put present TRAIN with age 16 onto conveyor belt 6
-Time 132: Put present TRAIN with age 9 into sack
-Time 132: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 133: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 133: Put present DINOSAUR with age 14 onto conveyor belt 6
-Time 133: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 133: Put present BRACELET with age 13 onto conveyor belt 6
-Time 133: Put present DOLL with age 4 into sack
-Time 133: Put present DINOSAUR with age 12 onto conveyor belt 6
-Time 133: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 133: Put present DOLL with age 14 onto conveyor belt 6
-Time 134: Put present TRAIN with age 14 onto conveyor belt 6
-Time 134: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 134: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 135: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 135: Put present WHISTLE with age 9 into sack
-Time 135: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 136: Put present TRAIN with age 6 into sack
-Time 136: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 136: Put present DOLL with age 12 onto conveyor belt 6
-Time 136: Put present FAKETATTOO with age 9 into sack
-Time 136: Put present TRAIN with age 9 into sack
-Time 137: Put present FAKETATTOO with age 17 onto conveyor belt 6
-Time 137: Put present DOLL with age 16 onto conveyor belt 6
-Time 137: Put present WHISTLE with age 8 into sack
-Time 138: Put present TRAIN with age 17 onto conveyor belt 6
-Time 138: Put present DINOSAUR with age 6 into sack
-Time 138: Put present DOLL with age 4 into sack
-Time 138: Put present FAKETATTOO with age 8 into sack
-Time 138: Put present DOLL with age 12 onto conveyor belt 6
-Time 138: Put present TRAIN with age 11 onto conveyor belt 6
-Time 138: Put present DINOSAUR with age 9 into sack
-Time 138: Put present FAKETATTOO with age 9 into sack
-Time 138: Put present BRACELET with age 15 onto conveyor belt 6
-Time 138: Put present DOLL with age 12 onto conveyor belt 6
-Time 138: Put present DINOSAUR with age 6 into sack
-Time 139: Put present BRACELET with age 11 onto conveyor belt 6
-Time 139: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 139: Put present BRACELET with age 17 onto conveyor belt 6
-Time 139: Put present DINOSAUR with age 10 onto conveyor belt 6
-Time 139: Put present DOLL with age 8 into sack
-Time 139: Put present TRAIN with age 8 into sack
-Time 139: Put present TRAIN with age 11 onto conveyor belt 6
-Time 139: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 140: Put present FAKETATTOO with age 16 onto conveyor belt 6
-Time 140: Put present TRAIN with age 10 onto conveyor belt 6
-Time 140: Put present DINOSAUR with age 8 into sack
+Time 132: Put present BRACELET with age 4 into sack
+Time 132: Put present FAKETATTOO with age 8 into sack
+Time 132: Put present TRAIN with age 15 onto conveyor belt 6
+Time 133: Put present WHISTLE with age 6 into sack
+Time 133: Put present DOLL with age 7 into sack
+Time 135: Put present WHISTLE with age 5 into sack
+Time 135: Put present BRACELET with age 14 onto conveyor belt 6
+Time 135: Put present DINOSAUR with age 4 into sack
+Time 135: Put present BRACELET with age 15 onto conveyor belt 6
+Time 135: Put present BRACELET with age 5 into sack
+Time 135: Put present BRACELET with age 10 onto conveyor belt 6
+Time 135: Put present FAKETATTOO with age 8 into sack
+Time 135: Put present DINOSAUR with age 5 into sack
+Time 135: Put present DINOSAUR with age 7 into sack
+Time 135: Put present TRAIN with age 9 onto conveyor belt 6
+Time 135: Put present DOLL with age 13 onto conveyor belt 6
+Time 135: Put present BRACELET with age 5 into sack
+Time 135: Put present TRAIN with age 16 onto conveyor belt 6
+Time 135: Put present WHISTLE with age 10 onto conveyor belt 6
+Time 135: Put present FAKETATTOO with age 11 onto conveyor belt 6
+Time 135: Put present DOLL with age 12 onto conveyor belt 6
+Time 135: Put present DOLL with age 14 onto conveyor belt 6
+Time 135: Put present BRACELET with age 11 onto conveyor belt 6
+Time 140: Put present DINOSAUR with age 15 onto conveyor belt 6
+Time 140: Put present FAKETATTOO with age 10 onto conveyor belt 6
+Time 140: Put present BRACELET with age 12 onto conveyor belt 6
+Time 140: Put present WHISTLE with age 4 into sack
+Time 140: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 140: Put present FAKETATTOO with age 5 into sack
+Time 140: Put present TRAIN with age 11 onto conveyor belt 6
+Time 140: Put present TRAIN with age 16 onto conveyor belt 6
 Time 140: Put present BRACELET with age 16 onto conveyor belt 6
-Time 140: Put present DOLL with age 16 onto conveyor belt 6
-Time 140: Put present WHISTLE with age 8 into sack
-Time 141: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 140: Put present DINOSAUR with age 13 onto conveyor belt 6
+Time 140: Put present DOLL with age 17 onto conveyor belt 6
+Time 140: Put present WHISTLE with age 9 into sack
+Time 140: Put present DOLL with age 4 into sack
+Time 140: Put present BRACELET with age 4 into sack
+Time 140: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 140: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 140: Put present DINOSAUR with age 4 into sack
+Time 140: Put present FAKETATTOO with age 5 into sack
+Time 140: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 140: Put present DINOSAUR with age 5 into sack
+Time 140: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 140: Put present FAKETATTOO with age 9 into sack
+Time 140: Put present TRAIN with age 13 onto conveyor belt 6
+Time 140: Put present TRAIN with age 9 into sack
+Time 140: Put present TRAIN with age 6 into sack
 Time 141: Put present BRACELET with age 13 onto conveyor belt 6
-Time 141: Put present BRACELET with age 8 into sack
-Time 141: Put present WHISTLE with age 6 into sack
-Time 141: Put present TRAIN with age 12 onto conveyor belt 6
-Time 141: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 141: Put present FAKETATTOO with age 14 onto conveyor belt 6
 Time 141: Put present BRACELET with age 9 into sack
-Time 141: Put present DINOSAUR with age 6 into sack
-Time 141: Put present BRACELET with age 17 onto conveyor belt 6
-Time 142: Put present TRAIN with age 12 onto conveyor belt 6
-Time 142: Put present TRAIN with age 13 onto conveyor belt 6
-Time 142: Put present TRAIN with age 14 onto conveyor belt 6
-Time 142: Put present DOLL with age 14 onto conveyor belt 6
-Time 142: Put present WHISTLE with age 13 onto conveyor belt 6
+Time 141: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 141: Put present DOLL with age 8 into sack
+Time 141: Put present DOLL with age 14 onto conveyor belt 6
+Time 141: Put present BRACELET with age 15 onto conveyor belt 6
+Time 141: Put present DOLL with age 13 onto conveyor belt 6
+Time 141: Put present BRACELET with age 12 onto conveyor belt 6
+Time 141: Put present BRACELET with age 6 into sack
+Time 142: Put present WHISTLE with age 17 onto conveyor belt 6
+Time 142: Put present DINOSAUR with age 5 into sack
+Time 142: Put present DINOSAUR with age 7 into sack
 Time 142: Put present WHISTLE with age 5 into sack
-Time 142: Put present BRACELET with age 14 onto conveyor belt 6
-Time 143: Put present DOLL with age 9 into sack
-Time 143: Put present TRAIN with age 14 onto conveyor belt 6
-Time 143: Put present BRACELET with age 9 into sack
-Time 143: Put present FAKETATTOO with age 8 into sack
-Time 143: Put present DOLL with age 13 onto conveyor belt 6
-Time 143: Put present BRACELET with age 13 onto conveyor belt 6
-Time 143: Put present DINOSAUR with age 6 into sack
-Time 143: Put present DOLL with age 12 onto conveyor belt 6
-Time 143: Put present WHISTLE with age 4 into sack
-Time 143: Put present DINOSAUR with age 4 into sack
-Time 143: Put present WHISTLE with age 13 onto conveyor belt 6
-Time 144: Put present WHISTLE with age 14 onto conveyor belt 6
-Time 144: Put present DOLL with age 9 into sack
-Time 144: Put present WHISTLE with age 4 into sack
-Time 144: Put present DOLL with age 12 onto conveyor belt 6
-Time 144: Put present WHISTLE with age 15 onto conveyor belt 6
-Time 144: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 144: Put present FAKETATTOO with age 4 into sack
-Time 144: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 144: Put present FAKETATTOO with age 6 into sack
-Time 145: Put present DINOSAUR with age 17 onto conveyor belt 6
-Time 145: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 145: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 145: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 146: Put present FAKETATTOO with age 12 onto conveyor belt 6
-Time 146: Put present BRACELET with age 17 onto conveyor belt 6
-Time 146: Put present DINOSAUR with age 4 into sack
-Time 146: Put present BRACELET with age 14 onto conveyor belt 6
-Time 146: Put present BRACELET with age 14 onto conveyor belt 6
-Time 146: Put present WHISTLE with age 17 onto conveyor belt 6
-Time 146: Put present DINOSAUR with age 15 onto conveyor belt 6
-Time 146: Put present WHISTLE with age 5 into sack
-Time 146: Put present WHISTLE with age 9 into sack
-Time 146: Put present DOLL with age 5 into sack
-Time 146: Put present FAKETATTOO with age 15 onto conveyor belt 6
-Time 146: Put present DOLL with age 13 onto conveyor belt 6
-Time 146: Put present FAKETATTOO with age 8 into sack
-Time 146: Put present DOLL with age 7 into sack
-Time 146: Put present FAKETATTOO with age 13 onto conveyor belt 6
-Time 146: Put present DOLL with age 8 into sack
-Time 146: Put present WHISTLE with age 12 onto conveyor belt 6
-Time 147: Put present DOLL with age 10 onto conveyor belt 6
-Time 147: Put present WHISTLE with age 9 into sack
-Time 147: Put present WHISTLE with age 9 into sack
-Time 147: Put present DINOSAUR with age 6 into sack
-Time 147: Put present TRAIN with age 6 into sack
-Time 147: Put present FAKETATTOO with age 10 onto conveyor belt 6
-Time 148: Put present WHISTLE with age 10 onto conveyor belt 6
-Time 148: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 148: Put present DINOSAUR with age 11 onto conveyor belt 6
-Time 148: Put present FAKETATTOO with age 7 into sack
-Time 148: Put present TRAIN with age 13 onto conveyor belt 6
-Time 148: Put present WHISTLE with age 7 into sack
-Time 148: Put present DOLL with age 16 onto conveyor belt 6
-Time 148: Put present DINOSAUR with age 13 onto conveyor belt 6
-Time 148: Put present DOLL with age 8 into sack
-Time 148: Put present WHISTLE with age 11 onto conveyor belt 6
-Time 149: Put present TRAIN with age 8 into sack
-Time 149: Put present TRAIN with age 6 into sack
-Time 149: Put present DOLL with age 15 onto conveyor belt 6
-Time 149: Put present DINOSAUR with age 7 into sack
-Time 149: Put present DINOSAUR with age 16 onto conveyor belt 6
-Time 149: Put present TRAIN with age 11 onto conveyor belt 6
-Time 149: Put present WHISTLE with age 4 into sack
-Time 149: Put present BRACELET with age 15 onto conveyor belt 6
-Time 149: Put present TRAIN with age 11 onto conveyor belt 6
-Time 149: Put present WHISTLE with age 16 onto conveyor belt 6
-Time 149: Put present WHISTLE with age 8 into sack
+Time 142: Put present DOLL with age 17 onto conveyor belt 6
+Time 142: Put present BRACELET with age 10 onto conveyor belt 6
+Time 142: Put present FAKETATTOO with age 14 onto conveyor belt 6
+Time 143: Put present DOLL with age 10 onto conveyor belt 6
+Time 143: Put present DINOSAUR with age 5 into sack
+Time 143: Put present WHISTLE with age 9 into sack
+Time 143: Put present TRAIN with age 9 into sack
+Time 143: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 143: Put present FAKETATTOO with age 12 onto conveyor belt 6
+Time 143: Put present TRAIN with age 16 onto conveyor belt 6
+Time 143: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 143: Put present DOLL with age 6 into sack
+Time 143: Put present DOLL with age 10 onto conveyor belt 6
+Time 143: Put present WHISTLE with age 14 onto conveyor belt 6
+Time 143: Put present TRAIN with age 7 into sack
+Time 144: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 144: Put present BRACELET with age 9 into sack
+Time 144: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 144: Put present TRAIN with age 11 onto conveyor belt 6
+Time 146: Put present DOLL with age 16 onto conveyor belt 6
+Time 146: Put present BRACELET with age 4 into sack
+Time 147: Put present DINOSAUR with age 14 onto conveyor belt 6
+Time 147: Put present BRACELET with age 15 onto conveyor belt 6
+Time 147: Put present TRAIN with age 16 onto conveyor belt 6
+Time 147: Put present WHISTLE with age 15 onto conveyor belt 6
+Time 147: Put present DOLL with age 15 onto conveyor belt 6
+Time 148: Put present DINOSAUR with age 8 into sack
+Time 148: Put present BRACELET with age 4 into sack
+Time 148: Put present WHISTLE with age 8 into sack
+Time 148: Put present DINOSAUR with age 6 into sack
+Time 148: Put present DINOSAUR with age 6 into sack
+Time 148: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 148: Put present DINOSAUR with age 8 into sack
+Time 148: Put present BRACELET with age 14 onto conveyor belt 6
+Time 148: Put present FAKETATTOO with age 13 onto conveyor belt 6
+Time 149: Put present DOLL with age 13 onto conveyor belt 6
+Time 149: Put present BRACELET with age 6 into sack
 Time 149: Put present DINOSAUR with age 6 into sack
-Time 149: Put present TRAIN with age 9 into sack
+Time 149: Put present BRACELET with age 4 into sack
+Time 149: Put present TRAIN with age 13 onto conveyor belt 6
+Time 149: Put present TRAIN with age 17 onto conveyor belt 6
+LE with age 11 onto conveyor belt 6
+Time 146: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 146: Put present DOLL with age 5 into sack
+Time 146: Put present WHISTLE with age 7 into sack
+Time 147: Put present DINOSAUR with age 16 onto conveyor belt 6
+Time 147: Put present DINOSAUR with age 12 onto conveyor belt 6
+Time 147: Put present WHISTLE with age 7 into sack
+Time 147: Put present DINOSAUR with age 9 into sack
+Time 147: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 147: Put present BRACELET with age 13 onto conveyor belt 6
+Time 147: Put present DOLL with age 13 onto conveyor belt 6
+Time 147: Put present DOLL with age 13 onto conveyor belt 6
+Time 147: Put present BRACELET with age 13 onto conveyor belt 6
+Time 147: Put present WHISTLE with age 12 onto conveyor belt 6
+Time 148: Put present TRAIN with age 6 into sack
+Time 148: Put present DINOSAUR with age 17 onto conveyor belt 6
+Time 148: Put present DOLL with age 9 into sack
+Time 148: Put present DOLL with age 15 onto conveyor belt 6
+Time 148: Put present TRAIN with age 5 into sack
+Time 149: Put present DOLL with age 4 into sack
+Time 149: Put present BRACELET with age 17 onto conveyor belt 6
+Time 149: Put present BRACELET with age 17 onto conveyor belt 6
+Time 149: Put present FAKETATTOO with age 14 onto conveyor belt 6

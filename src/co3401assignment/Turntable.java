@@ -70,16 +70,14 @@ public class Turntable extends ThreadBase implements Runnable {
                 if (sack.inAgeRange(currentPresent.getAge())) {
                     // Check if there is space
                     if(sack.hasSpace()) {
-                        // Get the lock
-                            // Insert the present
-                            sack.insertPresent(currentPresent);
-                            
-                            // Logging
-                            log("Put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
-                            sack.releaseLock();
-                            currentPresent = null;
-                            return;
-                        
+                        // Insert the present
+                        sack.insertPresent(currentPresent);
+
+                        // Logging
+                        log("Put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
+                        sack.releaseLock();
+                        currentPresent = null;
+                        return;
                     }    
                 }
                 // Turntable alignment time
