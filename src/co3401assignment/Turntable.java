@@ -75,7 +75,6 @@ public class Turntable extends ThreadBase implements Runnable {
 
                         // Logging
                         log("Put present " + currentPresent.getPresentType() + " with age " + currentPresent.getAge() + " into sack");
-                        sack.releaseLock();
                         currentPresent = null;
                         return;
                     }    

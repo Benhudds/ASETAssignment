@@ -1,58 +1,9 @@
-Time 1: red 19	 Deposited toy BRACELET with age 14 on belt 2
-Time 2: red 19	 Deposited toy BRACELET with age 4 on belt 3
-Time 4: red 19	 Deposited toy FAKETATTOO with age 1 on beTime 8Time 6: red 19	 Deposited toy TRAIN with age 15 on belt 2
-Time 9: red 19	 Deposited toy DOLL with age 13 on belt 1
-Time 10: red 19	 Deposited toy FAKETATTOO with age 11 on beTime 1Time 13: red 19	 Deposited toy DOLL with age 12 on belt 2
-Time 15: red 19	 Deposited toy BRACELET with age 17 on beTime 19: red 19	 Deposited toy FAKETATTOO with age 5 on belt 3
-Time 22: red 19	 Deposited toy FAKETATTOO with age 4 on belt 2TTime 25: red 19	 Deposited toy DOLL with age 13 on belt 1
-TimeTime 26: red 19	 Deposited toy FAKETATTOO with age 10 on Time 30: red 19	 Deposited toy TRAIN with age 4 on belt 2
-Time 33: red 19	 Deposited toy DINOSAUR with age 3 on belt 3
-Time 35: red 19	 Deposited toy DINOSAUR with age 1 on belt 2
-Time 37: red 19	 Deposited toy DOLL with age 13 on belt 2
-Time 38: red 19	 Deposited toy WHISTLE with age 8 on belt 2
-Time 41: rTime 42: red 19	 Deposited toy DOLL with age 14 on belt 3
-Time 43: red 19	 Deposited toy WHISTLE with age 13 on belt Time 48: red 19	 Deposited toy DOLL with age 8 on belt 1
-TimeTime 48: red 19	 Deposited toy FAKETATTOO with age 6 on beltTimeTime 50: red 19	 Deposited toy BRACELET with age 3 on belTime Time 51: red 19	 Deposited toy FAKETATTOO with age 6 on Time 58: red 19	 Deposited toy WHISTLE with age 13 on belt 3
-Time 59: red 19	 Deposited toy DINOSAUR with age 6 on belt 1
-Time 60: red 19	 Deposited toy FAKETATTOO with age 7 on belt 3
-Time 66: red 19	 Deposited toy TRAIN with age 15 on belt 1
-Time 68: red 19	 Deposited toy WHISTLE with age 15 on belt 3
-Time 70: red 19	 Deposited toy WHISTLE with age 10 on belt 1
-Time 75: red 19	 Deposited toy TRAIN with age 6 on belt 2
-Time 77: red 19	 Deposited toy TRAIN with age 3 on belt 2
-Time 79: red 19	 Deposited toy BRACELET with age 17 on belt 1
-Time 82: red 19	 Deposited toy BRACELET with age 12 on belt 1
-Time 83: red 19	 Deposited toy WHISTLE with age 16 on belt 2
-Time 84: red 19	 Deposited toy DOLL with age 17 on belt 3
-Time 85: red 19	 Deposited toy DOLL with age 1 on belt 3
-Time 89: red 19	 Deposited toy DOLL with age 6 on belt 3
-Time 91: red 19	 Deposited toy FAKETATTOO with age 14 on belt 2
-Time 93: red 19	 Deposited toy TRAIN with age 12 on belt 2
-Time 94: red 19	 Deposited toy FAKETATTOO with age 16 on belt 2
-Time 96: red 19	 Deposited toy FAKETATTOO with age 5 on belt 1
-Time 102: red 19	 Deposited toy TRAIN with age 5 on belt 1
-Time 103: red 19	 Deposited toy WHISTLE with age 7 on belt 3
-Time 105: red 19	 Deposited toy WHISTLE with age 13 on belt 1
-Time 108: red 19	 Deposited toy BRACELET with age 14 on belt 2
-Time 110: red 19	 Deposited toy DOLL with age 2 on belt 1
-Time 113: red 19	 Deposited toy FAKETATTOO with age 11 on belt 1
-Time 118: red 19	 Deposited toy BRACELET with age 16 on belt 1
-Time 120: red 19	 Deposited toy DOLL with age 10 on belt 1
-Time 127: red 19	 Deposited toy DOLL with age 5 on belt 2
-Time 129: red 19	 Deposited toy TRAIN with age 5 on belt 1
-Time 134: red 19	 Deposited toy TRAIN with age 2 on belt 2
-Time 136: red 19	 Deposited toy BRACELET with age 17 on belt 1
-Time 138: red 19	 Deposited toy WHISTLE with age 4 on belt 3
-Time 139: red 19	 Deposited toy WHISTLE with age 1 on belt 1
-Time 141: red 19	 Deposited toy BRACELET with age 1 on belt 3
-Time 142: red 19	 Deposited toy DOLL with age 1 on belt 1
-Time 143: red 19	 Deposited toy FAKETATTOO with age 8 on belt 2
-Time 144: red 19	 Deposited toy BRACELET with age 15 on belt 2
-Time 147: red 19	 Deposited toy DOLL with age 13 on belt 1
-Time 150: Was interrupted
-lt 3
-Time 140: red 19	 Deposited toy FAKETATTOO with age 1 on belt 1
-Time 142: red 19	 Deposited toy WHISTLE with age 5 on belt 1
-Time 144: red 19	 Deposited toy TRAIN with age 11 on belt 1
-Time 149: red 19	 Deposited toy TRAIN with age 13 on belt 2
-Time 150: Was interrupted
+Time 1: red 19	 Deposited toy DINOSAUR with age 0 on belt 2
+Time 3: red 19	 Deposited toy DINOSAUR with age 9 on belt 3
+Time 5: red 19	 Deposited toy WHISTLE with age 7 on belt 2
+Time 7: red 19	 Deposited toy DINOSAUR with age 6 on belt 1
+Time 10: red 19	 Deposited toy DOLL with age 16 on belt 1
+Time 11: red 19	 Deposited toy WHISTLE with age 8 on belt 1
+Time 13: red 19	 Deposited toy DINOSAUR with age 4 on belt 3
+Time 14: red 19	 Deposited toy WHISTLE with age 16 on belt 3
+Time 15: red 19	 Deposited toy WHISTLE with age 4 on belt 1

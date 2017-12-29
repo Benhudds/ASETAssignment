@@ -1,53 +1,6 @@
-Time 1: red 11	 Deposited toy DINOSAUR with age 15 on belt 1
-Time 2: red 11	 Deposited toy DINOSAUR with age 16 on belt 3
-Time 4: red 11	 Deposited toy DOLL with age 17 on belt 3
-Time 6: red 11	 Deposited toy TRAIN with age 14 on belt 3
-Time 11: red 11	 Deposited toy WHISTLE with age 3 on belt 2
-Time 13: red 11	 Deposited toy BRACELET with age 12 on belt 1
-Time 14: red 11	 Deposited toy TRAIN with age 10 on belt 2
-Time 16: red 11	 Deposited toy BRACELET with age 9 on belt 1
-Time 18: red 11	 Deposited toy WHISTLE with age 7 on belt 1TTime 20: red 11	 Deposited toy BRACELET with age 2 on beltTimeTime 26: red 11	 Deposited toy TRAIN with age 5 on belt 3
-Time 30: red 11	 Deposited toy DOLL with age 2 on belt 2
-Time 31: red 11	 Deposited toy FAKETATTOO with age 2 on belt 3
-Time 32: red 11	 Deposited toy BRACELET with age 14 on belt 2
-Time 34: red 11	 Deposited toy WHISTLE with age 6 on belt 3
-Time 36: red 11	 Deposited toy BRACELET with age 11 on belt 1
-Time 42: red 11	 Deposited toy TRAIN with age 7 on belt 1
-Time 43: red 11	 Deposited toy WHISTLE with age 17 on belt 2
-Time 4Time 48: red 11	 Deposited toy DINOSAUR with age 3 oTime 48: red 11	 Deposited toy DINOSAUR with age 1 on belt 2
-Time 50: red 11	 Deposited toy BRACELET with age 5 on belt 3
-Time 52: red 11	 Deposited toy WHISTLE with age 4 on belt 3
-Time 5Time 59: red 11	 Deposited toy TRAIN with age 7 on belt 3
-Time 60: red 11	 Deposited toy BRACELET with age 0 on belt 1
-Time 65: red 11	 Deposited toy DINOSAUR with age 6 on belt 3
-Time 66: red 11	 Deposited toy WHISTLE with age 3 on belt 1
-Time 67: red 11	 Deposited toy FAKETATTOO with age 15 on belt 3
-Time 69: red 11	 Deposited toy FAKETATTOO with age 1 on belt 3
-Time 71: red 11	 Deposited toy FAKETATTOO with age 1 on belt 1
-Time 77: red 11	 Deposited toy FAKETATTOO with age 14 on belt 2
-Time 78: red 11	 Deposited toy DINOSAUR with age 8 on belt 1
-Time 80: red 11	 Deposited toy BRACELET with age 0 on belt 2
-Time 81: red 11	 Deposited toy TRAIN with age Time 79: red Time 83: red 11	 Deposited toy WHISTLE with age 1Time 85: red 11	 Deposited toy FAKETATTOO with age 12 on belt 1
-Time 86: rTime 91: red 11	 Deposited toy TRAIN with age 2 on belt 2
-Time 94: red 11	 Deposited toy DOLL with age 0 on belt 1
-Time 95: red 11	 Deposited toy BRACELET with age 14 Time 96: reTime 101: red 11	 Deposited toy DINOSAUR with age 9 on belt 1
-Time 103: red 11	 Deposited toy FAKETATTOO with age 16 on belt 3
-Time 105: red 11	 Deposited toy WHISTLE withTime 105: red 11	 Deposited toy BRACELET with age 12 on belt 3
-Time 107: red 11	 Deposited toy TRAIN with age 12 on belt 1
-Time 108: red 11	 Deposited toy WHISTLE with age 16 on belt 2
-Time 110: red 11	 Deposited toy WHISTLE with age 2 on belt 3
-Time 112: rTime 116: red 11	 Deposited toy DOLL with age 11 on Time 114Time 118: red 11	 Deposited toy BRACELET with age 1 oTime 115: Time 120: red 11	 Deposited toy DINOSAUR with age 4 on belt 2
-Time 121: red 11	 Deposited toy DOLL with age 7 on beTime 1Time 123: red 11	 Deposited toy FAKETATTOO with age 16 on beTime 1Time 127: red 11	 Deposited toy FAKETATTOO with age 1 on belt 1
-Time 129: red 11	 Deposited toy DINOSAUR with age 5 on belt 1
-Time 131: red 11	 Deposited toy WHISTLE with age 2 on belt 2
-Time 136: red 11	 Deposited toy FAKETATTOO with age 13 on belt 1
-Time 138: red 11	 Deposited toy BRACELET with age 5 on belt 1
-Time 142: red 11	 Deposited toy DOLL with age 8 on belt 2
-Time 145: red 11	 Deposited toy DOLL with age 6 on belt 2
-Time 146: red 11	 Deposited toy FAKETATTOO with age 7 on belt 2
-Time 148: red 11	 Deposited toy DINOSAUR with age 0 on belt 2
-Time 150: Was interrupted
-AUR with age 16 on belt 1
-Time 146: red 11	 Deposited toy BRACELET with age 4 on belt 1
-Time 148: red 11	 Deposited toy DINOSAUR with age 16 on belt 3
-Time 150: Was interrupted
+Time 1: red 11	 Deposited toy BRACELET with age 5 on belt 3
+Time 3: red 11	 Deposited toy BRACELET with age 17 on belt 1
+Time 6: red 11	 Deposited toy BRACELET with age 8 on belt 2
+Time 8: red 11	 Deposited toy DINOSAUR with age 17 on belt 3
+Time 13: red 11	 Deposited toy BRACELET with age 13 on belt 1
+Time 15: red 11	 Deposited toy TRAIN with age 7 on belt 2
