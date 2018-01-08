@@ -9,6 +9,9 @@ public class Clock implements Runnable {
     // Tick counter
     private static int tickCount;
     
+    // Remainder for modulus operation to print out hour
+    private int remainder;
+    
     // Getter for the tick counter 
     public static int getTime() {
         return tickCount;
@@ -17,6 +20,7 @@ public class Clock implements Runnable {
     // Constructor
     public Clock() {
         tickCount = 0;
+        remainder = 0;
     }
     
     // Run method
@@ -24,6 +28,13 @@ public class Clock implements Runnable {
     public void run() {
         try {
             while(true) {
+                int temp = (tickCount + 1)%30;
+                if (temp < remainder) {
+                    System.out.println("One hour passed");
+                }
+                
+                remainder = temp;
+                
                 Thread.sleep(1000);
                 tickCount++;
             }

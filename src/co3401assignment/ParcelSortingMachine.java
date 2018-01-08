@@ -50,13 +50,13 @@ public class ParcelSortingMachine implements Runnable {
         int numberOfRed = 20;
         
         redHattedElves = new Elf[numberOfRed];
-        for(int i = 0; i < 20; i++) {
+        for(int i = 0; i < numberOfRed; i++) {
             redHattedElves[i] = new RedHattedElf("red " + (i + 1), entry, sacks);
         }
        
-        int numberOfGreen = 1;
+        int numberOfGreen = 2;
         greenHattedElves = new Elf[numberOfGreen];
-        for(int i = 0; i < 1; i++) {
+        for(int i = 0; i < numberOfGreen; i++) {
             greenHattedElves[i] = new GreenHattedElf("green " + (i + 1), sacks);
         }
     }

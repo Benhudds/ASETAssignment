@@ -104,6 +104,19 @@ public class RedHattedElf extends Elf {
         while(!stopped) {
             try {
             
+            int temp = Clock.getTime()%30;
+            if (temp < remainder) {
+                System.out.print("Red elf " + name + " has deposited " +
+                        totalGiftsPlacedOnConveyor + " presents" + "\n" +
+                        "Red elf " + name + " spent " +
+                        totalTimeWaitingAtConveyor / 1000 + 
+                        " ticks waiting at the conveyor" + "\n" + "Red elf " +
+                        name + " has fed the reindeer " +
+                        totalTimesReindeerFed + " times" + "\n");
+            }
+            
+            remainder = temp;
+                
             // Check if more than half the sacks are more than half full
             // Get the number of sacks more than half full
             int numberOfSacksMoreThanHalfFull = 0;

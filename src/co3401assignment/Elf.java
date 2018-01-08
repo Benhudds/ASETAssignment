@@ -9,6 +9,9 @@ public abstract class Elf extends ThreadBase implements Runnable{
     // Name attribute
     protected String name;
     
+    // Clock remainder for logging every hour
+    protected int remainder;
+    
     // Getter for the name
     public String getName()
     {
@@ -21,5 +24,6 @@ public abstract class Elf extends ThreadBase implements Runnable{
         
         this.name = name;
         stopped = false;
+        remainder = 0;
     }
 }

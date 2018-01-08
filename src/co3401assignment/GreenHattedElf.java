@@ -45,6 +45,17 @@ public class GreenHattedElf extends Elf {
         while(!stopped)
         {
             try {
+                int temp = Clock.getTime()%30;
+                if (temp < remainder) {
+                    System.out.print("Green elf " + name + " has picked up " +
+                            totalSacksTaken + " sacks" + "\n" +
+                            "Green elf " + name + " spent " +
+                            totalTimeWaitingForSacksToBeFilled / 1000 + 
+                            " ticks waiting for sacks to be filled" + "\n");
+                }
+            
+            remainder = temp;
+                
                 for(int sackIndex = 0; sackIndex < sacks.length; sackIndex++) {
                     // Get the current sack
                     Sack sack = sacks[sackIndex];
