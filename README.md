@@ -1,4 +1,5 @@
 # ASETAssignment
+# A multi-threaded assignment using semaphores
 
 An indivudal third year assignment for Advanced Software Engineering Techniques that demonstrates multi-threaded programming techniques using semaphores.
 
